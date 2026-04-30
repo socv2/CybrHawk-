@@ -83,4 +83,4 @@ We recommend approving the implementation of the Proactive Dark Web Alert Servic
 
 This service is included with our SIEM platform, requiring no additional investment, only the internal approval to begin strengthening our customer partnerships in this innovative way."
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>

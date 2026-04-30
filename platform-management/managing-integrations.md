@@ -16,7 +16,7 @@ Please note: Your account must have the ability to manage integrations to be abl
 
 Below is an example of what you would see if you have some integrations deployed:
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -24,7 +24,7 @@ Below is an example of what you would see if you have some integrations deployed
 
 To add an integration to your tenant, hover over the 'ADD' button in the upper right-hand corner of the page and select your desired integration from the drop-down list:
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Specific integration information can be found in the [SIEM Integrations knowledge base](https://docs.threatdefence.com/siem-integrations/siem-integrations)

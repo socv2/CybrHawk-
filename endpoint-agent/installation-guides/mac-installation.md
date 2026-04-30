@@ -28,7 +28,7 @@ sudo ./TD_Endpoint_MacOS_Intel.run install --activation_code ***your Activation 
 
 5. The installer should complete, and provide output to your terminal.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Uninstall
 

@@ -78,7 +78,7 @@ Access the platform analyst console. In summary, you can investigate, hunt, tria
 
     * **Security Detections Table**: Lists alerts by Name and Severity. Sort by severity, hover over any alert name to filter in/out and investigate a single alert:
 
-    <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
     * Charts and Aggregations:
     * Anomalies (e.g., Open, High Risk).

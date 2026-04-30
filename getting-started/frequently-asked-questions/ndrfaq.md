@@ -7,20 +7,20 @@ Many options:
 * On the main Security Detections dashboard, under Data Source drop down menu, choose Network Sensor or Network Intrusion;
 *   OR click on the NDR section in the pie chart:
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 * Under Main menu/My SOC/Alerts\&Detections/Network Behavior and Network Intrusion dashboards.
 
 ## How can I see all network traffic events (not alerts)
 
 Under main menu/Network. Network traffic flows contains all traffic metadata for full assurance, so breaches will be recorded even if not detected and includes all business traffic. The other dashboards contain data for individual traffic types:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## How to inspect incoming traffic only?
 
 In the top right corner, click on inbound to see all inbound traffic:
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## How to see all anomalies and attacks?
 

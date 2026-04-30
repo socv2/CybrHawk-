@@ -10,7 +10,7 @@ description: >-
 
 To add or edit users, login to the customer portal and navigate to "My Tenants" then Click on "Users" as below:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Note: You will need be an Admin within your MSP or Tenant, or have the 'IAM Admin' permission assigned to you user, to be able to see and manage other users.
@@ -72,7 +72,7 @@ Tenant User: A tenant user will only be able to access and manage data for tenan
 
 To reset a users password or MFA, click on the edit icon for their user and select the relevant option from the "Reset Options"
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

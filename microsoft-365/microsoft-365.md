@@ -21,46 +21,54 @@ Enable auditing before you continue. Follow Microsoft’s guide to [turn auditin
 
 1. Download CybrHawk’s Entra ID integration certificate from the SOC team.
 2. Sign in to the [Entra ID portal](https://portal.azure.com).
-3.  Open **Microsoft Entra ID**.
+3. Open **Microsoft Entra ID**
 
-    [![Microsoft Entra ID in the Azure portal](<../.gitbook/assets/Screenshot 2026-04-30 144909.png>)](../.gitbook/assets/entrawelcome.png)
-4.  Select **App registrations** and click **New registration**.
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-    [![App registrations in Microsoft Entra ID](../.gitbook/assets/appregistration1.png)](../.gitbook/assets/Screenshot_appregistration.png)
-5.  Enter the required details, then click **Register**.
+4. Select **App registrations** and click **New registration**
 
-    [![New app registration form in Microsoft Entra ID](../.gitbook/assets/appregistration2.png)](../.gitbook/assets/Screenshot_appregistration2.png)
-6.  Save the **Application (client) ID** and **Directory (tenant) ID** for later.
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-    [![Application overview showing client ID and tenant ID](../.gitbook/assets/appregistration3.png)](../.gitbook/assets/Screenshot_appregistration3.png)
-7.  Open **Certificates & secrets**.
+5. Enter the required details, then click **Register**
 
-    [![Certificates and secrets page in the app registration](../.gitbook/assets/Screenshot_certificateandsecret.png)](../.gitbook/assets/Screenshot_certificateandsecret.png)
-8.  Click **Upload certificate**.
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-    [![Upload certificate option in the certificates and secrets page](../.gitbook/assets/Screenshot_certificateandsecret.png)](../.gitbook/assets/Screenshot_certificateandsecret.png)
+6. Save the **Application (client) ID** and **Directory (tenant) ID** for later
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+7. Open **Certificates & secrets**.
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+8. Click **Upload certificate**
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
 9. Upload the certificate from step 1, then click **Add**.
 
 ***
 
 ## Step 3: Grant API Permissions
 
-1.  After creating the application, grant permissions to the Office 365 Management APIs.
+1. After creating the application, grant permissions to the Office 365 Management APIs
 
-    [![Office 365 Management APIs option in API permissions](../.gitbook/assets/Screenshot_apipermissions.png)](../.gitbook/assets/Screenshot_apipermissions.png)
-2.  Open **API permissions** and select **Office 365 Management APIs**.
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-    [![API permissions page showing Office 365 Management APIs](../.gitbook/assets/apiperms.png)](../.gitbook/assets/apiperms.png)
-3. Select **Application permissions** and enable the following:
+1. Open **API permissions** and select **Office 365 Management APIs**
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+1. Select **Application permissions** and enable the following:
 
 ```
 ActivityFeed.Read
 ActivityFeed.ReadDlp
 ```
 
-4.  Click **Grant admin consent** and confirm.
+4. Click **Grant admin consent** and confirm
 
-    [![Grant admin consent action for Office 365 Management APIs](../.gitbook/assets/grantadminconsent.png)](../.gitbook/assets/Screenshot_grantadminconsent.png)
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
