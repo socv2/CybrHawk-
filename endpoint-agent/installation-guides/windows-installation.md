@@ -9,16 +9,16 @@
    Your **Activation Code** will be displayed.
 2.  Select **Windows**, then click **Generate Download Link** followed by **Click Here to Download**.
 
-    ![Generate Download Link](../../.gitbook/assets/gendllink_6.png)
+    ![Generate Download Link](<../../.gitbook/assets/Screenshot 2026-04-30 113435.png>)
 3.  After the installer downloads, double-click it to launch the setup wizard. Enter your **Activation Code** from the portal and click **Next**.
 
-    ![MSI Activation](../../.gitbook/assets/activate_6.png)
+    ![MSI Activation](<../../.gitbook/assets/Screenshot 2026-04-30 113740.png>)
 
-    ![MSI Activation Check](../../.gitbook/assets/activate_check_6.png)
+    ![MSI Activation Check](<../../.gitbook/assets/Screenshot 2026-04-30 113955.png>)
 4.  Review the Sysinternals End-User License Agreement (EULA).\
     Tick the checkbox to accept, then click **Next**.
 
-    ![MSI Install Sysinternals](../../.gitbook/assets/sysinternals.png)
+    ![MSI Install Sysinternals](<../../.gitbook/assets/Screenshot 2026-04-30 114045.png>)
 
 > **Note:**\
 > Sysinternals are Microsoft tools used to enhance endpoint telemetry. CybrHawk recommends accepting the EULA.
@@ -29,7 +29,7 @@
 
 5.  (Optional) You may see an advanced option to override the Sysinternals download source. Leave this blank unless required, then click **Next**.
 
-    ![MSI Sysinternals Redist](../../.gitbook/assets/sysinternals_redist.png)
+    ![MSI Sysinternals Redist](<../../.gitbook/assets/Screenshot 2026-04-30 114310.png>)
 
 > **Note::**\
 > For restricted/offline networks, see **Advanced Windows Install**:\
@@ -37,10 +37,10 @@
 
 6.  Click **Install** to begin.
 
-    ![MSI Ready To Install](../../.gitbook/assets/ready_to_install.png)
+    ![MSI Ready To Install](<../../.gitbook/assets/Screenshot 2026-04-30 114503.png>)
 7.  When installation completes, click **Finish**.
 
-    ![MSI Install Wizard Completion](../../.gitbook/assets/complete_6.png)
+    ![MSI Install Wizard Completion](<../../.gitbook/assets/Screenshot 2026-04-30 115531.png>)
 
 ***
 
@@ -66,7 +66,7 @@ msiexec.exe /i TD_Endpoint.msi /qn ACTIVATION_CODE=xxx SYSINTERNALS_ACCEPT_EULA=
 1. Go to **“Apps & Features"** or **"Add/Remove Programs”**.
 2. Type **“TD\_Endpoint”**, choose TD\_Endpoint and click **“Uninstall”**.
 
-![uninstall](../../.gitbook/assets/uninstall_6.png)
+![uninstall](<../../.gitbook/assets/Screenshot 2026-04-30 120639.png>)
 
 ### Advanced Installation - Group Policy
 
@@ -76,11 +76,11 @@ For enterprise deployments, see our article on [MSI Transform files](deploying-v
 
 1. Open PowerShell by pressing `Windows Key + X` and select `Windows PowerShell (Admin)`.
 
-![Windows PowerShell](../../.gitbook/assets/AdvancedUninstall_1.png)
+![Windows PowerShell](<../../.gitbook/assets/Screenshot 2026-04-30 121053.png>)
 
 2. Retrieve the application's `IdentifyingNumber` by entering `Get-WmiObject Win32_Product`
 
-![Retrieve the Application Key](../../.gitbook/assets/AdvancedUninstall_2.png)
+![Retrieve the Application Key](<../../.gitbook/assets/Screenshot 2026-04-30 121532.png>)
 
 3. Uninstall the application using the following command, replacing `IdentifyingNumber` with that retrieved in the previous step:
 
@@ -94,7 +94,7 @@ Ensure you enclose the **IdentifyingNumber** with double quotes. e.g.
 msiexec.exe /x "{3357A676-12AA-42AB-ADF3-A3DC3E0EA726}" /qn
 ```
 
-![Uninstall the Application](../../.gitbook/assets/AdvancedUninstall_3.png)
+![Uninstall the Application](<../../.gitbook/assets/Screenshot 2026-04-30 122117.png>)
 
 TD\_Endpoint agent will now be uninstalled from your system.
 
