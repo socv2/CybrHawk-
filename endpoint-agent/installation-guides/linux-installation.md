@@ -11,13 +11,13 @@
    Your **Activation Code** will be displayed.
 2.  Choose your **Linux distribution**, then click **Generate Download Link**.
 
-    ![Generate Download Link](../../.gitbook/assets/gendllink_6.png)
+    ![Generate Download Link](<../../.gitbook/assets/Screenshot 2026-04-30 113738.png>)
 3.  Once the link is generated, either:
 
     * Click **Click Here to Download** to download the installer, or
     * Copy one of the **Install Scripts** from the panel that appears.
 
-    ![Install Scripts](../../.gitbook/assets/linux_installscripts.png)
+    ![Install Scripts](<../../.gitbook/assets/Screenshot 2026-04-30 112341.png>)
 4. Transfer the downloaded installer to your Linux system (if downloaded), or run the commands from the **Install Scripts** panel.\
    For manual installation, run in your terminal:
 
@@ -26,7 +26,9 @@ chmod 755 TD_Endpoint.run
 sudo ./TD_Endpoint.run install --activation_code ***your Activation Code***
 ```
 
-5. The installer should complete, and provide output to your terminal.![Linux install done](../../.gitbook/assets/done.png)
+5. The installer should complete, and provide output to your terminal.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-04-30 114709.png" alt=""><figcaption></figcaption></figure>
 
 ### Advanced Options
 
@@ -62,6 +64,6 @@ sudo /opt/TDAgent/tdcli/tdcli.bin disable-autoupgrade
 
 Open your terminal and run the command: `sudo /opt/TDAgent/tdcli/tdcli.bin uninstall-all`
 
-![Linux install uninstall](../../.gitbook/assets/linux_uninstall.png)
+![Linux install uninstall](<../../.gitbook/assets/Screenshot 2026-04-30 113154.png>)
 
 You should see the “Successfully uninstalled TDAgent” message as above.
