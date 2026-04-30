@@ -68,7 +68,7 @@ ActivityFeed.ReadDlp
 
 4. Click **Grant admin consent** and confirm
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
