@@ -63,7 +63,7 @@ msiexec.exe /i TD_Endpoint.msi /qn ACTIVATION_CODE=xxx SYSINTERNALS_ACCEPT_EULA=
 
 ### Uninstalling Windows Agent
 
-1. Go to **“Apps & Features"** or **"Add/Remove Programs”**.
+1. Go to **“Apps"** then **"Installed apps”**.
 2. Type **“TD\_Endpoint”**, choose TD\_Endpoint and click **“Uninstall”**.
 
 ![uninstall](<../../.gitbook/assets/Screenshot 2026-04-30 120639.png>)
@@ -91,7 +91,7 @@ msiexec.exe /x "<IdentifyingNumber>" /qn
 Ensure you enclose the **IdentifyingNumber** with double quotes. e.g.
 
 ```powershell
-msiexec.exe /x "{3357A676-12AA-42AB-ADF3-A3DC3E0EA726}" /qn
+msiexec.exe /x "{3638F48F-EB6C-4761-87E6-5B7E3C236BB2}" /qn
 ```
 
 ![Uninstall the Application](<../../.gitbook/assets/Screenshot 2026-04-30 122117.png>)
