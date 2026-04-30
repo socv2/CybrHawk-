@@ -1,0 +1,7 @@
+site_name: Cybrhawk Documentation
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
