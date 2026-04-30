@@ -23,7 +23,7 @@ Enable auditing before you continue. Follow Microsoft’s guide to [turn auditin
 2. Sign in to the [Entra ID portal](https://portal.azure.com).
 3.  Open **Microsoft Entra ID**.
 
-    [![Microsoft Entra ID in the Azure portal](../.gitbook/assets/entrawelcome.png)](../.gitbook/assets/entrawelcome.png)
+    [![Microsoft Entra ID in the Azure portal](<../.gitbook/assets/Screenshot 2026-04-30 144909.png>)](../.gitbook/assets/entrawelcome.png)
 4.  Select **App registrations** and click **New registration**.
 
     [![App registrations in Microsoft Entra ID](../.gitbook/assets/appregistration1.png)](../.gitbook/assets/Screenshot_appregistration.png)
