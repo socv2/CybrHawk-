@@ -1,6 +1,6 @@
 # OneLogin
 
-ThreatDefence integrates with **OneLogin** to collect authentication and identity activity logs for monitoring, threat detection, and incident response.
+Cybrhawk integrates with **OneLogin** to collect authentication and identity activity logs for monitoring, threat detection, and incident response.
 
 ***
 
@@ -17,14 +17,14 @@ ThreatDefence integrates with **OneLogin** to collect authentication and identit
 2. In the navigation menu, go to **Developers > API Credentials**.
 3. Click **New Credential**.
 4. In the _Create new API credential_ dialog, configure the following:
-   * **Name** — Enter a unique, descriptive name (e.g., _ThreatDefence Integration_).
+   * **Name** — Enter a unique, descriptive name (e.g., _Cybrhawk Integration_).
    * **Read all** — Select the checkbox.
 5. Click **Done**.
 6. Copy the **Client ID** and **Client Secret** values and store them securely.
 
 ***
 
-## Step 2. Provide Credentials to ThreatDefence
+## Step 2. Provide Credentials to Cybrhawk
 
 Send the following details to 📧 **support@threatdefence.com**:
 

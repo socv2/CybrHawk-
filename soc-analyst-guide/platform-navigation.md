@@ -12,7 +12,7 @@ Other dashboards provide **forensic visibility into specific data sources**. The
 * **My SOC** – Preconfigured views for common SOC needs, such as tracking emerging threats and SOC statistics.
 * **Endpoint** – Data from DFIR endpoint agents (Windows/Mac/Linux), including system event logs, network connections, logons, and benchmarks (e.g., CIS checks).
 * **Cloud** – Audit and assessment events from cloud environments like O365, AWS, and GCP.
-* **Network** – Data from ThreatDefence NDR sensors, including flow visibility and network intrusion detections.
+* **Network** – Data from Cybrhawk NDR sensors, including flow visibility and network intrusion detections.
 
 <figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 

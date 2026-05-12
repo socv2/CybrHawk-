@@ -1,6 +1,6 @@
 # Firewalls
 
-The ThreatDefence platform supports integrations with a wide range of commercial and open-source firewalls. Firewall logs provide critical visibility into network activity, policy enforcement, and threat prevention events. This section contains step-by-step integration guides for the most common vendors.
+The Cybrhawk platform supports integrations with a wide range of commercial and open-source firewalls. Firewall logs provide critical visibility into network activity, policy enforcement, and threat prevention events. This section contains step-by-step integration guides for the most common vendors.
 
 ***
 

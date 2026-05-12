@@ -162,4 +162,4 @@ Access the platform analyst console. In summary, you can investigate, hunt, tria
 * Re-open issues? Search by Time/Name and edit status.
 * For platform updates, visit https://docs.threatdefence.com or the interactive tour at threatdefence.com.
 
-This manual ensures efficient, evidence-based triage, aligning with ThreatDefence's goal of transforming data into actionable security. Review quarterly or after platform updates.
+This manual ensures efficient, evidence-based triage, aligning with Cybrhawk's goal of transforming data into actionable security. Review quarterly or after platform updates.

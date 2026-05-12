@@ -4,13 +4,13 @@
 
 Snowflake is a fully managed, cloud-native data warehouse built to process structured and semi-structured data at massive scale. Its architecture separates storage from compute, enabling organisations to independently scale ingestion, analytics, machine learning, and reporting workloads without impacting performance.
 
-Monitoring Snowflake with ThreatDefence extends security visibility beyond traditional infrastructure into cloud-hosted data platforms. By integrating Snowflake audit and usage telemetry into the ThreatDefence SIEM, security teams can detect suspicious behaviour such as anomalous login patterns, repeated authentication failures, privilege escalation, unusual query activity, and sensitive data access.
+Monitoring Snowflake with Cybrhawk extends security visibility beyond traditional infrastructure into cloud-hosted data platforms. By integrating Snowflake audit and usage telemetry into the Cybrhawk SIEM, security teams can detect suspicious behaviour such as anomalous login patterns, repeated authentication failures, privilege escalation, unusual query activity, and sensitive data access.
 
-This document outlines how to configure Snowflake to export relevant logs and provide them to ThreatDefence for continuous monitoring and analysis.
+This document outlines how to configure Snowflake to export relevant logs and provide them to Cybrhawk for continuous monitoring and analysis.
 
 ### Step 1 – Configure Snowflake Account Access
 
-Follow the steps below to obtain the connection parameters required for ThreatDefence SIEM integration.
+Follow the steps below to obtain the connection parameters required for Cybrhawk SIEM integration.
 
 #### 1. Create or Access Your Snowflake Account
 
@@ -37,11 +37,11 @@ Within the Config File tab, select:
 * Database: SNOWFLAKE
 * Connection Method: Password
 
-Record the configuration details displayed. These parameters are required for ThreatDefence to establish secure log collection from your Snowflake environment.
+Record the configuration details displayed. These parameters are required for Cybrhawk to establish secure log collection from your Snowflake environment.
 
-### Step 2 – Provide Configuration Details to ThreatDefence
+### Step 2 – Provide Configuration Details to Cybrhawk
 
-Once the Snowflake connection parameters have been retrieved, provide the configuration details recorded at Step 1 to ThreatDefence to enable SIEM integration:
+Once the Snowflake connection parameters have been retrieved, provide the configuration details recorded at Step 1 to Cybrhawk to enable SIEM integration:
 
 * USER
 * PASSWORD

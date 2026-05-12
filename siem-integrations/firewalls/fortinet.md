@@ -1,12 +1,12 @@
 # Fortinet FortiGate
 
-The ThreatDefence platform integrates with **Fortinet® FortiGate®** by forwarding syslog to the **ThreatDefence Syslog Forwarder VM**. This enables SOC monitoring of traffic, policy events, and threat activity.
+The Cybrhawk platform integrates with **Fortinet® FortiGate®** by forwarding syslog to the **Cybrhawk Syslog Forwarder VM**. This enables SOC monitoring of traffic, policy events, and threat activity.
 
 ***
 
 ## Requirements
 
-* Deployed and reachable **ThreatDefence Syslog Forwarder VM**
+* Deployed and reachable **Cybrhawk Syslog Forwarder VM**
 * Admin access to FortiGate (CLI or Web UI)
 * SSH/console access for CLI configuration (preferred)
 
@@ -41,16 +41,16 @@ The ThreatDefence platform integrates with **Fortinet® FortiGate®** by forward
    * **Event Logging:** `All`
    * **Local Traffic Logging:** `All`
    * **Syslog Logging:** `Enable`
-   * **IP address/FQDN:** _ThreatDefence Syslog Forwarder VM IP_
+   * **IP address/FQDN:** _Cybrhawk Syslog Forwarder VM IP_
 4. Click **Apply**.
 
 > **Note:** Do not switch the logging format to CEF.
 
 ***
 
-## Step 2 — Register the Log Source with ThreatDefence
+## Step 2 — Register the Log Source with Cybrhawk
 
-After forwarding is enabled, raise a request with ThreatDefence Support so we can activate and normalize the Fortinet source:
+After forwarding is enabled, raise a request with Cybrhawk Support so we can activate and normalize the Fortinet source:
 
 * **Service Desk Ticket**
   * **Category:** `Onboarding`
@@ -64,7 +64,7 @@ After forwarding is enabled, raise a request with ThreatDefence Support so we ca
 
 ## Verification
 
-ThreatDefence SOC will confirm that Fortinet logs are:
+Cybrhawk SOC will confirm that Fortinet logs are:
 
 * Ingested by the Syslog Forwarder
 * Parsed and normalized correctly
