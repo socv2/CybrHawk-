@@ -1,7 +1,6 @@
 # Service Level Agreement
 
-**Security Monitoring Service Description**\
-**and Service Level Agreements**
+**Security Monitoring Service Description and Service Level Agreements**
 
 This Service Description and Service Level Agreement (“Service Description”) describes the Service (as\
 defined below) being provided to you (“Customer” or “you”) by CybrHawk identified in the Statement of Work (“Statement of Work”) executed by Customer and CybrHawk the purchase of this Service.
