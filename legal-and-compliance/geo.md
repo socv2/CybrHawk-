@@ -8,7 +8,6 @@ CybrHawk ensures that customer data is handled in accordance with data sovereign
 
 We currently operate two main Points of Presence (POPs) where customer data and SOC services are hosted:
 
-* **Australia (AU & Global)**: Serving customers in Australia as well as customers in other global regions.
 * **United States (North America)**: Serving customers in the Americas region.
 
 Customers are connected to the appropriate POP based on their location to ensure low latency, proper data residency, and compliance with regional requirements.
