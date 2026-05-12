@@ -6,7 +6,7 @@
 
 **Overview**
 
-This document outlines your operational responsibilities based on your ThreatDefence service subscription. We offer two primary service models to match your organization's security maturity and resource availability.
+This document outlines your operational responsibilities based on your CybrHawk service subscription. We offer two primary service models to match your organization's security maturity and resource availability.
 
 | Service Tier            | Primary Purpose                                                                                         | Key User Responsibility                                                             |
 | ----------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -56,7 +56,7 @@ With the SIEM Platform, your team is in full control of your security operations
 
 **Method 1: Direct Console Login (Recommended)**
 
-1. Log into the **ThreatDefence Security Dashboard** daily.
+1. Log into the **CybrHawk Security Dashboard** daily.
 2. Navigate to the **“Security Detections”** queue.
 3. **Triage Alerts:** Review, investigate, and action each alert by:
    * **Closing** false positives.
@@ -78,13 +78,13 @@ With the SIEM Platform, your team is in full control of your security operations
 
 #### **Summary of Responsibilities**
 
-| Action                     | Managed SOC Customer         | SIEM Platform Customer                |
-| -------------------------- | ---------------------------- | ------------------------------------- |
-| **24/7 Monitoring**        | Handled by ThreatDefence SOC | Your Responsibility                   |
-| **Initial Alert Triage**   | Handled by ThreatDefence SOC | **Your Responsibility**               |
-| **Respond to Escalations** | **Your Responsibility**      | Not Applicable                        |
-| **Daily Platform Login**   | Recommended (Awareness)      | **Required** (Operation)              |
-| **Email Alert Review**     | For escalations only         | Minimum requirement for notifications |
+| Action                     | Managed SOC Customer    | SIEM Platform Customer                |
+| -------------------------- | ----------------------- | ------------------------------------- |
+| **24/7 Monitoring**        | Handled by CybrHawk SOC | Your Responsibility                   |
+| **Initial Alert Triage**   | Handled by CybrHawk SOC | **Your Responsibility**               |
+| **Respond to Escalations** | **Your Responsibility** | Not Applicable                        |
+| **Daily Platform Login**   | Recommended (Awareness) | **Required** (Operation)              |
+| **Email Alert Review**     | For escalations only    | Minimum requirement for notifications |
 
 ***
 
@@ -93,14 +93,14 @@ With the SIEM Platform, your team is in full control of your security operations
 **For Managed SOC Customers:**
 
 * [ ] Provide emergency contact details for escalations.
-* [ ] Bookmark the ThreatDefence Customer Portal.
+* [ ] Bookmark the CybrHawk Customer Portal.
 * [ ] Schedule a monthly review meeting with your assigned analyst.
 
 **For SIEM Platform Only Customers:**
 
 * [ ] Designate primary analysts for daily triage.
 * [ ] Configure email alert recipients.
-* [ ] Complete ThreatDefence Analyst Console training.
+* [ ] Complete CybrHawk Analyst Console training.
 * [ ] Establish an internal workflow for alert response and closure.
 
 **Need Help?** Our support team is here to assist with:
@@ -109,7 +109,7 @@ With the SIEM Platform, your team is in full control of your security operations
 * Analyst training for the platform.
 * Defining escalation workflows.
 
-**Contact Support:** [support@threatdefence.com](mailto:support@threatdefence.com)
+**Contact Support:** [socv2@cybrhawk.com](mailto:socv2@cybrhawk.com)
 
 ***
 

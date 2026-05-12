@@ -2,7 +2,7 @@
 
 The Analyst Console is the main SIEM interface available to all eligible subscriptions. Tailored for security analysts, threat hunters, and incident responders, It provides access to your entire array of security event data and features a variety of dashboards and visualizations.
 
-To access the console, navigate to [https://console.threatdefence.io](https://console.threatdefence.io/) and log in with your email and password.
+To access the console, navigate to [https://console.cybrhawk.com](https://console.cybrhawk.com/) and log in with your CybrHawk email and password.
 
 Here are some examples of the information available via the Analyst Console:
 

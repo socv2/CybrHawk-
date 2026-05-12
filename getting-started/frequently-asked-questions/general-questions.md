@@ -44,7 +44,7 @@ For Australian customers, all data remains **onshore in Australia** and will not
 
 We support a wide range of log sources. Most customers begin with:
 
-* ThreatDefence endpoint agents
+* CybrHawk endpoint agents
 * Microsoft 365 or Google Workspace logs
 * AV/EDR telemetry
 
@@ -55,14 +55,14 @@ These sources typically provide **90–100% coverage** for small to medium organ
 ## How long does it take to onboard my business?
 
 * Cloud and syslog integrations can be onboarded in **minutes**.
-* The ThreatDefence endpoint agent supports automation, allowing deployment to **hundreds of endpoints almost instantly**.
+* The CybrHawk endpoint agent supports automation, allowing deployment to **hundreds of endpoints almost instantly**.
 
 ***
 
 ## Can I get a trial or proof of concept?
 
 Yes. We offer a **30-day trial** so you can experience the platform before committing.\
-Please contact [sales@threatdefence.com](mailto:sales@threatdefence.com) for details.
+Please contact [sales@cybrhawk.com](mailto:sales@cybrhawk.com) for details.
 
 ***
 
