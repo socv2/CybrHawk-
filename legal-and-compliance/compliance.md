@@ -16,13 +16,7 @@ CybrHawk is certified and compliant with the following internationally recognise
 
 ***
 
-## Australian Standards and Frameworks
 
-For our Australian customers and deployments, CybrHawk maintains strict alignment with local frameworks and regulations. Our compliance scope extends across people, processes, and technology — including the CybrHawk 24/7 SOC and platform located in Australia:
-
-* **ASD ISM (Information Security Manual)** – Alignment with controls mandated by the Australian Cyber Security Centre (ACSC).
-* **Essential Eight** – Baseline mitigation strategies for cyber security, continuously measured and reported.
-* **PSPF (Protective Security Policy Framework)** – Support for compliance with Australian Government security obligations.
 
 ***
 
