@@ -98,7 +98,7 @@ Integrating **Salesforce** with **CybrHawk** allows you to securely ingest audit
 
 ## Final Step. Provide Credentials to CybrHawk
 
-Share the following values with your CybrHawk representative at [**support@threatdefence.com**](mailto:support@threatdefence.com):
+Share the following values with your CybrHawk representative at [**socv2@cybrhawk.com**](mailto:socv2@cybrhawk.com):
 
 1. **Username** — Salesforce integration user account username
 2. **Password** — password for the integration user

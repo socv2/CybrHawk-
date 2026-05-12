@@ -21,6 +21,14 @@ Before you begin, ensure you have the following:
 * (Optional) Organization ID for organization-level logging sinks
 * You are authenticated with `gcloud auth login` and have set the correct project using `gcloud config set project LOGGING_PROJECT_ID`
 
+{% hint style="info" %}
+Keep naming consistent with your existing environment.
+
+* Use your existing service domains.
+* Enter tenant names in lowercase.
+* Reuse existing URLs instead of creating new ones.
+{% endhint %}
+
 ***
 
 ## Step 1: Create a GCP Pub/Sub Topic
@@ -42,7 +50,7 @@ CybrHawk will pull messages from a subscription. In every project from which you
 
 1. Go to **Pub/Sub** → **Subscriptions**.
 2. Click **Create Subscription**.
-3. Select the topic you created (e.g., `threatdefence-logs-topic`).
+3. Select the topic you created (e.g., `cybrhawk-logs-topic`).
 4. Set **Delivery type** to **Pull**.
 5. Click **Create**.
 
@@ -56,7 +64,7 @@ To send logs to the Pub/Sub topic, create a logging sink. You can create sinks a
 2. Click **Create Sink**.
 3. Enter a **Sink name** and **Description**.
 4. Under **Sink Destination**, select **Pub/Sub topic** and choose the topic created in Step 1.
-   * If configuring in a different project or organization, provide the full resource name: `projects/LOGGING_PROJECT_ID/topics/threatdefence-logs-topic`.
+   * If configuring in a different project or organization, provide the full resource name: `projects/LOGGING_PROJECT_ID/topics/cybrhawk-logs-topic`.
 
 ## Step 4: Export Service Account Key
 
@@ -67,7 +75,7 @@ The service account created by the logging sink is used to publish logs to Pub/S
 **In the Google Cloud Console:**
 
 1. Go to **IAM & Admin** → **Service Accounts**.
-2. Create a new service account for CybrHawk, or use an existing one (e.g., `threatdefence-pubsub@LOGGING_PROJECT_ID.iam.gserviceaccount.com`).
+2. Create a new service account for CybrHawk, or use an existing one (e.g., `cybrhawk-pubsub@LOGGING_PROJECT_ID.iam.gserviceaccount.com`).
 3. Ensure this service account has the **Pub/Sub Subscriber** role (`roles/pubsub.subscriber`) on the subscription you created earlier.
    * If not, click on the user, go to the **Permissions** tab, click **Manage access**, and add the role.
 4. Click on the service account.

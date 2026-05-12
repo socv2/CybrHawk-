@@ -54,7 +54,7 @@ CybrHawk uses a service account to perform scans. CybrHawk will scan all project
 
 ## Step 2: Onboard the Integration
 
-1. Log in to your [CybrHawk SIEM Portal](https://portal.threatdefence.io).
+1. Log in to your [CybrHawk SIEM Portal](https://portal.cybrhawk.com/).
 2. Navigate to **Deployments** > **Integrations**.
 3. Click **Add** and select **GCP Auditor**.
 4. Upload the JSON key file you downloaded earlier.

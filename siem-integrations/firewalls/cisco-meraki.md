@@ -59,7 +59,7 @@ Get Organization ID(s). ( This is the preferred option as this is unique and exa
 ## Step 3. Configure CybrHawk Integration
 
 Provide the following information to your CybrHawk representative at\
-📧 [**CybrHawk Support**](mailto:support@threatdefence.com):
+📧 [**CybrHawk Support**](mailto:socv2@cybrhawk.com):
 
 * API Key
 * Organization name(s) or ID(s) if needs filtering ( Optional )
@@ -69,4 +69,4 @@ Provide the following information to your CybrHawk representative at\
 ## Support
 
 For questions or assistance, please contact:\
-📧 [**CybrHawk Support**](mailto:support@threatdefence.com)
+📧 [**CybrHawk Support**](mailto:socv2@cybrhawk.com)

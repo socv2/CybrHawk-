@@ -67,7 +67,7 @@ Once configuration is complete, provide the following details to **CybrHawk Supp
 
 ### Step 2. Reach out to CybrHawk support
 
-Once configuration is complete, provide the following details to **CybrHawk Support** at 📧 [**support@threatdefence.com**](mailto:support@threatdefence.com):
+Once configuration is complete, provide the following details to **CybrHawk Support** at 📧 [**socv2@cybrhawk.com**](mailto:socv2@cybrhawk.com):
 
 * Your ESET account **Username** and **Password**
 

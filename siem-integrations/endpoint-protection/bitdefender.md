@@ -44,7 +44,7 @@ For setup guidance, refer to the official documentation:\
 ## Step 3. Configure CybrHawk Integration
 
 Provide the following information to your CybrHawk representative at\
-📧 **support@threatdefence.com**:
+📧 **socv2@cybrhawk.com**:
 
 * API Key
 * Access URL

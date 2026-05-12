@@ -78,4 +78,4 @@ To reset a users password or MFA, click on the edit icon for their user and sele
 
 ## Having Trouble?
 
-If you're having any issues with user management, please open a request via the support portal, or email [**CybrHawk Support**](mailto:support@threatdefence.com) and our team will assist you.
+If you're having any issues with user management, please open a request via the support portal, or email [**CybrHawk Support**](mailto:socv2@cybrhawk.com) and our team will assist you.

@@ -25,7 +25,7 @@
 
 ## Deliverables
 
-Please email them to [support@threatdefence.com](mailto:support@threatdefence.com)
+Please email them to [socv2@cybrhawk.com](mailto:socv2@cybrhawk.com)
 
 1. **API Credentials**
    * Your _**Client ID**_

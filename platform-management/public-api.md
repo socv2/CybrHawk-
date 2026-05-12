@@ -36,4 +36,4 @@ Permission Requirements: `Endpoint Isolation`
 
 ## Having Trouble?
 
-If you're having any issues with user management, please open a request via the support portal, or email our support email at "support@threatdefence.com" and our team will assist you.
+If you're having any issues with user management, please open a request via the support portal, or email our support email at "socv2@cybrhawk.com" and our team will assist you.
