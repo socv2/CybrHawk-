@@ -31,7 +31,7 @@ The platform supports integration using a syslog interface or with **ESET Connec
 
 ### Step 2. Reach out to CybrHawk support
 
-Once configuration is complete, provide the following details to **CybrHawk Support** at 📧 [**support@threatdefence.com**](mailto:support@threatdefence.com):
+Once configuration is complete, provide the following details to **CybrHawk Support** at 📧 [**socv2@cybrhawk.com**](mailto:socv2@cybrhawk.com):
 
 * Request to enable ESET EDR syslog listener on your CybrHawk appliance
 * Source IP address

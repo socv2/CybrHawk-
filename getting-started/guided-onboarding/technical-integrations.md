@@ -1,6 +1,6 @@
 # Technical Integrations
 
-Following the Discovery Meeting, the next step in onboarding is the technical enablement of log and telemetry sources. This phase ensures ThreatDefence has the visibility required to deliver effective monitoring, detection, and response.
+Following the Discovery Meeting, the next step in onboarding is the technical enablement of log and telemetry sources. This phase ensures CybrHawk has the visibility required to deliver effective monitoring, detection, and response.
 
 The shared objective is to achieve at least 80% coverage across your environment, focusing on critical assets, identity systems, cloud platforms, and endpoints.
 
@@ -24,7 +24,7 @@ We work with your team to identify and prioritize sources across:
 
 ## 2. Integration Methods
 
-ThreatDefence supports multiple integration approaches to suit your environment:
+CybrHawk supports multiple integration approaches to suit your environment:
 
 * Syslog (TCP/UDP, TLS)
 * API-based ingestion (RESTful APIs, cloud connectors)
@@ -33,7 +33,7 @@ ThreatDefence supports multiple integration approaches to suit your environment:
 
 ## 3. Validation and Confirmation
 
-Once sources are integrated, ThreatDefence engineers:
+Once sources are integrated, CybrHawk engineers:
 
 * Verify data fidelity, timeliness, and volume
 * Confirm parsing, normalization, and enrichment

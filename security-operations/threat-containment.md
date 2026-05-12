@@ -1,10 +1,10 @@
 # Threat Containment
 
-Containment (Isolation) actions are performed to limit the spread of an incident and reduce potential impact while investigation and remediation are underway. It can also be applied where controls are ineffective, such as internet-exposed SSH, where failed attempts will be blacklisted. ThreatDefence supports multiple forms of isolation depending on the nature of the threat.
+Containment (Isolation) actions are performed to limit the spread of an incident and reduce potential impact while investigation and remediation are underway. It can also be applied where controls are ineffective, such as internet-exposed SSH, where failed attempts will be blacklisted. CybrHawk supports multiple forms of isolation depending on the nature of the threat.
 
 ***
 
-> **Note:** Isolation actions are applied by ThreatDefence SOC personnel as part of the Incident Response process. While every effort is made to validate malicious activity before initiating isolation, false positives are possible. Customers may **opt out** of automatic isolation by completing the opt-out section provided in their onboarding documentation.
+> **Note:** Isolation actions are applied by CybrHawk SOC personnel as part of the Incident Response process. While every effort is made to validate malicious activity before initiating isolation, false positives are possible. Customers may **opt out** of automatic isolation by completing the opt-out section provided in their onboarding documentation.
 
 ***
 
@@ -13,7 +13,7 @@ Containment (Isolation) actions are performed to limit the spread of an incident
 **Purpose**\
 Remotely isolate an affected endpoint (workstation, server, or virtual machine) from the network while maintaining secure management access for forensic investigation.
 
-This prevents lateral movement and data exfiltration, while still allowing the ThreatDefence team to carry out analysis and remediation tasks.
+This prevents lateral movement and data exfiltration, while still allowing the CybrHawk team to carry out analysis and remediation tasks.
 
 **Pre-requisites**
 
@@ -22,7 +22,7 @@ This prevents lateral movement and data exfiltration, while still allowing the T
 **How It Works**
 
 * A SOC analyst or automation enforces network isolation via the TD Agent.
-* The endpoint is restricted to communicate only with the ThreatDefence SOC.
+* The endpoint is restricted to communicate only with the CybrHawk SOC.
 * All other network connections are blocked until the endpoint is cleared and released from isolation.
 
 ***
@@ -36,7 +36,7 @@ This stops further logins and blocks access to collaboration tools (e.g., Exchan
 
 **Pre-requisites**
 
-* Active Microsoft Graph API integration between ThreatDefence and Microsoft 365.
+* Active Microsoft Graph API integration between CybrHawk and Microsoft 365.
 
 **How It Works**
 

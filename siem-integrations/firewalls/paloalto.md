@@ -1,12 +1,12 @@
 # Palo Alto Networks
 
-You can configure a **Palo Alto Firewall** to forward logs to the **ThreatDefence Syslog Forwarder** for security monitoring.
+You can configure a **Palo Alto Firewall** to forward logs to the **CybrHawk Syslog Forwarder** for security monitoring.
 
 ***
 
 ## Requirements
 
-* A deployed and activated **ThreatDefence Syslog Forwarder VM**
+* A deployed and activated **CybrHawk Syslog Forwarder VM**
 * Administrator access to the Palo Alto Firewall
 
 ***
@@ -16,7 +16,7 @@ You can configure a **Palo Alto Firewall** to forward logs to the **ThreatDefenc
 ### Step 1. Configure a Syslog Server Profile
 
 1. In the Palo Alto Console, go to **Device > Server Profiles > Syslog**.
-2. Click **Add** and enter a name for the profile (e.g., `ThreatDefence-SIEM`).
+2. Click **Add** and enter a name for the profile (e.g., `CybrHawk-SIEM`).
 
 ***
 
@@ -25,7 +25,7 @@ You can configure a **Palo Alto Firewall** to forward logs to the **ThreatDefenc
 1. In the Syslog Server Profile, click **Add**.
 2. Configure the following settings:
    * **Name** — Enter a descriptive name
-   * **Syslog Server** — Enter the IP or FQDN of the **ThreatDefence Syslog Forwarder**
+   * **Syslog Server** — Enter the IP or FQDN of the **CybrHawk Syslog Forwarder**
    * **Transport** — UDP
    * **Port** (as per the [Syslog Onboarding Guide](../../appliances/syslog-forwarder/onboarding-syslog-data.md))
    * **Format** — IETF
@@ -71,9 +71,9 @@ You can configure a **Palo Alto Firewall** to forward logs to the **ThreatDefenc
 
 ***
 
-### Step 7. Provide Details to ThreatDefence
+### Step 7. Provide Details to CybrHawk
 
-Once configuration is complete, provide the following details to **ThreatDefence Support** at 📧 [**support@threatdefence.com**](mailto:support@threatdefence.com):
+Once configuration is complete, provide the following details to **CybrHawk Support** at 📧 [**socv2@cybrhawk.com**](mailto:socv2@cybrhawk.com):
 
 * Firewall make/model and OS version
 * Source IP address and used port number

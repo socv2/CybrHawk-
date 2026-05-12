@@ -2,7 +2,7 @@
 
 ## Overview
 
-ThreatDefence Look-Alike Domain Monitoring detects and tracks domains that closely resemble your organization’s legitimate domains. These may be registered by threat actors to impersonate your brand, conduct phishing campaigns, or trick users into sharing sensitive information. Monitoring these registrations enables early detection and response before they are weaponized.
+CybrHawk Look-Alike Domain Monitoring detects and tracks domains that closely resemble your organization’s legitimate domains. These may be registered by threat actors to impersonate your brand, conduct phishing campaigns, or trick users into sharing sensitive information. Monitoring these registrations enables early detection and response before they are weaponized.
 
 ***
 
@@ -22,18 +22,18 @@ ThreatDefence Look-Alike Domain Monitoring detects and tracks domains that close
   * SSL/TLS certificates.
   * Threat intelligence feeds (malware, phishing).
 * **SOC Correlation**\
-  Detected look-alike domains are ingested into the ThreatDefence platform and correlated with alerts (e.g., email phishing, web traffic) for prioritization and escalation.
+  Detected look-alike domains are ingested into the CybrHawk platform and correlated with alerts (e.g., email phishing, web traffic) for prioritization and escalation.
 
 ***
 
 ## How to Activate Look-Alike Domain Monitoring
 
-To enable monitoring, provide your ThreatDefence representative with:
+To enable monitoring, provide your CybrHawk representative with:
 
 * Your official corporate domains to protect.
 * Any critical brand names, trademarks, or product names.
 
-ThreatDefence will configure continuous monitoring and alerting for suspicious registrations.
+CybrHawk will configure continuous monitoring and alerting for suspicious registrations.
 
 ***
 

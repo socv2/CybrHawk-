@@ -1,6 +1,6 @@
 # Password Managers
 
-The ThreatDefence platform supports integrations with cloud password management products. This section contains step-by-step integration guides for the most common vendors.
+The CybrHawk platform supports integrations with cloud password management products. This section contains step-by-step integration guides for the most common vendors.
 
 ***
 

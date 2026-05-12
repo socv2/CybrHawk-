@@ -2,7 +2,7 @@
 
 #### **AI Chatbot for Security Operations**
 
-ThreatDefence’s AI Chatbot transforms how your team interacts with security data by providing a natural language interface for real-time investigation, threat hunting, and response. Accessible directly within the platform, it allows users to ask questions in plain English and receive instant, actionable answers, turning complex data analysis into a simple conversation and dramatically accelerating security operations.
+CybrHawk’s AI Chatbot transforms how your team interacts with security data by providing a natural language interface for real-time investigation, threat hunting, and response. Accessible directly within the platform, it allows users to ask questions in plain English and receive instant, actionable answers, turning complex data analysis into a simple conversation and dramatically accelerating security operations.
 
 **Business Benefits:**
 
@@ -45,6 +45,6 @@ ThreatDefence’s AI Chatbot transforms how your team interacts with security da
 
 **Why It Matters**
 
-Traditional security tools often require deep technical expertise, creating bottlenecks and slowing down critical response times. ThreatDefence’s AI Chatbot breaks down these barriers by making security data accessible and actionable for everyone, from executives to junior analysts. By enabling natural language interaction with your entire security infrastructure, it ensures faster decisions, smoother collaboration, and a more resilient security posture.
+Traditional security tools often require deep technical expertise, creating bottlenecks and slowing down critical response times. CybrHawk’s AI Chatbot breaks down these barriers by making security data accessible and actionable for everyone, from executives to junior analysts. By enabling natural language interaction with your entire security infrastructure, it ensures faster decisions, smoother collaboration, and a more resilient security posture.
 
 <figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>

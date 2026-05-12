@@ -22,7 +22,7 @@ If your issue is not resolved via the FAQ, you can raise a request with the Cybr
 
 ### How to Raise a Request:
 
-Service Requests can be raised through the Service Desk by sending an email to [support@threatdefence.com.](mailto:support@threatdefence.com)
+Service Requests can be raised through the Service Desk by sending an email to [socv2@cybrhawk.com.](mailto:socv2@cybrhawk.com)
 
 When raising a request, please include as much information as possible to assist triage, such as:
 

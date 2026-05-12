@@ -98,4 +98,4 @@ Required:
 
 ## Support
 
-If any issues, please reach out to **support@threatdefence.com** and our team will assist.
+If any issues, please reach out to **socv2@cybrhawk.com** and our team will assist.

@@ -15,7 +15,7 @@ A **guided onboarding process** designed to ensure a smooth transition into our 
 
 ## 2. [Technical Onboarding](technical-integrations.md)
 
-* Deployment of ThreatDefence **endpoint agents, sensors, and integrations**.
+* Deployment of CybrHawk **endpoint agents, sensors, and integrations**.
 * Configuration of cloud and SaaS log sources (e.g., Microsoft 365, AWS, Azure, GCP).
 * Setup of delegated access (e.g., Azure Lighthouse for Sentinel environments).
 * Validation of data ingestion, alert pipelines, and security telemetry.
@@ -33,7 +33,7 @@ A **guided onboarding process** designed to ensure a smooth transition into our 
 
 ***
 
-By the end of the guided onboarding process, customers are fully integrated into the ThreatDefence ecosystem, with:
+By the end of the guided onboarding process, customers are fully integrated into the CybrHawk ecosystem, with:
 
 * Secure telemetry ingestion and validated monitoring coverage
 * Clear escalation paths and incident management workflows
@@ -42,4 +42,4 @@ By the end of the guided onboarding process, customers are fully integrated into
 
 ***
 
-For more details or to schedule your onboarding sessions, please contact your ThreatDefence account manager.
+For more details or to schedule your onboarding sessions, please contact your CybrHawk account manager.

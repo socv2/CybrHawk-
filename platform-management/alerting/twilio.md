@@ -33,7 +33,7 @@ Provide the following details to enable automated outbound call alerts:
 
 ## Deliverables
 
-Please email the to [support@threatdefence.com](mailto:support@threatdefence.com):
+Please email the to [socv2@cybrhawk.com](mailto:socv2@cybrhawk.com):
 
 1. **Twilio Credentials**
 
