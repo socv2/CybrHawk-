@@ -1,13 +1,13 @@
 # Virtual Sensor
 
-The ThreatDefence NDR Sensor can be deployed as a **virtual sensor** on VMware or Hyper-V environments. This guide outlines the steps to configure and integrate the sensor into your environment.
+The CybrHawk NDR Sensor can be deployed as a **virtual sensor** on VMware or Hyper-V environments. This guide outlines the steps to configure and integrate the sensor into your environment.
 
 ***
 
 ## VMware Deployment
 
 1. **Download the Open Virtualization Format (OVF)**
-   * Obtain the VHD file from the link provided by ThreatDefence Technical Support.
+   * Obtain the VHD file from the link provided by CybrHawk Technical Support.
    * Download the configuration file attached to the support email.
 2.  **VMware Virtual Machine Setup**
 
@@ -31,14 +31,14 @@ The ThreatDefence NDR Sensor can be deployed as a **virtual sensor** on VMware o
    * Attach the second NIC (data NIC) to the mirrored traffic switch.
    * Attach the management NIC to your standard VLAN.
 6. **Initial Configuration and Access**
-   * Access the VM console with the credentials provided by ThreatDefence.
+   * Access the VM console with the credentials provided by CybrHawk.
    * Choose DHCP or static IP configuration as required.
 7. **Web Interface Configuration**
    * After reboot, open the web interface at:\
      `https://<VM_IP>:5000`
    * Upload the configuration file from step 1.
 8. **Finalize Installation**
-   * Notify ThreatDefence Technical Support once the sensor is operational.
+   * Notify CybrHawk Technical Support once the sensor is operational.
 9. **Outbound Connectivity**
 
 * Ensure that your virtual sensor can reach TD servers on **port 443 (HTTPS)** at the following domains:
@@ -50,7 +50,7 @@ The ThreatDefence NDR Sensor can be deployed as a **virtual sensor** on VMware o
 ## Hyper-V Deployment
 
 1. **Download the Virtual Hard Disk (VHD)**
-   * Obtain the VHD file and configuration file from ThreatDefence Technical Support.
+   * Obtain the VHD file and configuration file from CybrHawk Technical Support.
 2.  **Create Two Hyper-V Virtual Switches**
 
     * Open **Virtual Switch Manager** in Hyper-V.
@@ -98,7 +98,7 @@ The ThreatDefence NDR Sensor can be deployed as a **virtual sensor** on VMware o
 
 8. **Finalize Installation**
 
-* Notify **ThreatDefence Technical Support** once operational.
+* Notify **CybrHawk Technical Support** once operational.
 
 ***
 

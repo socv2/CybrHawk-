@@ -1,6 +1,6 @@
 # Audit Logs
 
-ThreatDefence's GCP Pub/Sub integration enables you to forward GCP audit logs and other security-relevant logs to ThreatDefence for monitoring, incident response, and compliance. This guide provides step-by-step instructions to configure Google Cloud Pub/Sub, set up logging sinks, and export the required credentials.
+CybrHawk's GCP Pub/Sub integration enables you to forward GCP audit logs and other security-relevant logs to CybrHawk for monitoring, incident response, and compliance. This guide provides step-by-step instructions to configure Google Cloud Pub/Sub, set up logging sinks, and export the required credentials.
 
 ***
 
@@ -14,7 +14,7 @@ Before you begin, ensure you have the following:
   * `roles/logging.admin` (manage logging sinks)
   * `roles/iam.serviceAccountAdmin` (manage service accounts)
   * `roles/iam.serviceAccountKeyAdmin` (download service account keys)
-  * `roles/pubsub.subscriber` (for the ThreatDefence service account on the subscription)
+  * `roles/pubsub.subscriber` (for the CybrHawk service account on the subscription)
   * `roles/pubsub.publisher` (for the logging sink service account on the topic)
 * [Google Cloud CLI](https://cloud.google.com/sdk/docs/install) (`gcloud`) installed
 * The ID of the project to host the Pub/Sub topic and subscription (`LOGGING_PROJECT_ID`)
@@ -36,7 +36,7 @@ The Pub/Sub topic will receive logs from Cloud Logging.
 
 ## Step 2: Create a Pub/Sub Subscription
 
-ThreatDefence will pull messages from a subscription. In every project from which you want to send logs, create a subscription to the topic created in Step 1.
+CybrHawk will pull messages from a subscription. In every project from which you want to send logs, create a subscription to the topic created in Step 1.
 
 **In the Google Cloud Console:**
 
@@ -60,21 +60,21 @@ To send logs to the Pub/Sub topic, create a logging sink. You can create sinks a
 
 ## Step 4: Export Service Account Key
 
-The service account created by the logging sink is used to publish logs to Pub/Sub. ThreatDefence requires a separate service account key to authenticate and pull messages from the subscription.
+The service account created by the logging sink is used to publish logs to Pub/Sub. CybrHawk requires a separate service account key to authenticate and pull messages from the subscription.
 
-> **Security Note:** Keep the downloaded JSON key file secure. Only provide it to your ThreatDefence contact. If the key is ever exposed, revoke it and generate a new one.
+> **Security Note:** Keep the downloaded JSON key file secure. Only provide it to your CybrHawk contact. If the key is ever exposed, revoke it and generate a new one.
 
 **In the Google Cloud Console:**
 
 1. Go to **IAM & Admin** → **Service Accounts**.
-2. Create a new service account for ThreatDefence, or use an existing one (e.g., `threatdefence-pubsub@LOGGING_PROJECT_ID.iam.gserviceaccount.com`).
+2. Create a new service account for CybrHawk, or use an existing one (e.g., `threatdefence-pubsub@LOGGING_PROJECT_ID.iam.gserviceaccount.com`).
 3. Ensure this service account has the **Pub/Sub Subscriber** role (`roles/pubsub.subscriber`) on the subscription you created earlier.
    * If not, click on the user, go to the **Permissions** tab, click **Manage access**, and add the role.
 4. Click on the service account.
 5. Go to the **Keys** tab.
 6. Click **Add Key** → **Create new key**.
 7. Select **JSON** and click **Create**.
-8. A JSON file will be downloaded. This file is needed to configure the Pub/Sub integration in ThreatDefence. Provide it to your ThreatDefence contact.
+8. A JSON file will be downloaded. This file is needed to configure the Pub/Sub integration in CybrHawk. Provide it to your CybrHawk contact.
 
 ***
 

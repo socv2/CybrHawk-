@@ -2,12 +2,12 @@
 
 ## Overview
 
-The ThreatDefence Network Detection and Response (NDR) Sensor is available in two deployment options:
+The CybrHawk Network Detection and Response (NDR) Sensor is available in two deployment options:
 
 * [Physical Sensor](physical-sensor.md): High-performance hardware appliances designed for large enterprise or data-center environments.
 * [Virtual Sensor](virtual-sensor.md): Software-based appliances suitable for smaller deployments and cloud-only environments.
 
-Both types provide passive monitoring of network traffic to deliver visibility, intrusion detection, and behavioral analytics for the ThreatDefence SecOps platform.
+Both types provide passive monitoring of network traffic to deliver visibility, intrusion detection, and behavioral analytics for the CybrHawk SecOps platform.
 
 ***
 
@@ -23,13 +23,13 @@ To achieve this, configure a **SPAN (port mirroring)** session on your switch or
 ## Deployment Diagram
 
 ![Network Sensor Deployment](../../.gitbook/assets/network_diagram.png)\
-\&#xNAN;_Example span port configuration feeding mirrored traffic to a ThreatDefence sensor._
+\&#xNAN;_Example span port configuration feeding mirrored traffic to a CybrHawk sensor._
 
 ***
 
 ## Example: Cisco Switch Port Mirroring
 
-For a typical Cisco switch where the internal firewall is connected on port `eth0/1` and the ThreatDefence sensor is connected on port `eth0/2`, the configuration would be:
+For a typical Cisco switch where the internal firewall is connected on port `eth0/1` and the CybrHawk sensor is connected on port `eth0/2`, the configuration would be:
 
 ```
 monitor session 1 source interface eth0/1
@@ -51,5 +51,5 @@ This configuration:
 For the NDR Sensor to operate correctly, outbound HTTPS access is required for updates and threat intelligence feeds.
 
 * **Protocol / Port**: TCP/443 (HTTPS)
-* **Purpose**: OS updates, ThreatDefence Threat Intelligence feeds
+* **Purpose**: OS updates, CybrHawk Threat Intelligence feeds
 * **Proxy Support**: Ensure proxy settings are configured to allow SSL/TLS inspection if required.
