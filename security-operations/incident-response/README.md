@@ -1,6 +1,6 @@
 # Incident Response
 
-ThreatDefence provides a **24/7 Incident Response (IR) service** that guarantees the availability of qualified Digital Forensics and Incident Response (DFIR) personnel.
+CybrHawk provides a **24/7 Incident Response (IR) service** that guarantees the availability of qualified Digital Forensics and Incident Response (DFIR) personnel.
 
 The service covers:
 
@@ -23,7 +23,7 @@ This approach is designed to:
 For urgent incidents, the Customer must **immediately call the 24/7 SOC hotline**.\
 This ensures direct escalation to on-duty analysts and immediate triage.
 
-* Customers will receive a response **within 30 minutes** of ThreatDefence confirming that the activity constitutes a high-severity security incident.
+* Customers will receive a response **within 30 minutes** of CybrHawk confirming that the activity constitutes a high-severity security incident.
 * A “security incident” is defined as an incident ticket comprising an event or group of events deemed **high severity** by the SOC.
 * Automatically created incident tickets (via correlation technology) or events deemed **low severity** will not be escalated but will remain visible for reporting through the platform.
 
@@ -31,7 +31,7 @@ This ensures direct escalation to on-duty analysts and immediate triage.
 
 ## Communication During an Incident
 
-During a **major incident**, customers should avoid using their standard corporate ICT systems for communications, as they may be compromised or under investigation. ThreatDefence will provide **out-of-band communication channels** to ensure uninterrupted collaboration with our security engineers and responders.
+During a **major incident**, customers should avoid using their standard corporate ICT systems for communications, as they may be compromised or under investigation. CybrHawk will provide **out-of-band communication channels** to ensure uninterrupted collaboration with our security engineers and responders.
 
 ***
 

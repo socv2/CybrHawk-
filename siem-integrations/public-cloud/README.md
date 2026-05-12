@@ -1,6 +1,6 @@
 # Public Cloud
 
-The ThreatDefence platform integrates with leading **public cloud providers** to provide visibility into audit logs, authentication activity, network events, and security telemetry.\
+The CybrHawk platform integrates with leading **public cloud providers** to provide visibility into audit logs, authentication activity, network events, and security telemetry.\
 These integrations enable continuous monitoring of cloud infrastructure, services, and identities across multi-cloud environments.
 
 ***

@@ -1,6 +1,6 @@
 # FAQ
 
-This section provides answers to common questions and guidance on core features of the ThreatDefence SecOps platform.
+This section provides answers to common questions and guidance on core features of the CybrHawk SecOps platform.
 
 ***
 

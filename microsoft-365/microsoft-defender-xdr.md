@@ -1,6 +1,6 @@
 # Microsoft Defender XDR
 
-ThreatDefence supports integration with **Microsoft Defender XDR** to provide advanced incident and alert visibility across Microsoft 365 workloads.\
+CybrHawk supports integration with **Microsoft Defender XDR** to provide advanced incident and alert visibility across Microsoft 365 workloads.\
 This integration builds on top of the standard [Microsoft 365 integration](microsoft-365.md) and requires additional API permissions.
 
 ***
@@ -17,7 +17,7 @@ This integration builds on top of the standard [Microsoft 365 integration](micro
 
 Before enabling Defender XDR, ensure the standard [Microsoft 365 integration](microsoft-365.md) is completed:
 
-* The ThreatDefence application must be registered in Microsoft Entra ID.
+* The CybrHawk application must be registered in Microsoft Entra ID.
 * Defender XDR uses the same application, with **additional permissions** configured.
 
 ***
@@ -42,7 +42,7 @@ Before enabling Defender XDR, ensure the standard [Microsoft 365 integration](mi
 
 ## Step 3: Enable App Governance (Optional)
 
-As part of Defender XDR ingestion, ThreatDefence can also collect logs from **App Governance**, which tracks and enforces policies for OAuth-enabled applications in Entra ID.
+As part of Defender XDR ingestion, CybrHawk can also collect logs from **App Governance**, which tracks and enforces policies for OAuth-enabled applications in Entra ID.
 
 ### Prerequisites
 

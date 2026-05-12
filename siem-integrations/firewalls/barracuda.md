@@ -1,12 +1,12 @@
 # Barracuda
 
-You can configure a **Barracuda Firewall** to forward logs to the **ThreatDefence Syslog Forwarder** for security monitoring.
+You can configure a **Barracuda Firewall** to forward logs to the **CybrHawk Syslog Forwarder** for security monitoring.
 
 ***
 
 ## Requirements
 
-* A deployed and activated **ThreatDefence Syslog Forwarder VM**
+* A deployed and activated **CybrHawk Syslog Forwarder VM**
 * Administrator access to the Barracuda Firewall (Full Configuration mode)
 
 ***
@@ -45,10 +45,10 @@ You can configure a **Barracuda Firewall** to forward logs to the **ThreatDefenc
 2. Switch to **Advanced View**.
 3. Click **Lock**.
 4. Add a new destination entry (**+**).
-5. Enter a descriptive name (e.g., `ThreatDefence Syslog`).
+5. Enter a descriptive name (e.g., `CybrHawk Syslog`).
 6. In the destination settings:
    * Select **Explicit IP**.
-   * Set **Destination IP Address** to your **ThreatDefence Syslog Forwarder IP**.
+   * Set **Destination IP Address** to your **CybrHawk Syslog Forwarder IP**.
    * Set **Port** to **60,000+** (as per the [Syslog Onboarding Guide](../../appliances/syslog-forwarder/onboarding-syslog-data.md)).
    * Set **Transmission Mode** to **UDP**.
 7. Click **OK**, then **Send Changes and Activate**.
@@ -61,7 +61,7 @@ You can configure a **Barracuda Firewall** to forward logs to the **ThreatDefenc
 2. Switch to **Advanced View**.
 3. Click **Lock**.
 4. Add a new stream entry (**+**).
-5. Enter a descriptive name (e.g., `ThreatDefence Log Stream`).
+5. Enter a descriptive name (e.g., `CybrHawk Log Stream`).
 6. Configure the stream:
    * **Active Streams** → Yes
    * **Log Destinations** → Select the destination created earlier
@@ -70,9 +70,9 @@ You can configure a **Barracuda Firewall** to forward logs to the **ThreatDefenc
 
 ***
 
-### Step 5. Provide Details to ThreatDefence
+### Step 5. Provide Details to CybrHawk
 
-Once configuration is complete, provide the following details to **ThreatDefence Support** at 📧 [**support@threatdefence.com**](mailto:support@threatdefence.com):
+Once configuration is complete, provide the following details to **CybrHawk Support** at 📧 [**socv2@cybrhawk.com**](mailto:socv2@cybrhawk.com):
 
 * Firewall make/model and OS version
 * Source IP address and used port number

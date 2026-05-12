@@ -1,6 +1,6 @@
 # Email Security
 
-The ThreatDefence platform supports integrations with leading **Email Security** providers. Email security logs provide insights into spam filtering, phishing detection, malware attachments, impersonation attempts, and policy enforcement. This section contains step-by-step integration guides for the most common vendors.
+The CybrHawk platform supports integrations with leading **Email Security** providers. Email security logs provide insights into spam filtering, phishing detection, malware attachments, impersonation attempts, and policy enforcement. This section contains step-by-step integration guides for the most common vendors.
 
 ***
 

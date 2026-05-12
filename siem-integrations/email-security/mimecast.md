@@ -2,10 +2,10 @@
 
 ![Mimecast logo 2021](../../.gitbook/assets/mimecast-logo-dark-2021.png)
 
-Mimecast provides an API which allows for the retrieval of data directly into ThreatDefence.\
+Mimecast provides an API which allows for the retrieval of data directly into CybrHawk.\
 If you are using Mimecast, please follow this guide.
 
-Before ThreatDefence can retrieve logs from Mimecast, you must:
+Before CybrHawk can retrieve logs from Mimecast, you must:
 
 * Identify your regional base URL.
 * Enable enhanced logging.
@@ -125,9 +125,9 @@ All permissions are included in the **Basic Administrator** role.
 
 ***
 
-## Step 8: Configuration in ThreatDefence
+## Step 8: Configuration in CybrHawk
 
-Provide the following details to ThreatDefence at **support@threatdefence.com**:
+Provide the following details to CybrHawk at **socv2@cybrhawk.com**:
 
 * **MIMECAST\_API\_BASE\_URL** (e.g., `xx-api.mimecast.com`)
 * **MIMECAST\_ACCOUNT\_CODE** (e.g., `CAU13A177`)
@@ -138,4 +138,4 @@ Provide the following details to ThreatDefence at **support@threatdefence.com**:
 
 ***
 
-If you have any questions or need assistance, please contact us at **support@threatdefence.com**.
+If you have any questions or need assistance, please contact us at **socv2@cybrhawk.com**.

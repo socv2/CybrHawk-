@@ -2,14 +2,14 @@
 
 ## Overview
 
-ThreatDefence External Attack Surface Management (ASM) provides continuous discovery and monitoring of your organization’s internet-facing domains, subdomains and servcies. ASM identifies exposed services, certificates, and web applications that may be vulnerable to exploitation. Results are ingested into the platform and correlated with SOC workflows to reduce blind spots, highlight risks, and support proactive remediation.
+CybrHawk External Attack Surface Management (ASM) provides continuous discovery and monitoring of your organization’s internet-facing domains, subdomains and servcies. ASM identifies exposed services, certificates, and web applications that may be vulnerable to exploitation. Results are ingested into the platform and correlated with SOC workflows to reduce blind spots, highlight risks, and support proactive remediation.
 
 ***
 
 ## How It Works
 
 * **Domain & Subdomain Discovery**\
-  ThreatDefence continuously scans root domains and enumerates associated subdomains.\
+  CybrHawk continuously scans root domains and enumerates associated subdomains.\
   Detects shadow IT, forgotten assets, and newly registered lookalike domains.
 * **Exposure Detection**\
   Identifies active services, SSL/TLS certificates, application fingerprints, and misconfigurations.\
@@ -27,11 +27,11 @@ ThreatDefence External Attack Surface Management (ASM) provides continuous disco
 
 ## How to Activate ASM
 
-To enable ASM, contact your ThreatDefence representative with:
+To enable ASM, contact your CybrHawk representative with:
 
 * A list of domains to be monitored.
 
-ThreatDefence will configure monitoring and begin continuous discovery.
+CybrHawk will configure monitoring and begin continuous discovery.
 
 ***
 
