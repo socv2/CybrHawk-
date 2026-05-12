@@ -1,6 +1,6 @@
 # Google Workspace
 
-This guide walks you through enabling the **G Suite Alert Center API**, creating a **service account** and **P12 key**, delegating domain-wide access, and preparing the **deliverables** for ThreatDefence.
+This guide walks you through enabling the **G Suite Alert Center API**, creating a **service account** and **P12 key**, delegating domain-wide access, and preparing the **deliverables** for CybrHawk.
 
 ***
 
@@ -77,7 +77,7 @@ This guide walks you through enabling the **G Suite Alert Center API**, creating
 
 ## Deliverables
 
-Email the following to [**support@threatdefence.com**](mailto:support@threatdefence.com):
+Email the following to [**socv2@cybrhawk.com**](mailto:socv2@cybrhawk.com):
 
 1. **P12 Key**
    * The downloaded **.p12** file (stored securely).

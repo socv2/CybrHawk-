@@ -25,4 +25,4 @@ These deployments ensure all data — including platform telemetry, logs, and SO
 ## Contact Us
 
 If you have data residency requirements beyond our standard POPs, or if you are interested in a sovereign on-premises deployment, please contact us at:\
-**support at threatdefence.com**
+**socv2@cybrhawk.com**

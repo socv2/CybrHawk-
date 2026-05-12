@@ -2,7 +2,7 @@
 
 ## Deployment via Microsoft Intune MDM
 
-ThreatDefence supports deployment of the Endpoint Agent via **Microsoft Intune**.\
+CybrHawk supports deployment of the Endpoint Agent via **Microsoft Intune**.\
 This method is recommended for enterprise environments where agents need to be deployed and managed at scale.
 
 For background information, refer to Microsoft’s official documentation on [Line-of-Business application deployment](https://learn.microsoft.com/en-us/mem/intune/apps/lob-apps-windows).
@@ -25,7 +25,7 @@ For background information, refer to Microsoft’s official documentation on [Li
     ![Figure 2](../../.gitbook/assets/2.png)
 3.  **Select App Package File**
 
-    * Upload the ThreatDefence Endpoint Agent MSI file available in the [Customer Portal](https://portal.threatdefence.io/deployment/endpoint-agent).
+    * Upload the CybrHawk Endpoint Agent MSI file available in the [Customer Portal](https://portal.cybrhawk.com/deployment/endpoint-agent).
 
     ![Figure 3](../../.gitbook/assets/3.png)\
     ![Figure 4](../../.gitbook/assets/4.png)

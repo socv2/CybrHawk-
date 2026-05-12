@@ -52,6 +52,6 @@ The LookAlike domain module proactively defends your organization against brand 
 
 **Why It Matters**
 
-Phishing remains one of the most successful attack methods because it exploits human psychology rather than technical vulnerabilities. Traditional security tools can only react after an attack begins, but ThreatDefence's Domain Protection takes a proactive approach by identifying threats at the source—before they're ever used in attacks. By automatically detecting lookalike domains and streamlining the takedown process, we help you stay ahead of attackers and protect what matters most: your people, your data, and your reputation.
+Phishing remains one of the most successful attack methods because it exploits human psychology rather than technical vulnerabilities. Traditional security tools can only react after an attack begins, but CybrHawk's Domain Protection takes a proactive approach by identifying threats at the source—before they're ever used in attacks. By automatically detecting lookalike domains and streamlining the takedown process, we help you stay ahead of attackers and protect what matters most: your people, your data, and your reputation.
 
 **Stop phishing attacks before they start by protecting your digital identity at the domain level.**

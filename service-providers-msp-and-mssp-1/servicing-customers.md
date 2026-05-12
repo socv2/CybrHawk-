@@ -13,4 +13,4 @@ As an MSP/MSSP, the following are recommended minimum services to ensure value:
 * Ensure email alerts are being sent to the customer. Most of the organisations require these alerts for operational awareness, even if they are false positives (e.g., from an internal network scan);
 * Ensure you are comfortable responding to an incident by validating that the relevant data has been onboarded. Note, our analysts are always available to assist or take the lead.
 
-**ThreatDefence Support:** Our personnel are available to assist with all the above services.
+**CybrHawk Support:** Our personnel are available to assist with all the above services.
