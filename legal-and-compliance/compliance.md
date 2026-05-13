@@ -2,8 +2,6 @@
 
 CybrHawk is committed to maintaining the highest standards of security, privacy, and compliance. Our compliance scope covers people, processes and technology — including our CybrHawk platform, supporting infrastructure, and 24x7 SOC operations.
 
-***
-
 ## Global Standards and Certifications
 
 CybrHawk is certified and compliant with the following internationally recognised standards:
@@ -13,10 +11,6 @@ CybrHawk is certified and compliant with the following internationally recognise
 * **PCI DSS** – Compliance for environments processing or transmitting payment data.
 * **GDPR (General Data Protection Regulation)** – Alignment with EU and UK privacy regulations for processing and safeguarding personal data.
 * **HIPAA (Health Insurance Portability and Accountability Act)** – Support for customers in the healthcare sector requiring healthcare data privacy and security controls.
-
-***
-
-
 
 ***
 
