@@ -52,106 +52,38 @@ Services hereunder, references to CybrHawk and Customer herein shall be deemed r
 
 \
 **D. Termination.**\
-**D.1** Termination for Breach. Either party may terminate this MSA or the Service Order and/or SOW in the event that the other party materially defaults in performing any obligation under this MSA (including any Service Order/SOW) and such default continues un-remedied for a period of thirty (30) days following written notice of default. If this\
-MSA or the Service Order and/or SOW is terminated by Customer prior to the Service term expiration date for any\
-reason other than CybrHawk’ breach, Customer agrees to pay to CybrHawk: (i) for the Consulting Services, all unpaid\
-Consulting Service fees as set forth on the Service Order and/or SOW for the Consulting Services performed through\
-the effective termination date; (ii) for MCS Services, all unpaid MCS Service fees as set forth on the Service Order for\
-the MCS Services performed through the effective termination date plus liquidated damages equal to the MCS\
-Service fees that will become due during the remaining term of the Service Order(s). If Customer terminates this\
-MSA or the Service Order and/or SOW as a result of CybrHawk’ breach, then to the extent that Customer has prepaid\
-any Service fees, CybrHawk shall refund to Customer any prepaid Service fees on a pro-rata basis to the extent such\
-Service fees are attributable to the period after such termination date.\
-D.2 Termination for Insolvency. This MSA and the Services hereunder will terminate, effective upon delivery of\
-written notice by either party to the other party upon the following: (a) the institution of insolvency, receivership or\
-bankruptcy proceedings or any other proceedings for the settlement of debts of the other party; (b) the making of\
-an assignment for the benefit of creditors by the other party; or (c) the dissolution of the other party.\
-E. MCS Services Software; Restrictions.\
-CybrHawk will provide Customer with: (i) user IDs, tokens, passwords, (ii) access and use of the software (in object\
-code format only), (iii) digital signatures, and (iv) access and use of the CybrHawk Customer portal (the “Portal”), as\
-necessary for Customer to receive the MCS Services (the “Software”) and the applicable written directions and/or\
-policies relating to the MCS Services, which may be in paper or electronic format (the “Documentation” and\
-collectively, with the MCS Services and the Software, the “Products”), or a combination thereof, as necessary for Customer to receive the MCS Services and access the Portal. CybrHawk grants to Customer a limited,\
-nontransferable, royalty-free and nonexclusive license to access and use, and for Customer’s Affiliate(s) to access\
-and use, during the term of the MCS Services only, the Products delivered to Customer, subject to the restrictions\
-set forth below.
+**D.1** Termination for Breach. Either party may terminate this MSA or the Service Order and/or SOW in the event that the other party materially defaults in performing any obligation under this MSA (including any Service Order/SOW) and such default continues un-remedied for a period of thirty (30) days following written notice of default. If this MSA or the Service Order and/or SOW is terminated by Customer prior to the Service term expiration date for any reason other than CybrHawk’ breach, Customer agrees to pay to CybrHawk: (i) for the Consulting Services, all unpaid\
+Consulting Service fees as set forth on the Service Order and/or SOW for the Consulting Services performed through the effective termination date; (ii) for MCS Services, all unpaid MCS Service fees as set forth on the Service Order for the MCS Services performed through the effective termination date plus liquidated damages equal to the MCS Service fees that will become due during the remaining term of the Service Order(s). If Customer terminates this MSA or the Service Order and/or SOW as a result of CybrHawk’ breach, then to the extent that Customer has prepaid any Service fees, CybrHawk shall refund to Customer any prepaid Service fees on a pro-rata basis to the extent such Service fees are attributable to the period after such termination date.
 
-Customer (i) will use the Products for its internal security purposes, or for the internal security purposes of\
-Customer’s Affiliates purchasing MCS Services hereunder, and (ii) will not, for itself, any Affiliate of Customer or any\
-third party: (a) sell, rent, license, assign, distribute, or transfer any of the Products; (b) decipher, decompile,\
-disassemble, reconstruct, translate, reverse engineer, or discover any source code of the Software; (c) copy any\
-Software or Documentation, except that Customer may make a reasonable number of copies of the Documentation\
-for its internal use (provided Customer reproduces on such copies all proprietary notices of CybrHawk or its\
-suppliers); or (d) remove from any Software or Documentation any language or designation indicating the\
-confidential nature thereof or the proprietary rights of CybrHawk or its suppliers. In addition, Customer will not, and\
-will not permit unaffiliated third parties to, (I) use the Products on a time-sharing, outsourcing, service bureau,\
-hosting, application service provider or managed service provider basis; (II) alter any aspect of any Software; or (III)\
-assign, transfer, distribute, or otherwise provide access to any of the Products to any unaffiliated third party or\
-otherwise use any Product with or for the benefit of any unaffiliated third party.\
-This Section 5 shall survive any expiration or termination of this MSA.\
-F. Proprietary Rights.\
-F.1 Customer’s Proprietary Rights. Customer represents and warrants that it has the necessary rights, power and\
-authority to transmit End User Data (as defined below) to CybrHawk under this MSA. As between Customer and\
-CybrHawk, Customer will own all right, title and interest in and to (i) any data provided by Customer and/or its\
-Affiliate(s) to CybrHawk and/or Customer and/or its Affiliate(s)’ data accessed or used by CybrHawk or transmitted\
-by Customer and/or its Affiliate(s) to CybrHawk, including, but not limited to, Customer's and/or its Affiliate(s)’ data\
-included in any written or printed summaries, analyses or reports generated in connection with the Services\
-(Customer and its Affiliate(s)’ data, collectively, the “Customer Data”), (ii) all intellectual property, including patents,\
-copyrights, trademarks, trade secrets and other proprietary information (“IP”) of Customer that may be made\
-available to CybrHawk in the course of providing Services under this MSA, and (iii) all confidential or proprietary\
-information of Customer or Customer Affiliates, including, but not limited to, Customer Data, Customer Reports (as\
-defined in Section F.3), and other Customerfiles, documentation and related materials, in each case under this clause\
-(F.1.iii), obtained by CybrHawk in connection with this MSA.
+\
+**D.2** Termination for Insolvency. This MSA and the Services hereunder will terminate, effective upon delivery of written notice by either party to the other party upon the following: (a) the institution of insolvency, receivership or bankruptcy proceedings or any other proceedings for the settlement of debts of the other party; (b) the making of an assignment for the benefit of creditors by the other party; or (c) the dissolution of the other party.
 
-During the term of the Services, Customer grants to CybrHawk a limited, non-exclusive license to use the Customer\
-Data solely for the purposes contemplated by this MSA and for CybrHawk to perform the Services hereunder. This\
-MSA does not transfer or convey to CybrHawk or any third party any right, title or interest in or to the Customer Data or any associated IP rights, but only a limited right of use as granted in and revocable in accordance with this\
-MSA.\
-F.2 CybrHawk’ Proprietary Rights. As between Customer and CybrHawk, CybrHawk will own all right, title and\
-interest in and to the Products and Services. This MSA does not transfer or convey to Customer or any third party\
-any right, title or interest in or to the Products and Services or any associated IP rights, but only a limited right of use\
-as granted in and revocable in accordance with this MSA. CybrHawk will retain ownership of all copies of the\
-Documentation. Customer agrees that CybrHawk is the owner of all right, title and interest in all IP in any work,\
-including, but not limited to, all inventions, methods, processes, and computer programs including any source code\
-or object code, (and any enhancements and modifications made thereto) contained within the Services and/or\
-Products (collectively, the “Works”), developed by CybrHawk in connection with the performance of the Services\
-hereunder and of general applicability across CybrHawk’ Customer base, and Customer hereby assigns to CybrHawk\
-all right, title and interest in and to any copyrights that Customer may have in and to such Work; provided, however,\
-that such Work shall not include Customer’s Confidential Information (as defined in Section H), Customer Data,\
-Customer Reports (as defined in Section F.3) or other information belonging, referencing, identifying or pertaining\
-to Customer or Customer Affiliates. Without limiting the foregoing, CybrHawk will own all right, title and interest in\
-all IP in any advisory data, threat data, vulnerability data, analyses, summaries, bulletins and information made\
-available to Customer in CybrHawk’ provision of its Threat Intelligence Services (the “TIS Reports”). During the term\
-of the Services, CybrHawk grants to Customer a limited, non-exclusive license to use such Works and TIS Reports\
-solely for Customer to receive the Services and for Customer’s or its Affiliate’s internal security purposes only.\
-Customer acknowledges that any license to the CybrHawk Products, Services, Works and TIS Reports expires upon\
-the expiration or termination of any individual Service Order/SOW and/or this MSA.\
-F.3 Customer Reports. Customer shall receive periodic summaries, reports, analyses, and findings or other\
-information or documentation prepared uniquely and exclusively for Customer in connection with the Services and\
-as specified in the Service Order/SOW (the “Customer Reports”). The provision by Customer of any Customer Report\
-or any information therein to any unaffiliated third party shall not entitle such unaffiliated third party to rely on the\
-Customer Report or the contents thereof in any manner or for any purpose whatsoever, and CybrHawk specifically\
-disclaims all liability for any damages whatsoever (whether foreseen or unforeseen, direct, indirect, consequential,\
-incidental, special, exemplary or punitive) to such unaffiliated third party arising from or related to reliance by such\
-unaffiliated third party on any Customer Report or any contents thereof.\
-This Section F shall survive any expiration or termination of this MSA.\
-G. Customer Cooperation. Customer acknowledges that CybrHawk’ performance and delivery of the Services are\
-contingent upon: (A) Customer providing safe and hazard-free access to its personnel, facilities, equipment,\
-hardware, network and information, and (B) Customer’s timely decision-making, providing the requested\
-information and granting of approvals or permissions, as (A) and (B) are deemed reasonably necessary and\
-reasonably requested for CybrHawk to perform, deliver and/or implement the Services. Customer will promptly\
-obtain and provide to CybrHawk any required licenses, approvals or consents necessary for CybrHawk’ performance of the Services. CybrHawk will be excused from its failure to perform its obligations under this MSA to the extent\
-such failure is caused solely by Customer’s delay in performing or failure to perform its responsibilities under this\
-MSA and/or the Service Order/SOW.\
-H. Confidentiality.\
-In the performance of the Services, Customer and CybrHawk may have access to, or be exposed to information of\
-the other party not generally known to the public, including, but not limited to data, customer references, computer\
-programs, technical drawings, algorithms, formulas, pricing strategies, processes, procedures, marketing materials,\
-ideas, inventions (whether patentable or not) schematics and other technical, business, financial, customer and\
-product development plans, forecasts, strategies, software, product plans, marketing and sales information,\
-Customer lists, “know-how,” or trade secrets which may be designated as being confidential or which, under the\
-circumstances surrounding disclosure, ought to be treated as confidential (collectively, “Confidential Information”).\
-Confidential Information may not be shared with third parties unless such disclosure is to personnel of CybrHawk or\
+\
+**E. MCS Services Software; Restrictions.**\
+CybrHawk will provide Customer with: (i) user IDs, tokens, passwords, (ii) access and use of the software (in object code format only), (iii) digital signatures, and (iv) access and use of the CybrHawk Customer portal (the “Portal”), as necessary for Customer to receive the MCS Services (the “Software”) and the applicable written directions and/or policies relating to the MCS Services, which may be in paper or electronic format (the “Documentation” and collectively, with the MCS Services and the Software, the “Products”), or a combination thereof, as necessary for Customer to receive the MCS Services and access the Portal. CybrHawk grants to Customer a limited, nontransferable, royalty-free and nonexclusive license to access and use, and for Customer’s Affiliate(s) to access\
+and use, during the term of the MCS Services only, the Products delivered to Customer, subject to the restrictions set forth below.
+
+Customer (i) will use the Products for its internal security purposes, or for the internal security purposes of Customer’s Affiliates purchasing MCS Services hereunder, and (ii) will not, for itself, any Affiliate of Customer or any third party: (a) sell, rent, license, assign, distribute, or transfer any of the Products; (b) decipher, decompile, disassemble, reconstruct, translate, reverse engineer, or discover any source code of the Software; (c) copy any Software or Documentation, except that Customer may make a reasonable number of copies of the Documentation for its internal use (provided Customer reproduces on such copies all proprietary notices of CybrHawk or its suppliers); or (d) remove from any Software or Documentation any language or designation indicating the confidential nature thereof or the proprietary rights of CybrHawk or its suppliers. In addition, Customer will not, and will not permit unaffiliated third parties to, (I) use the Products on a time-sharing, outsourcing, service bureau, hosting, application service provider or managed service provider basis; (II) alter any aspect of any Software; or (III) assign, transfer, distribute, or otherwise provide access to any of the Products to any unaffiliated third party or otherwise use any Product with or for the benefit of any unaffiliated third party. This Section 5 shall survive any expiration or termination of this MSA.<br>
+
+**F. Proprietary Rights.**\
+**F.1** Customer’s Proprietary Rights. Customer represents and warrants that it has the necessary rights, power and authority to transmit End User Data (as defined below) to CybrHawk under this MSA. As between Customer and CybrHawk, Customer will own all right, title and interest in and to (i) any data provided by Customer and/or its Affiliate(s) to CybrHawk and/or Customer and/or its Affiliate(s)’ data accessed or used by CybrHawk or transmitted by Customer and/or its Affiliate(s) to CybrHawk, including, but not limited to, Customer's and/or its Affiliate(s)’ data included in any written or printed summaries, analyses or reports generated in connection with the Services (Customer and its Affiliate(s)’ data, collectively, the “Customer Data”), (ii) all intellectual property, including patents,\
+copyrights, trademarks, trade secrets and other proprietary information (“IP”) of Customer that may be made available to CybrHawk in the course of providing Services under this MSA, and (iii) all confidential or proprietary information of Customer or Customer Affiliates, including, but not limited to, Customer Data, Customer Reports (as defined in Section F.3), and other Customerfiles, documentation and related materials, in each case under this clause (F.1.iii), obtained by CybrHawk in connection with this MSA. During the term of the Services, Customer grants to CybrHawk a limited, non-exclusive license to use the Customer Data solely for the purposes contemplated by this MSA and for CybrHawk to perform the Services hereunder. This MSA does not transfer or convey to CybrHawk or any third party any right, title or interest in or to the Customer Data or any associated IP rights, but only a limited right of use as granted in and revocable in accordance with this MSA.
+
+\
+**F.2** CybrHawk’ Proprietary Rights. As between Customer and CybrHawk, CybrHawk will own all right, title and interest in and to the Products and Services. This MSA does not transfer or convey to Customer or any third party any right, title or interest in or to the Products and Services or any associated IP rights, but only a limited right of use as granted in and revocable in accordance with this MSA. CybrHawk will retain ownership of all copies of the Documentation. Customer agrees that CybrHawk is the owner of all right, title and interest in all IP in any work, including, but not limited to, all inventions, methods, processes, and computer programs including any source code or object code, (and any enhancements and modifications made thereto) contained within the Services and/or\
+Products (collectively, the “Works”), developed by CybrHawk in connection with the performance of the Services hereunder and of general applicability across CybrHawk’ Customer base, and Customer hereby assigns to CybrHawk all right, title and interest in and to any copyrights that Customer may have in and to such Work; provided, however, that such Work shall not include Customer’s Confidential Information (as defined in Section H), Customer Data, Customer Reports (as defined in Section F.3) or other information belonging, referencing, identifying or pertaining to Customer or Customer Affiliates. Without limiting the foregoing, CybrHawk will own all right, title and interest in\
+all IP in any advisory data, threat data, vulnerability data, analyses, summaries, bulletins and information made available to Customer in CybrHawk’ provision of its Threat Intelligence Services (the “TIS Reports”). During the term of the Services, CybrHawk grants to Customer a limited, non-exclusive license to use such Works and TIS Reports solely for Customer to receive the Services and for Customer’s or its Affiliate’s internal security purposes only. Customer acknowledges that any license to the CybrHawk Products, Services, Works and TIS Reports expires upon the expiration or termination of any individual Service Order/SOW and/or this MSA.
+
+\
+**F.3** Customer Reports. Customer shall receive periodic summaries, reports, analyses, and findings or other information or documentation prepared uniquely and exclusively for Customer in connection with the Services and as specified in the Service Order/SOW (the “Customer Reports”). The provision by Customer of any Customer Report or any information therein to any unaffiliated third party shall not entitle such unaffiliated third party to rely on the Customer Report or the contents thereof in any manner or for any purpose whatsoever, and CybrHawk specifically disclaims all liability for any damages whatsoever (whether foreseen or unforeseen, direct, indirect, consequential, incidental, special, exemplary or punitive) to such unaffiliated third party arising from or related to reliance by such unaffiliated third party on any Customer Report or any contents thereof. This Section F shall survive any expiration or termination of this MSA.
+
+\
+**G. Customer Cooperation.** Customer acknowledges that CybrHawk’ performance and delivery of the Services are contingent upon: (A) Customer providing safe and hazard-free access to its personnel, facilities, equipment, hardware, network and information, and (B) Customer’s timely decision-making, providing the requested information and granting of approvals or permissions, as (A) and (B) are deemed reasonably necessary and reasonably requested for CybrHawk to perform, deliver and/or implement the Services. Customer will promptly obtain and provide to CybrHawk any required licenses, approvals or consents necessary for CybrHawk’ performance of the Services. CybrHawk will be excused from its failure to perform its obligations under this MSA to the extent such failure is caused solely by Customer’s delay in performing or failure to perform its responsibilities under this\
+MSA and/or the Service Order/SOW.
+
+\
+**H. Confidentiality.** In the performance of the Services, Customer and CybrHawk may have access to, or be exposed to information of the other party not generally known to the public, including, but not limited to data, customer references, computer programs, technical drawings, algorithms, formulas, pricing strategies, processes, procedures, marketing materials, ideas, inventions (whether patentable or not) schematics and other technical, business, financial, customer and product development plans, forecasts, strategies, software, product plans, marketing and sales information, Customer lists, “know-how,” or trade secrets which may be designated as being confidential or which, under the\
+circumstances surrounding disclosure, ought to be treated as confidential (collectively, “Confidential Information”). Confidential Information may not be shared with third parties unless such disclosure is to personnel of CybrHawk or\
 Customer, including employees, agents and subcontractors, on a “need-to-know” basis in connection with its\
 performance obligations pursuant to this MSA, so long as such personnel have agreed to treat such Confidential\
 Information under terms at least as restrictive as those herein. Each party agrees to take the necessary precautions\
