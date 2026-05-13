@@ -15,14 +15,14 @@ This guide walks you through enabling Microsoft Defender API access in CybrHawk 
 
 * Create an Application ID and secret as described in the [Microsoft 365 Guide](microsoft-365.md).
 
-![Create Application](../.gitbook/assets/grantapi.png)
+![Create Application](<../.gitbook/assets/Screenshot 2026-05-13 111952 (1).png>)
 
 ### 2. Assign Windows Defender ATP Permissions
 
 * In your application page for CybrHawk, go to **API Permissions** > **Add permission** > **APIs my organization uses**.
 * Search for **WindowsDefenderATP** and select it.
 
-![Windows Defender ATP Permissions](../.gitbook/assets/MSDefenderATPPerms.png)
+![Windows Defender ATP Permissions](<../.gitbook/assets/Screenshot 2026-05-13 115657.png>)
 
 * Select **Application Permissions** and add the following:
 
@@ -52,7 +52,7 @@ Machine.Isolate
 
 * Click **Grant admin consent for \[Your Organization]** to grant the permissions you just added.
 
-![Grant Admin Consent](../.gitbook/assets/MSDefenderGrantAdmin.png)
+![Grant Admin Consent](<../.gitbook/assets/Screenshot 2026-05-13 120910.png>)
 
 ***
 
