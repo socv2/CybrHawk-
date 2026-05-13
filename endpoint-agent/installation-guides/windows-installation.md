@@ -9,16 +9,16 @@
    Your **Activation Code** will be displayed.
 2.  Select **Windows**, then click **Generate Download Link** followed by **Click Here to Download**.
 
-    ![Generate Download Link](<../../.gitbook/assets/Screenshot 2026-04-30 113435.png>)
+    <figure><img src="../../.gitbook/assets/Screenshot 2026-04-30 113435.png" alt="Generate Download Link" width="700"><figcaption></figcaption></figure>
 3.  After the installer downloads, double-click it to launch the setup wizard. Enter your **Activation Code** from the portal and click **Next**.
 
-    ![MSI Activation](<../../.gitbook/assets/Screenshot 2026-04-30 113740.png>)
+    <figure><img src="../../.gitbook/assets/Screenshot 2026-04-30 113740.png" alt="MSI Activation" width="460"><figcaption></figcaption></figure>
 
-    ![MSI Activation Check](<../../.gitbook/assets/Screenshot 2026-04-30 113955.png>)
+    <figure><img src="../../.gitbook/assets/Screenshot 2026-04-30 113955.png" alt="MSI Activation Check" width="460"><figcaption></figcaption></figure>
 4.  Review the Sysinternals End-User License Agreement (EULA).\
     Tick the checkbox to accept, then click **Next**.
 
-    ![MSI Install Sysinternals](<../../.gitbook/assets/Screenshot 2026-04-30 114045.png>)
+    <figure><img src="../../.gitbook/assets/Screenshot 2026-04-30 114045.png" alt="MSI Install Sysinternals" width="460"><figcaption></figcaption></figure>
 
 > **Note:**\
 > Sysinternals are Microsoft tools used to enhance endpoint telemetry. CybrHawk recommends accepting the EULA.
@@ -29,7 +29,7 @@
 
 5.  (Optional) You may see an advanced option to override the Sysinternals download source. Leave this blank unless required, then click **Next**.
 
-    ![MSI Sysinternals Redist](<../../.gitbook/assets/Screenshot 2026-04-30 114310.png>)
+    <figure><img src="../../.gitbook/assets/Screenshot 2026-04-30 114310.png" alt="MSI Sysinternals Redist" width="460"><figcaption></figcaption></figure>
 
 > **Note::**\
 > For restricted/offline networks, see **Advanced Windows Install**:\
@@ -37,10 +37,10 @@
 
 6.  Click **Install** to begin.
 
-    ![MSI Ready To Install](<../../.gitbook/assets/Screenshot 2026-04-30 114503.png>)
+    <figure><img src="../../.gitbook/assets/Screenshot 2026-04-30 114503.png" alt="MSI Ready To Install" width="460"><figcaption></figcaption></figure>
 7.  When installation completes, click **Finish**.
 
-    ![MSI Install Wizard Completion](<../../.gitbook/assets/Screenshot 2026-04-30 115531.png>)
+    <figure><img src="../../.gitbook/assets/Screenshot 2026-04-30 115531.png" alt="MSI Install Wizard Completion" width="460"><figcaption></figcaption></figure>
 
 ***
 
@@ -61,7 +61,7 @@ msiexec.exe /i TD_Endpoint.msi /qn ACTIVATION_CODE=xxx SYSINTERNALS_ACCEPT_EULA=
 1. Go to **“Apps"** then **"Installed apps”**.
 2. Type **“TD\_Endpoint”**, choose TD\_Endpoint and click **“Uninstall”**.
 
-![uninstall](<../../.gitbook/assets/Screenshot 2026-04-30 120639.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-04-30 120639.png" alt="Uninstall" width="700"><figcaption></figcaption></figure>
 
 ### Advanced Installation - Group Policy
 
@@ -71,11 +71,11 @@ For enterprise deployments, see our article on [MSI Transform files](deploying-v
 
 1. Open PowerShell by pressing `Windows Key + X` and select `Windows PowerShell (Admin)`.
 
-![Windows PowerShell](<../../.gitbook/assets/Screenshot 2026-04-30 121053.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-04-30 121053.png" alt="Windows PowerShell" width="600"><figcaption></figcaption></figure>
 
 2. Retrieve the application's `IdentifyingNumber` by entering `Get-WmiObject Win32_Product`
 
-![Retrieve the Application Key](<../../.gitbook/assets/Screenshot 2026-04-30 121532.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-04-30 121532.png" alt="Retrieve the Application Key" width="650"><figcaption></figcaption></figure>
 
 3. Uninstall the application using the following command, replacing `IdentifyingNumber` with that retrieved in the previous step:
 
@@ -89,7 +89,7 @@ Ensure you enclose the **IdentifyingNumber** with double quotes. e.g.
 msiexec.exe /x "{3638F48F-EB6C-4761-87E6-5B7E3C236BB2}" /qn
 ```
 
-![Uninstall the Application](<../../.gitbook/assets/Screenshot 2026-04-30 122117.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-04-30 122117.png" alt="Uninstall the Application" width="600"><figcaption></figcaption></figure>
 
 TD\_Endpoint agent will now be uninstalled from your system.
 
