@@ -107,6 +107,6 @@ With the SIEM Platform, your team is in full control of your security operations
 * Analyst training for the platform.
 * Defining escalation workflows.
 
-**Contact Support:** [support at threatdefence dot com](mailto:support@threatdefence.com)
+**Contact Support:** [socv2@cybrhawk.com](mailto:socv2@cybrhawk.com)
 
 ***
