@@ -14,7 +14,7 @@ Many options:
 
 Under main menu/Network. Network traffic flows contains all traffic metadata for full assurance, so breaches will be recorded even if not detected and includes all business traffic. The other dashboards contain data for individual traffic types:
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-05-13 121705.png" alt=""><figcaption></figcaption></figure>
 
 ## How to inspect incoming traffic only?
 
