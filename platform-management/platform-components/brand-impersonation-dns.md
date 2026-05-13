@@ -25,8 +25,6 @@ The LookAlike domain module proactively defends your organization against brand 
 3. **Threat Scoring & Analysis:** Each detected domain is analyzed and scored based on factors like registration date, registrar reputation, and similarity to your legitimate domains.
 4. **Automated Takedown Proposals:** For high-risk domains, the system automatically generates takedown requests and provides you with the necessary evidence and procedures to initiate removal.
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
-
 ***
 
 **What It Discovers**

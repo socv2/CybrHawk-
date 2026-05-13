@@ -10,7 +10,7 @@ description: >-
 
 To add or edit users, login to the customer portal and navigate to "My Tenants" then Click on "Users" as below:
 
-<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-13 124354.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Note: You will need be an Admin within your MSP or Tenant, or have the 'IAM Admin' permission assigned to you user, to be able to see and manage other users.
@@ -18,7 +18,7 @@ Note: You will need be an Admin within your MSP or Tenant, or have the 'IAM Admi
 
 To add a new user, click the "ADD" button in the upper right-hand corner, as highlighted below:
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-13 124354 (1).png" alt=""><figcaption></figcaption></figure>
 
 After clicking "ADD" you'll be able to enter the required fields to create a user:
 

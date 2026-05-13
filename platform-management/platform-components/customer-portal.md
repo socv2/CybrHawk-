@@ -12,8 +12,8 @@ Here are some examples of the information available via the Customer Portal:
 * **Escalation Tracking**: Information on the escalation process for high-severity incidents, including timelines and response strategies.
 * **Management Reports**: Periodic reports detailing your organization's security posture and metrics.
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-05-13 122532 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-05-13 124030.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-05-13 124243.png" alt=""><figcaption></figcaption></figure>
