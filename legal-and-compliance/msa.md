@@ -83,29 +83,10 @@ MSA and/or the Service Order/SOW.
 
 \
 **H. Confidentiality.** In the performance of the Services, Customer and CybrHawk may have access to, or be exposed to information of the other party not generally known to the public, including, but not limited to data, customer references, computer programs, technical drawings, algorithms, formulas, pricing strategies, processes, procedures, marketing materials, ideas, inventions (whether patentable or not) schematics and other technical, business, financial, customer and product development plans, forecasts, strategies, software, product plans, marketing and sales information, Customer lists, “know-how,” or trade secrets which may be designated as being confidential or which, under the\
-circumstances surrounding disclosure, ought to be treated as confidential (collectively, “Confidential Information”). Confidential Information may not be shared with third parties unless such disclosure is to personnel of CybrHawk or\
-Customer, including employees, agents and subcontractors, on a “need-to-know” basis in connection with its\
-performance obligations pursuant to this MSA, so long as such personnel have agreed to treat such Confidential\
-Information under terms at least as restrictive as those herein. Each party agrees to take the necessary precautions\
-to maintain the confidentiality of Confidential Information by using at least the same degree of care as such party\
-employs with respect to its own Confidential Information of a like-kind nature, but in no case less than a\
-commercially reasonable standard of care. The foregoing shall not include information, which, (A) was known by one\
-party prior to its receipt from the other or is or becomes public knowledge without the fault of the recipient, (B) is\
-received by the recipient from a source other than a party to this MSA, (C) is independently developed by a party\
-without causing a breach of the terms hereunder, or (D) a party is required to disclose in response to an order by a\
-court or governmental agency, provided that advance notice of the disclosure is provided to other party.
+circumstances surrounding disclosure, ought to be treated as confidential (collectively, “Confidential Information”). Confidential Information may not be shared with third parties unless such disclosure is to personnel of CybrHawk or Customer, including employees, agents and subcontractors, on a “need-to-know” basis in connection with its performance obligations pursuant to this MSA, so long as such personnel have agreed to treat such Confidential Information under terms at least as restrictive as those herein. Each party agrees to take the necessary precautions to maintain the confidentiality of Confidential Information by using at least the same degree of care as such party\
+employs with respect to its own Confidential Information of a like-kind nature, but in no case less than a commercially reasonable standard of care. The foregoing shall not include information, which, (A) was known by one party prior to its receipt from the other or is or becomes public knowledge without the fault of the recipient, (B) is received by the recipient from a source other than a party to this MSA, (C) is independently developed by a party without causing a breach of the terms hereunder, or (D) a party is required to disclose in response to an order by a court or governmental agency, provided that advance notice of the disclosure is provided to other party.
 
-During the term of this MSA and the Services, CybrHawk shall employ and maintain reasonable and appropriate\
-safeguards designed to: (a) reasonably protect all confidential information in CybrHawk’ possession and control,\
-from unauthorized use, alteration, access or disclosure; (b) detect and prevent against a Security Breach (as defined\
-below); and (c) ensure that CybrHawk’ employees and agents are appropriately trained to maintain the\
-confidentiality and security of Customer Data in CybrHawk’ possession.\
-CybrHawk agrees to promptly notify Customer upon becoming aware of a confirmed use or disclosure of Customer\
-Data or Customer Confidential Information in violation of this MSA (a "Security Breach").\
-This Section H shall survive for three (3) years following any termination or expiration of this MSA; provided that\
-with respect to any Confidential Information remaining in the receiving party’s possession following any termination\
-or expiration of this MSA, the obligations under this Section shall survive for as long as such Confidential Information\
-remains in such party’s possession.
+During the term of this MSA and the Services, CybrHawk shall employ and maintain reasonable and appropriate safeguards designed to: (a) reasonably protect all confidential information in CybrHawk’ possession and control, from unauthorized use, alteration, access or disclosure; (b) detect and prevent against a Security Breach (as defined below); and (c) ensure that CybrHawk’ employees and agents are appropriately trained to maintain the confidentiality and security of Customer Data in CybrHawk’ possession. CybrHawk agrees to promptly notify Customer upon becoming aware of a confirmed use or disclosure of Customer Data or Customer Confidential Information in violation of this MSA (a "Security Breach"). This Section H shall survive for three (3) years following any termination or expiration of this MSA; provided that with respect to any Confidential Information remaining in the receiving party’s possession following any termination or expiration of this MSA, the obligations under this Section shall survive for as long as such Confidential Information remains in such party’s possession.
 
 I. Non-Solicitation\
 During the term of this Agreement and for twenty-four (24) months after any termination of this Agreement,\
