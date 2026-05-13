@@ -18,7 +18,7 @@ Integrating Proofpoint with CybrHawk enables ingestion of advanced email threat 
 
 ## Step 2: Configuration in CybrHawk
 
-Provide the following details to your CybrHawk representative at [**CybrHawk Support**](mailto:support@threatdefence.com):
+Provide the following details to your CybrHawk representative at [**CybrHawk Support**](mailto:socv2@cybrhawk.com):
 
 * **Service Principal**
 * **Secret**

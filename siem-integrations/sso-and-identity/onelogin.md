@@ -26,7 +26,7 @@ Cybrhawk integrates with **OneLogin** to collect authentication and identity act
 
 ## Step 2. Provide Credentials to Cybrhawk
 
-Send the following details to 📧 **support@threatdefence.com**:
+Send the following details to 📧 **socv2@cybrhawk.com**:
 
 * **Account Name** (unique, descriptive identifier for this integration)
 * **Region** (your OneLogin region)

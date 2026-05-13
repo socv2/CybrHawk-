@@ -62,7 +62,7 @@ To reduce noise:
 
 ## Step 5. Configure CybrHawk Integration
 
-Provide the following details to your CybrHawk representative at [**support@threatdefence.com**](mailto:support@threatdefence.com):
+Provide the following details to your CybrHawk representative at [**socv2@cybrhawk.com**](mailto:socv2@cybrhawk.com):
 
 * **Account ID**
 * **API Key**

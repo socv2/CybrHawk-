@@ -27,7 +27,7 @@ For setup, follow the [AWS SQS Integration Guide](../public-cloud/aws-sqs.md).
 
 1. Configure Cloudflare **Logpush** to deliver events into your AWS SQS queue.
 2. Ensure the queue is configured according to the [AWS SQS integration steps](../public-cloud/aws-sqs.md).
-3. Send the queue details (ARN, region, and access keys if applicable) to 📧 **support@threatdefence.com**.
+3. Send the queue details (ARN, region, and access keys if applicable) to 📧 **socv2@cybrhawk.com**.
 4. CybrHawk engineers will validate ingestion and confirm visibility of Cloudflare events.
 
 ***

@@ -2,7 +2,7 @@
 
 ## Overview
 
-In situations where the standard uninstallation process cannot be used, ThreatDefence provides a **Cleanup Tool**. This utility completely removes the **TD\_Endpoint** software from a host system.
+In situations where the standard uninstallation process cannot be used, CybrHawk provides a **Cleanup Tool**. This utility completely removes the **TD\_Endpoint** software from a host system.
 
 ***
 

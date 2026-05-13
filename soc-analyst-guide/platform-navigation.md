@@ -30,7 +30,7 @@ Dashboards include filters and search controls to refine alerts and focus invest
 *   **Menu Filters** – Predefined options for narrowing down alerts, including:
 
     * Alert Status (Open, Closed, In Progress)
-    * Tenant (e.g., threatdefence, tdsoc, acme)
+    * Tenant (e.g., cybrhawk, chsoc, acme)
     * Data Source (e.g., Keycloak, O365, NDR, Dark Web, Mailgun, google\_workspace.drive)
     * Technique (e.g., Indicator, Exploit Public-Facing, Valid Accounts)
     * AI Outcome, MSP, Severity, Tags

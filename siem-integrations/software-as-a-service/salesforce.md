@@ -106,4 +106,4 @@ Share the following values with your CybrHawk representative at [**socv2@cybrhaw
 4. **Client Secret** — Consumer Secret from the Connected App
 5. **Domain URL** — Current My Domain URL from My Domain settings
 
-ThreatDefence will configure ingestion using these d
+CybrHawk will configure ingestion using these d

@@ -68,7 +68,7 @@ Access the platform analyst console. In summary, you can investigate, hunt, tria
 *   **Menu Filters: Use predefined options like:
 
     * Alert Status (e.g., Open, Closed, In Progress).
-    * Tenant (e.g., threatdefence, tdsoc, acme).
+    * Tenant (e.g., cybrhawk, chsoc, acme).
     * Root Cause, Data Source (e.g., Keycloak, O365, NDR, Dark Web, Mailgun, google\_workspace.drive, Network Intrusion).
     * Technique (e.g., Indicator, Exploit Public-Facing, Valid Accounts).
     * AI Outcome, MSP, Severity, Tags.
@@ -84,7 +84,7 @@ Access the platform analyst console. In summary, you can investigate, hunt, tria
     * Anomalies (e.g., Open, High Risk).
     * Detection Types (e.g., Spikes, Informational).
     * Techniques (e.g., LOGIN\_ERROR).
-    * Impacted Sites/Tenants (e.g., threatdefence).
+    * Impacted Sites/Tenants (e.g., cybrhawk).
     * Indicators (e.g., IP addresses, geolocations like Australia/Germany).
     * Detection Sources by Severity (e.g., pie chart for Keycloak, HIDS).
     * Top 5: Highlights frequent entities (e.g., SOC-SNAP-1.SOC.LAB.LOCAL, users like Emily/Chris).
@@ -103,7 +103,7 @@ Access the platform analyst console. In summary, you can investigate, hunt, tria
 * Set some data filters to remove noise: from the header menu, choose tenant:"your site", Alert Status: Escalated, Data Source:O365, for example. If you prefer to use the keyboard, in the search bar any queries can be used:
   * `user.name:john AND source.ip:10.10.10.10 AND (destination.port:(445 OR 446) OR destination:ip:"12.12.12.0/24")`
   * _Tip: Use asterisks (`*`) as wildcards and `AND,OR` to connect keywords._
-* Review aggregated charts for patterns: Check Techniques (e.g., LOGIN\_ERROR), Impacted Sites (e.g., threatdefence), and Indicators (e.g., IPs, countries like India/Germany).
+* Review aggregated charts for patterns: Check Techniques (e.g., LOGIN\_ERROR), Impacted Sites (e.g., cybrhawk), and Indicators (e.g., IPs, countries like India/Germany).
 
 #### Step 2: Inspect Individual Alerts in Detections Feed
 
@@ -111,7 +111,7 @@ Access the platform analyst console. In summary, you can investigate, hunt, tria
 * For each row, examine columns:
   * **Time**: E.g., Sep 12, 2025 @ 11:50:01.370.
   * **td.alert.name**: Alert type (e.g., Spike Of KeyCloak Errors).
-  * **td.alert.message**: High-level forensics (e.g., "KeyCloak Identity Server reports spike of LOGIN\_ERROR events with user\_temporarily\_disabled, last seen user was \['acme.tester'], Australia, NA, IP, threatdefence."). Use this to establish initial closure:
+  * **td.alert.message**: High-level forensics (e.g., "KeyCloak Identity Server reports spike of LOGIN\_ERROR events with user\_temporarily\_disabled, last seen user was \['acme.tester'], USA, NA, IP, cybrhawk."). Use this to establish initial closure:
     * Benign? (E.g., known maintenance.)
     * Malicious? (E.g., unusual IP/location.)
     * Needs more info? Proceed to expansion.
@@ -160,6 +160,6 @@ Access the platform analyst console. In summary, you can investigate, hunt, tria
 * No alerts? Check filters (e.g., remove NOT #closed) or data ingestion.
 * Hunt not loading? Ensure tenant permissions; contact support via platform chat.
 * Re-open issues? Search by Time/Name and edit status.
-* For platform updates, visit https://docs.threatdefence.com or the interactive tour at threatdefence.com.
+* For platform updates, visit https://docs.cybrhawk.com or the interactive tour at cybrhawk.com.
 
 This manual ensures efficient, evidence-based triage, aligning with Cybrhawk's goal of transforming data into actionable security. Review quarterly or after platform updates.

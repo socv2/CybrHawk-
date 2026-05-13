@@ -11,6 +11,6 @@ To integrate Trend Micro with CybrHawk, follow these steps:
 
 **Provide CybrHawk with Client Information**:
 
-* Provide the following information to your CybrHawk representative at [CybrHawk Support](mailto:support@threatdefence.com):
+* Provide the following information to your CybrHawk representative at [CybrHawk Support](mailto:socv2@cybrhawk.com):
 * Trend Micro API Key
 * Trend Micro API Secret.

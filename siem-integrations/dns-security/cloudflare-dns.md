@@ -27,7 +27,7 @@ For setup, follow the [AWS SQS Integration Guide](../public-cloud/aws-sqs.md).
 
 1. Configure Cloudflare DNS Security **Logpush** to deliver logs to your AWS SQS queue.
 2. Follow the [AWS SQS integration steps](../public-cloud/aws-sqs.md) to prepare the queue.
-3. Send the SQS queue details (ARN, region, access keys if applicable) to 📧 **support@threatdefence.com**.
+3. Send the SQS queue details (ARN, region, access keys if applicable) to 📧 **socv2@cybrhawk.com**.
 4. CybrHawk engineers will validate ingestion and confirm DNS logs are flowing into the platform.
 
 ***
