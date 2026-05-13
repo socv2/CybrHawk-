@@ -18,7 +18,7 @@ The platform is delivered as a cloud-hosted service, with lightweight data colle
 
 At a high level, the platform architecture can be represented as follows:
 
-![CybrHawk Platform Overview Diagram](../.gitbook/assets/platform-overview.png)
+![CybrHawk Platform Overview Diagram](<../.gitbook/assets/Screenshot 2026-05-13 123105.png>)
 
 ***
 
