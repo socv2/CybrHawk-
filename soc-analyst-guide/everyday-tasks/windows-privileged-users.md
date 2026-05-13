@@ -8,7 +8,7 @@ Monitoring privileged user activity helps SecOps teams detect unauthorized or su
 
 ## Data Source
 
-Privileged activity data is collected via the **ThreatDefence Endpoint Agent**:
+Privileged activity data is collected via the **Cybrhawk Endpoint Agent**:
 
 * **EventCode**: `4672` – _Special privileges assigned to new logon_
 
@@ -64,7 +64,7 @@ When investigating privileged activity, the following fields provide context:
 
 ## Dashboard Access
 
-Privileged activity is monitored in the **Users With Admin Rights** dashboard within the ThreatDefence Analyst Console.
+Privileged activity is monitored in the **Users With Admin Rights** dashboard within the Cybrhawk Analyst Console.
 
 * **From the Menu**:
   1. Open the **Dashboards** section in the left-hand navigation panel.

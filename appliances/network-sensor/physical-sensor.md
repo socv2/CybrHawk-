@@ -1,6 +1,6 @@
 # Physical Sensor
 
-Physical NDR sensors are designed for **plug-and-play functionality** straight out of the box. They only need to be connected to your network via the **management port** and assigned an IP address by your **DHCP server**. Once the sensor establishes an internet connection, it begins to inspect traffic through the data ports and sends aggregated security events to the ThreatDefence SaaS platform.
+Physical NDR sensors are designed for **plug-and-play functionality** straight out of the box. They only need to be connected to your network via the **management port** and assigned an IP address by your **DHCP server**. Once the sensor establishes an internet connection, it begins to inspect traffic through the data ports and sends aggregated security events to the Cybrhawk SaaS platform.
 
 ***
 
@@ -36,9 +36,9 @@ A **rack-mountable (1 RU)** sensor suited for larger deployments, capable of pro
    *   Connect the sensor to power and network.
 
        > **Note:** The **first port (from the left)** is designated for **management**. The remaining ports are configured for **mirroring network traffic**.
-2. **Integration with ThreatDefence Platform**
+2. **Integration with Cybrhawk Platform**
    * Sensors are shipped **pre-configured**.
-   * Once powered and connected, the sensor will automatically integrate with the **ThreatDefence platform**.
+   * Once powered and connected, the sensor will automatically integrate with the **Cybrhawk platform**.
 3. **Additional Setup**
    *   Create a **mirror/SPAN port** on your switch’s inside firewall port and connect it to a free network port.
 
