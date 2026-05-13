@@ -14,7 +14,7 @@ Other dashboards provide **forensic visibility into specific data sources**. The
 * **Cloud** – Audit and assessment events from cloud environments like O365, AWS, and GCP.
 * **Network** – Data from Cybrhawk NDR sensors, including flow visibility and network intrusion detections.
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-13 150017.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
