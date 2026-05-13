@@ -29,7 +29,7 @@ Your primary view is the **Security Detections** dashboard. Before you start, en
         **More complex example:** Find some connections from John on certain service:
     * `user.name:john AND source.ip:`<sub>`2.2.2.2`</sub>` `` ``AND destination.port:(445 OR 446) `
 
-    <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Screenshot 2026-05-13 125400.png" alt=""><figcaption></figcaption></figure>
 * _Tip: Use asterisks (`*`) as wildcards and `AND` to connect keywords._
 
 ***
