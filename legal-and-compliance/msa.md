@@ -2,121 +2,57 @@
 
 **Appendix 1 - Master Services Agreement**
 
-This Master Service Agreement (“MSA”) is entered into by CybrHawk Inc (“CybrHawk”) , located at 110 SE 6th Street\
-Suite #1700, Fort Lauderdale, FL 33301 , or one of its Affiliates (as defined in Section B.8 below) and the Customer\
-entity identified above, which may include Customer Affiliate(s) (as defined in Section B.8 below) as of the Effective\
-Date (as defined by the latest date in the signature block of the Service Order or SOW, defined in Section A.1, or if\
-Customer purchased Services online, the date which such online purchase was accepted by CybrHawk Inc).\
-CybrHawk and Customer hereby agree to the following terms and conditions:
+This Master Service Agreement (“MSA”) is entered into by CybrHawk Inc (“CybrHawk”) , located at 110 SE 6th Street Suite #1700, Fort Lauderdale, FL 33301 , or one of its Affiliates (as defined in Section B.8 below) and the Customer entity identified above, which may include Customer Affiliate(s) (as defined in Section B.8 below) as of the Effective Date (as defined by the latest date in the signature block of the Service Order or SOW, defined in Section A.1, or if Customer purchased Services online, the date which such online purchase was accepted by CybrHawk Inc). CybrHawk and Customer hereby agree to the following terms and conditions:
 
 
 
+**A. Services and Order of Precedence.**\
+**A.1** Services. During the term of this MSA and subject to the terms and conditions herein, CybrHawk agrees to provide certain: (i) Managed Cybersecurity Services (“MCS Services”), and/or (ii) Consulting Services purchased by Customer in accordance with the terms of this agreement. The MCS Services and Consulting Services are collectively referred to hereafter as the “Services”. The Services being purchased are specified in a physical, electronic or online service order (“Service Order”) or statement of work (“SOW”) executed (or, if online, accepted pursuant to an online order process) by the parties which will be incorporated as part of this MSA. A document becomes a Service Order or SOW once accepted by the Customer. A detailed description of the MCS Services being purchased is provided in the service description and/or service level agreement (“SLA”) for such MCS Services attached to the Service Order (or linked to if the Customer is purchasing online) and incorporated therein by reference. Certain Consulting Services may be purchased online. If Customer is purchasing Consulting Services online, a link to an SLA for the applicable Consulting Service is provided. All Services Orders (whether signed or accepted pursuant to an online order process) and all SOWs are subject to the terms and conditions of this MSA and will include the following: (i) the particular Services to be performed, including, if applicable, any SLAs; (i) the term of the Services; (iii) the compensation and billing method for the Services; and (iv) any other applicable information agreed to by the parties.
 
+\
+**A.2** Order of Precedence. In the event of a conflict between the terms of the MSA and a Service Order/SOW (including any exhibits or attachments thereto), the terms of the Service Order/SOW shall govern but only as regards to such Service Order/SOW.
 
-A. Services and Order of Precedence.\
-A.1 Services. During the term of this MSA and subject to the terms and conditions herein, CybrHawk agrees to\
-provide certain: (i) Managed Cybersecurity Services (“MCS Services”), and/or (ii) Consulting Services purchased by\
-Customer in accordance with the terms of this agreement. The MCS Services and Consulting Services are collectively\
-referred to hereafter as the “Services”. The Services being purchased are specified in a physical, electronic or online\
-service order (“Service Order”) or statement of work (“SOW”) executed (or, if online, accepted pursuant to an online\
-order process) by the parties which will be incorporated as part of this MSA. A document becomes a Service Order\
-or SOW once accepted by the Customer. A detailed description of the MCS Services being purchased is provided in\
-the service description and/or service level agreement (“SLA”) for such MCS Services attached to the Service Order\
-(or linked to if the Customer is purchasing online) and incorporated therein by reference. Certain Consulting Services\
-may be purchased online. If Customer is purchasing Consulting Services online, a link to an SLA for the applicable\
-Consulting Service is provided. All Services Orders (whether signed or accepted pursuant to an online order process)\
-and all SOWs are subject to the terms and conditions of this MSA and will include the following: (i) the particular\
-Services to be performed, including, if applicable, any SLAs; (i) the term of the Services; (iii) the compensation and\
-billing method for the Services; and (iv) any other applicable information agreed to by the parties.\
-A.2 Order of Precedence. In the event of a conflict between the terms of the MSA and a Service Order/SOW\
-(including any exhibits or attachments thereto), the terms of the Service Order/SOW shall govern but only as regards\
-to such Service Order/SOW.
+**B. Fees; Taxes; Invoicing and Payment.**\
+**B.1** MCS Services Fees. CybrHawk’ fees for the MCS Services are provided by CybrHawk Inc. The MCS Services ordered will commence on the first day in which CybrHawk: (a) has established communication with the contracted Customer device(s) and/or Equipment/Customer Purchased Equipment; and (b) has verified the availability of Customer Data (as defined in Section F.1 below) on the CybrHawk Customer portal, (the “Service Commencement Date”), and CybrHawk shall, through a distribution company, invoice Customer for such MCS Services on or after the Service Commencement Date.\
+If Customer is ordering Infrastructure Monitoring, Security Information and Event Management, Managed and Monitored Firewall, Managed and Monitored Integrated Appliance, or Managed and Monitored Next Generation Firewall MCS Services pursuant to the Service Order or SOW, Customer shall be billed for the entire number of devices in the tier being purchased (as outlined in the Service Order) upon the Service Commencement Date of the initial device. If there are any devices remaining to be integrated thereafter, Customer shall be responsible for initiating the integration of such devices via the Portal (as defined in Section E below).
 
+\
+**B.2** Consulting Service Fees. CybrHawk’ fees and billing milestones for the Consulting Services are set forth on the SOW or Service Order (as applicable).
 
+\
+**B.3** Change Control. “Change” means any change to the Services that (i) would modify or alter the delivery of the Services or the composition of the Services, (ii) would alter the cost to Customer for the Services, or (iii) is agreed by Customer and CybrHawk in writing to be a Change. From time to time during the term of the Services, Customer or CybrHawk may propose Changes to the Services. Any Change to the applicable Service Order/SOW shall be: (i) approved by both CybrHawk and Customer, (ii) executed by an authorized representative of Customer and CybrHawk, and (iii) memorialized in a change order (“Change Order”) or other written amendment that specifically\
+identifies the portion of the Service Order/SOW that is the subject of the modification or amendment and the changed or new provision.
 
-B. Fees; Taxes; Invoicing and Payment.\
-B.1 MCS Services Fees. CybrHawk’ fees for the MCS Services are provided by CybrHawk Inc. The MCS Services\
-ordered will commence on the first day in which CybrHawk: (a) has established communication with the contracted\
-Customer device(s) and/or Equipment/Customer Purchased Equipment; and (b) has verified the availability of\
-Customer Data (as defined in Section F.1 below) on the CybrHawk Customer portal, (the “Service Commencement\
-Date”), and CybrHawk shall, through a distribution company, invoice Customer for such MCS Services on or after the\
-Service Commencement Date.\
-If Customer is ordering Infrastructure Monitoring, Security Information and Event Management, Managed and\
-Monitored Firewall, Managed and Monitored Integrated Appliance, or Managed and Monitored Next Generation\
-Firewall MCS Services pursuant to the Service Order or SOW, Customer shall be billed for the entire number of\
-devices in the tier being purchased (as outlined in the Service Order) upon the Service Commencement Date of the\
-initial device. If there are any devices remaining to be integrated thereafter, Customer shall be responsible for\
-initiating the integration of such devices via the Portal (as defined in Section E below).\
-B.2 Consulting Service Fees. CybrHawk’ fees and billing milestones for the Consulting Services are set forth on the\
-SOW or Service Order (as applicable).\
-B.3 Change Control. “Change” means any change to the Services that (i) would modify or alter the delivery of the\
-Services or the composition of the Services, (ii) would alter the cost to Customer for the Services, or (iii) is agreed by\
-Customer and CybrHawk in writing to be a Change. From time to time during the term of the Services, Customer or\
-CybrHawk may propose Changes to the Services. Any Change to the applicable Service Order/SOW shall be: (i)\
-approved by both CybrHawk and Customer, (ii) executed by an authorized representative of Customer and\
-CybrHawk, and (iii) memorialized in a change order (“Change Order”) or other written amendment that specifically\
-identifies the portion of the Service Order/SOW that is the subject of the modification or amendment and the\
-changed or new provision.\
-B.4 Customer Premise Work. If and to the extent that the implementation, performance or delivery of the Services\
-require CybrHawk to be present at the Customer’s premises, then, upon receiving travel approval from Customer\
-and subject to CybrHawk’ adherence to the CybrHawk travel reimbursement policy, or other travel reimbursement\
-guidelines set forth in the Service Order/SOW, Customer shall reimburse CybrHawk for all reasonable and actual\
-out-of-pocket travel expenses, including, but not limited to, hotel, airfare, transportation and meals, incurred in\
-connection with the implementation, performance or delivery of the Services.\
-B.5 Taxes. Customer shall be responsible, on behalf of itself and its Affiliate(s), for the payment of all taxes and fees\
-assessed or imposed on the Services provided or the amounts charged under the Service Order/SOW in any country\
-or territory in which the Customer receives the benefit of the Services, including any sales, use, excise, value-added,\
-or comparable taxes, but excluding taxes: (i) for which the Customer has provided a valid resale or exemption\
-certificate, or (ii) imposed on CybrHawk’ income or arising from the employment relationship between CybrHawk and its employees. Should any payments become subject to withholding tax, the Customer will deduct these taxes\
-from the amount owed and pay the taxes to the appropriate tax authority in accordance with applicable tax laws.\
-Customer will promptly provide CybrHawk with receipts or documents evidencing these tax payments. CybrHawk\
-shall not be liable for any withholding tax, penalty or interest due as a result of Customer’s failure to withhold any\
-applicable tax.\
-B.6 Invoices and Payments. Customer willreceive invoicesfrom a CybrHawk appointed Distributor. Customer agrees\
-to abide by the payment terms and conditions of the Distributor.\
-B.7 Disputes and Nonpayment. Customer can reasonably dispute any invoice or any portion of any invoice claimed\
-from Distributor as due and payable provided that, prior to the Invoice Due Date, Customer (i) timely pays any\
-undisputed portion of the amount due and payable, and (ii) provides Distributor with written notice specifying the\
-disputed amount and the basis for the dispute in reasonable detail.\
-Except for amounts that are disputed by Customer, in accordance with this Section B.7, Distributor reserves the right\
-to charge Customer a late fee of two percent (2%) per month or the maximum rate permitted by law, whichever is\
-less, for invoices not paid on or before the Invoice Due Date. In addition, Distributor, without waiving any other\
-rights or remedies to which it may be entitled, shall have the right, upon 7 days prior written notice to Customer, to\
-suspend the Services until such payment is received.\
-B.8 Affiliates. As used herein, the term “Affiliate” with respect to a party means any entity that, directly or indirectly,\
-through one or more intermediaries, controls, is controlled by or is under common control with such party.\
-“Customer” may include Customer’s Affiliate(s): (i) receiving the benefit of the Services through Customer’s purchase\
-of the Services, or (ii) whose data is included, accessed or received by CybrHawk in connection with the performance\
-of the Services for Customer. With respect to such Customer Affiliate(s), Customer hereby represents and warrants\
-that: (A) Customer has obtained the necessary consent from each Customer Affiliate for CybrHawk to access such\
-Customer Affiliate’s networks and data in connection with providing the Services, and (B) each Customer Affiliate\
-agrees to, and is hereby legally bound by, the terms of this MSA. The parties acknowledge and agree that Customer\
-Affiliate(s) are not intended to be third party beneficiaries to this MSA. Customer & CybrHawk agrees to a mutual\
-and fully liable for any breach of the terms of this MSA by its Affiliate(s) receiving or having access to the Services\
-hereunder.\
-In addition, in the event that a Customer Affiliate with a location outside of the United States is purchasing Services\
-under this MSA (“Customer International Affiliate”), (i) such Customer International Affiliate shall enter into a\
-Service Order and/or SOW directly with the CybrHawk local Affiliate (“CybrHawk Local Affiliate”) for such Services,\
-and (ii) Customer shall execute a local country addendum specifying any local country required terms on behalf of\
-Customer’s International Affiliate. For the purposes of either party’s Affiliate(s) performing, receiving or purchasing\
-Services hereunder, references to CybrHawk and Customer herein shall be deemed references to such party’s\
-respective Affiliate(s).
+\
+**B.4** Customer Premise Work. If and to the extent that the implementation, performance or delivery of the Services require CybrHawk to be present at the Customer’s premises, then, upon receiving travel approval from Customer and subject to CybrHawk’ adherence to the CybrHawk travel reimbursement policy, or other travel reimbursement guidelines set forth in the Service Order/SOW, Customer shall reimburse CybrHawk for all reasonable and actual out-of-pocket travel expenses, including, but not limited to, hotel, airfare, transportation and meals, incurred in connection with the implementation, performance or delivery of the Services.
 
+\
+**B.5** Taxes. Customer shall be responsible, on behalf of itself and its Affiliate(s), for the payment of all taxes and fees assessed or imposed on the Services provided or the amounts charged under the Service Order/SOW in any country or territory in which the Customer receives the benefit of the Services, including any sales, use, excise, value-added, or comparable taxes, but excluding taxes: (i) for which the Customer has provided a valid resale or exemption certificate, or (ii) imposed on CybrHawk’ income or arising from the employment relationship between CybrHawk and its employees. Should any payments become subject to withholding tax, the Customer will deduct these taxes from the amount owed and pay the taxes to the appropriate tax authority in accordance with applicable tax laws. Customer will promptly provide CybrHawk with receipts or documents evidencing these tax payments. CybrHawk shall not be liable for any withholding tax, penalty or interest due as a result of Customer’s failure to withhold any applicable tax.
 
+\
+**B.6** Invoices and Payments. Customer willreceive invoicesfrom a CybrHawk appointed Distributor. Customer agrees to abide by the payment terms and conditions of the Distributor.
 
-B.9 Third-Party Product Purchases. If Customer is purchases any third-party products or services (“Third-Party\
-Purchases”) as specified on the Service Order and/or SOW, Customer agrees that it will comply with any third-party\
-flow down terms and conditions, including but not limited to, any third-party end-user license agreement attached\
-to the Service Order or SOW relating to such Third-Party Purchases.\
-C. Term of MSA; Service Order(s) and SOW(s).\
-C.1 Term of MSA. The term of this MSA shall commence on the Effective Date and shall continue until the\
-completion, termination or expiration of the Services set forth on the Service Order/ SOW or until this MSA is\
-terminated pursuant to the provisions hereof.\
-C.2 Term of Service Orders/SOW(s). The term for the Services is specified on the Service Order and/or SOW.\
-D. Termination.\
-D.1 Termination for Breach. Either party may terminate this MSA or the Service Order and/or SOW in the event that\
-the other party materially defaults in performing any obligation under this MSA (including any Service Order/SOW)\
-and such default continues un-remedied for a period of thirty (30) days following written notice of default. If this\
+\
+**B.7** Disputes and Nonpayment. Customer can reasonably dispute any invoice or any portion of any invoice claimed from Distributor as due and payable provided that, prior to the Invoice Due Date, Customer (i) timely pays any undisputed portion of the amount due and payable, and (ii) provides Distributor with written notice specifying the disputed amount and the basis for the dispute in reasonable detail. Except for amounts that are disputed by Customer, in accordance with this Section B.7, Distributor reserves the right to charge Customer a late fee of two percent (2%) per month or the maximum rate permitted by law, whichever is less, for invoices not paid on or before the Invoice Due Date. In addition, Distributor, without waiving any other rights or remedies to which it may be entitled, shall have the right, upon 7 days prior written notice to Customer, to suspend the Services until such payment is received.
+
+\
+**B.8** Affiliates. As used herein, the term “Affiliate” with respect to a party means any entity that, directly or indirectly, through one or more intermediaries, controls, is controlled by or is under common control with such party. “Customer” may include Customer’s Affiliate(s): (i) receiving the benefit of the Services through Customer’s purchase of the Services, or (ii) whose data is included, accessed or received by CybrHawk in connection with the performance of the Services for Customer. With respect to such Customer Affiliate(s), Customer hereby represents and warrants\
+that: (A) Customer has obtained the necessary consent from each Customer Affiliate for CybrHawk to access such Customer Affiliate’s networks and data in connection with providing the Services, and (B) each Customer Affiliate agrees to, and is hereby legally bound by, the terms of this MSA. The parties acknowledge and agree that Customer Affiliate(s) are not intended to be third party beneficiaries to this MSA. Customer & CybrHawk agrees to a mutual and fully liable for any breach of the terms of this MSA by its Affiliate(s) receiving or having access to the Services hereunder.\
+In addition, in the event that a Customer Affiliate with a location outside of the United States is purchasing Services under this MSA (“Customer International Affiliate”), (i) such Customer International Affiliate shall enter into a Service Order and/or SOW directly with the CybrHawk local Affiliate (“CybrHawk Local Affiliate”) for such Services, and (ii) Customer shall execute a local country addendum specifying any local country required terms on behalf of Customer’s International Affiliate. For the purposes of either party’s Affiliate(s) performing, receiving or purchasing\
+Services hereunder, references to CybrHawk and Customer herein shall be deemed references to such party’s respective Affiliate(s).
+
+**B.9** Third-Party Product Purchases. If Customer is purchases any third-party products or services (“Third-Party Purchases”) as specified on the Service Order and/or SOW, Customer agrees that it will comply with any third-party flow down terms and conditions, including but not limited to, any third-party end-user license agreement attached to the Service Order or SOW relating to such Third-Party Purchases.
+
+\
+**C. Term of MSA; Service Order(s) and SOW(s).**\
+**C.1** Term of MSA. The term of this MSA shall commence on the Effective Date and shall continue until the completion, termination or expiration of the Services set forth on the Service Order/ SOW or until this MSA is terminated pursuant to the provisions hereof.
+
+\
+**C.2** Term of Service Orders/SOW(s). The term for the Services is specified on the Service Order and/or SOW.
+
+\
+**D. Termination.**\
+**D.1** Termination for Breach. Either party may terminate this MSA or the Service Order and/or SOW in the event that the other party materially defaults in performing any obligation under this MSA (including any Service Order/SOW) and such default continues un-remedied for a period of thirty (30) days following written notice of default. If this\
 MSA or the Service Order and/or SOW is terminated by Customer prior to the Service term expiration date for any\
 reason other than CybrHawk’ breach, Customer agrees to pay to CybrHawk: (i) for the Consulting Services, all unpaid\
 Consulting Service fees as set forth on the Service Order and/or SOW for the Consulting Services performed through\
