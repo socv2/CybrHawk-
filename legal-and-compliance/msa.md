@@ -210,64 +210,42 @@ jurisdiction a temporary restraining order, preliminary injunction or other equi
 \
 **O.8 Representation on Authority of Parties/Signatories.** Each person signing this MSA represents and warrants that he or she is duly authorized and has legal capacity to execute and deliver this agreement. Each party represents and warrants to the other that the execution and delivery of this MSA and the performance of such party’s obligations hereunder have been duly authorized and that this MSA is a valid and legal agreement binding on such party and enforceable in accordance with its terms.
 
-**O.8 Counterparts.** This MSA may be executed in counterparts, each of which shall be deemed an original, but all such counterparts shall together constitute one and the same instrument. Copies of signatures will be valid as originals.\
+**O.8 Counterparts.** This MSA may be executed in counterparts, each of which shall be deemed an original, but all such counterparts shall together constitute one and the same instrument. Copies of signatures will be valid as originals.
+
+\
 CYBRHAWK, INC CUSTOMER
 
-|                                                                                                                                                              |                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>Authorized Signer      _____________________ </p><p>CybrHawk Signature _____________________ </p><p>Print Name                 _____________________ </p> | <p>Title                    _____________________ </p><p>Date                    _____________________ </p><p>Company Name _____________________ </p> |
-|                                                                                                                                                              |                                                                                                                                                       |
-| Customer Signature \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                | Title  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                     |
-| Print Name                \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                         | Date \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                       |
+|                                                                                |                                                      |
+| ------------------------------------------------------------------------------ | ---------------------------------------------------- |
+| <p>Authorized Signer  : </p><p>CybrHawk Signature  : </p><p>Print Name  : </p> | <p>Title : </p><p>Date : </p><p>Company Name  : </p> |
+|                                                                                |                                                      |
+| <p>Customer Signature  : <br>Print Name : </p>                                 | <p>Title : <br>Date : </p>                           |
 
 **APPENDIX A**\
 Applicable to Security Services: Should the Service Order/SOW include security scanning, testing, assessment, forensics, or remediation Services (“Security Services”), Customer understands that CybrHawk may use various methods and software tools to probe network resources for security-related information and to detect actual or potential security flaws and vulnerabilities. Customer authorizes CybrHawk to perform such Security Services (and all such tasks and tests reasonably contemplated by or reasonably necessary to perform the Security Services) on network resources with the internet protocol addresses (“IP Addresses”) identified by Customer. Customer represents that, if Customer does not own such network resources, it will have obtained consent and authorization from the applicable third party to permit CybrHawk to provide the Security Services on such third party’s network resources. CybrHawk shall perform Security Services during a timeframe mutually agreed upon with Customer. The Security Services, such as penetration testing or vulnerability assessments, may also entail buffer overflows, fat pings, operating system specific exploits, and attacks specific to custom coded applications but will exclude intentional and deliberate DOS (“Denial of Service”) attacks. Furthermore, Customer acknowledges that the Security Services described herein could possibly result in service interruptions or degradation regarding the Customer’s systems and accepts those risks and consequences. Upon execution of the Service Order/SOW for such Security Services, Customer consents and authorizes CybrHawk to provide any or all of the Security Services specified in the applicable Service Order/SOW with respect to the Customer’s systems. Customer further acknowledges that it is the Customer’s responsibility to restore network computer systems to a secure configuration after the completion of CybrHawk’ testing. Applicable to Compliance Consulting Services: Should the Service Order/SOW include compliance testing or assessment or other similar compliance advisory Services (“Compliance Services”), Customer understands that, although CybrHawk' Compliance Services may discuss or relate to legal issues, (i) CybrHawk does not provide legal advice or services, (ii) none of such Compliance Services shall be deemed, construed as or constitute legal advice, and (iii) Customer is ultimately responsible for retaining its own legal counsel to provide legal advice. Furthermore,\
 the Customer Reports provided by CybrHawk in connection with any Compliance Services shall not be deemed to be legal opinions and may not and should not be relied upon as proof, evidence or any guarantee or assurance as to Customer’s legal or regulatory compliance.\
-Applicable to Payment Card Industry Compliance Consulting Services: Should the Service Order/SOW include\
-payment card industry (“PCI”) compliance auditing, testing or assessment or other similar PCI compliance advisory\
-Consulting Services (“PCI Compliance Services”), Customer understands that CybrHawk' PCI Compliance Services do\
-not constitute any guarantee or assurance that security of Customer’s systems, networks and assets cannot be\
-breached or are not at risk. PCI Compliance Services are an assessment, as of a particular date, of whether\
-Customer’s systems, networks, assets, and any compensating controls meet the applicable PCI standards. Mere\
-compliance with PCI standards may not be sufficient to eliminate all risks of a security breach of Customer’s systems,\
-networks and assets. Furthermore, CybrHawk is not responsible for updating its reports and assessments or\
-enquiring as to the occurrence or absence of such, in light of changes to Customer’s systems, networks and assets after the date that CybrHawk issues its final Customer Report pursuant to the Service Order/SOW, absent a Change\
-Order or a separately signed Service Order/SOW expressly requiring the same.\
-CYBRHAWK, INC CUSTOMER\
-Authorized Signer\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Applicable to Payment Card Industry Compliance Consulting Services: Should the Service Order/SOW include payment card industry (“PCI”) compliance auditing, testing or assessment or other similar PCI compliance advisory Consulting Services (“PCI Compliance Services”), Customer understands that CybrHawk' PCI Compliance Services do not constitute any guarantee or assurance that security of Customer’s systems, networks and assets cannot be breached or are not at risk. PCI Compliance Services are an assessment, as of a particular date, of whether Customer’s systems, networks, assets, and any compensating controls meet the applicable PCI standards. Mere compliance with PCI standards may not be sufficient to eliminate all risks of a security breach of Customer’s systems, networks and assets. Furthermore, CybrHawk is not responsible for updating its reports and assessments or enquiring as to the occurrence or absence of such, in light of changes to Customer’s systems, networks and assets after the date that CybrHawk issues its final Customer Report pursuant to the Service Order/SOW, absent a Change Order or a separately signed Service Order/SOW expressly requiring the same.
+
+\
+CYBRHAWK, INC CUSTOMER
+
+|                                                                          |                                                     |
+| ------------------------------------------------------------------------ | --------------------------------------------------- |
+| <p>Authorized Signer : <br>CybrHawk Signature : </p><p>Print Name : </p> | <p>Title : </p><p>Date : </p><p>Company Name : </p> |
+| <p>Customer Signature : </p><p>Print Name : </p>                         | <p>Title : </p><p>Date : </p>                       |
+|                                                                          |                                                     |
 
 ***
 
-CybrHawk Signature
+
 
 ***
 
-Print Name
+
 
 ***
 
-Title
+
 
 ***
 
-Date
-
-***
-
-Company Name
-
-***
-
-Customer Signature
-
-***
-
-Print Name
-
-***
-
-Title
-
-***
-
-Date
