@@ -15,14 +15,14 @@ This guide walks you through enabling Microsoft Graph API access in CybrHawk SIE
 
 * Create an Application ID and secret as described in the [Microsoft 365 Integration Guide](microsoft-365.md).
 
-![Create Application](../.gitbook/assets/grantapi.png)
+![Create Application](<../.gitbook/assets/Screenshot 2026-05-13 111952.png>)
 
 ### 2. Assign Microsoft Graph API Permissions
 
 * In your app registration, go to **API permissions**.
 * Select **Microsoft Graph**.
 
-![API Selection Menu](../.gitbook/assets/grantapi.png)
+![API Selection Menu](<../.gitbook/assets/Screenshot 2026-05-13 111952.png>)
 
 ### 3. Add Required Permissions
 
@@ -46,7 +46,7 @@ User.RevokeSessions.All
 
 * Click **Grant admin consent** and confirm.
 
-![Grant Consent](../.gitbook/assets/grantconsent.png)
+![Grant Consent](<../.gitbook/assets/Screenshot 2026-05-13 111952.png>)
 
 ***
 
