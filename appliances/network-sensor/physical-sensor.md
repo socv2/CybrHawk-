@@ -50,10 +50,4 @@ A **rack-mountable (1 RU)** sensor suited for larger deployments, capable of pro
        ```
    * Ensure that your sensor can reach TD servers on **port 443 (HTTPS)** at the following domains:
      * `tele.threatdefence.io`
-     * `vle.threatdefence.io`
-
-{% hint style="danger" %}
-For customers using our **US** infrastructure please allow the below domain in place of vle.threatdefence.io.
-{% endhint %}
-
-* `vle.us.threatdefence.io`
+     * `vle.us.secops-apps.io`
