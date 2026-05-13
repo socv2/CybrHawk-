@@ -14,14 +14,14 @@ Navigating to Tenant Inventory:
 
 1. In the **CybrHawk Analyst Console**, click the **hamburger menu** in the top-left corner.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-01-21 at 3.33.21 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-05-13 142029.png" alt=""><figcaption></figcaption></figure>
 
 2.  Select **My SOC** from the menu.
 
     Under **SOC Interactions and Monitoring**, click **Tenant Inventory**.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-01-21 at 3.48.42 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-05-13 142244.png" alt=""><figcaption></figcaption></figure>
 
 You should now see this page.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-01-21 at 4.09.33 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-05-13 142858.png" alt=""><figcaption></figcaption></figure>
