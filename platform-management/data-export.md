@@ -25,11 +25,11 @@ In the event of an audit or a requirement for more data than a dashboard offers,
 
 Access the [Customer Portal](https://portal.cybrhawk.com), and go to "My Tenants > Data Export".
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-01-21 at 11.41.10 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-13 130451 (1).png" alt=""><figcaption></figcaption></figure>
 
 From this screen, select the index pattern for export from "Select Index", and optionally enter a query into the "Enter DB query" field. Queries can be determined in Console to determine the filtering (e.g. limiting to a single host: `source.ip: 192.168.0.1`).
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-01-21 at 11.43.07 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-13 130451 (2).png" alt=""><figcaption></figcaption></figure>
 
 After the export completes, which may take a while depending on the scale of data selected, the download will be available as a .jsonl.gzip. This file can be opened by most desktop applications that can handle zip files.
 

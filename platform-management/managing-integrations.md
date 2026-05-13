@@ -16,7 +16,7 @@ Please note: Your account must have the ability to manage integrations to be abl
 
 Below is an example of what you would see if you have some integrations deployed:
 
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-13 130856.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -38,11 +38,11 @@ To update or edit an integration, click on the edit icon as below, you will see 
 
 Edit button shown below:
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-13 130856 (1).png" alt=""><figcaption></figcaption></figure>
 
-After clicking this, you will see a varying amount of input fields based upon how many are required for that integration, for example, below is the Okta integration:
+After clicking this, you will see a varying amount of input fields based upon how many are required for that integration, for example, below is the Microsoft 365 integration:
 
-<figure><img src="../.gitbook/assets/image (17).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-13 140245.png" alt="" width="356"><figcaption></figcaption></figure>
 
 ***
 
