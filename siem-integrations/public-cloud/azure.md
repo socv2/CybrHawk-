@@ -22,8 +22,6 @@ To allow CybrHawk to assume an identity to start the scan with the required priv
 7. Fill the "Description" and "Expires" fields and click on "Add"
 8. Copy the value of the secret
 
-![Create Service Principal](../../.gitbook/assets/sp.gif)
-
 ### Assigning the proper permissions
 
 To allow CybrHawk to retrieve metadata from the identity assumed and specific Entra checks, it is needed to assign the following permissions:
