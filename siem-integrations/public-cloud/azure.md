@@ -39,7 +39,7 @@ To allow CybrHawk to retrieve metadata from the identity assumed and specific En
 8. Click on "Add permissions" to apply the new permissions.
 9. Finally, click on "Grant admin consent for \[your tenant]" to apply the permissions.
 
-![Add Permissions](../../.gitbook/assets/AAD-Permissions.png)
+![Add Permissions](<../../.gitbook/assets/Screenshot 2026-05-13 145548.png>)
 
 ## Subscription Scope Permissions
 
