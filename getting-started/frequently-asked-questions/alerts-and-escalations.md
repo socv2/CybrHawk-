@@ -23,7 +23,7 @@ For incidents, the SOC follows the agreed escalation path (for example, direct p
 
 ***
 
-## Minimum Customer Effort (SOC Service – TD Complete)
+## Minimum Customer Effort (SOC Service – CH Complete)
 
 As a SOC subscriber, our team continuously monitors and triages your detections.\
 The **minimum effort expected from you is to respond to Notifications**.

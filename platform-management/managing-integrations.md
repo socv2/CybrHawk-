@@ -60,4 +60,4 @@ Please note that removing an integration does **NOT** remove your data from the 
 
 ## 5. Having Trouble?
 
-If you're having any issues, don't hesitate to reach out to our support team. You can raise a support request via our Support Portal, or email [**CybrHawk Support**](mailto:support@threatdefence.com).
+If you're having any issues, don't hesitate to reach out to our support team. You can raise a support request via our Support Portal, or email [**CybrHawk Support**](mailto:socv2@cybrhawk.com).

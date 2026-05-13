@@ -2,7 +2,7 @@
 
 Our Customer portal is crafted to provide you with real-time and historical reports on your Security Operations, encompassing detections, actions executed by the SOC team, escalations, open security incidents, and threat notifications.
 
-To access the portal, simply navigate to [https://portal.cybrhawk.com](https://portal.cybrhawk.com/) and log in with your email and password.
+To access the portal, simply navigate to [portal.cybrhawk.com](https://portal.cybrhawk.com/) and log in with your email and password.
 
 Here are some examples of the information available via the Customer Portal:
 

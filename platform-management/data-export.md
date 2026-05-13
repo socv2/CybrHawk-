@@ -37,4 +37,4 @@ After the export completes, which may take a while depending on the scale of dat
 
 ## Having Trouble?
 
-If you're experiencing any issues with user management, please open a request via the support portal, or email [**CybrHawk Support**](mailto:support@threatdefence.com) and our team will assist you.
+If you're experiencing any issues with user management, please open a request via the support portal, or email [**CybrHawk Support**](mailto:socv2@cybrhawk.com) and our team will assist you.
