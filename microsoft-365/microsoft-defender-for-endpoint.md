@@ -66,6 +66,6 @@ Machine.Isolate
 
 ## Need Help?
 
-If you have any questions or need further assistance, please contact [**CybrHawk Support**](mailto:support@threatdefence.com).
+If you have any questions or need further assistance, please contact [**CybrHawk Support**](mailto:socv2@cybrhawk.com).
 
 ***
