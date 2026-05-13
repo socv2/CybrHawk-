@@ -22,7 +22,7 @@ To add a new user, click the "ADD" button in the upper right-hand corner, as hig
 
 After clicking "ADD" you'll be able to enter the required fields to create a user:
 
-<figure><img src="../.gitbook/assets/addnewuser_demo.jpg" alt="" width="366"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-13 130040.png" alt="" width="354"><figcaption></figcaption></figure>
 
 To edit a user, click on the edit icon circled in the image below:
 
