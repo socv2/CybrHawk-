@@ -6,4 +6,4 @@ Reports can be scheduled to be emailed at regular intervals. To access the repor
 * Set the email interval by selecting report names to be emailed under the Weekly or Monthly section and click confirm.
 * To disable all report emails, click reset to default or delete the recipients.
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-05-13 141431.png" alt=""><figcaption></figcaption></figure>
