@@ -125,10 +125,4 @@ Choose one of the following under **Port Mirroring**:
 
 * Ensure that your virtual sensor can reach TD servers on **port 443 (HTTPS)** at the following domains, and that SSL/TLS inspection is also disabled for them:
   * `tele.threatdefence.io`
-  * `vle.threatdefence.io`
-
-{% hint style="danger" %}
-For customers using our **US** infrastructure please allow the below domain in place of vle.threatdefence.io.
-{% endhint %}
-
-* `vle.us.threatdefence.io`
+  * `vle.us.secops-apps.io`
