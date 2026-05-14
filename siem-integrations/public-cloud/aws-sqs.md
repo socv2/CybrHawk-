@@ -31,7 +31,7 @@ If you already have an existing IAM user (e.g., a TDAgent user) that was used fo
 2. **Confirm User Creation and Obtain Credentials:**
    * Click **Next: Tags**, and then **Next: Review**.
    * Review the details and click **Create User** to finalize the creation.
-   * Save the **Access Key ID** and **Secret Access Key** provided for the TDAgent user. These credentials are critical and must be securely shared with the **ThreatDefence** team.
+   * Save the **Access Key ID** and **Secret Access Key** provided for the TDAgent user. These credentials are critical and must be securely shared with the **CybrHawk** team.
 
 ![Image 2: Confirm User Creation](../../.gitbook/assets/sqsimage2.png)
 
@@ -224,4 +224,4 @@ You can locate your \<BUCKET\_NAME> by navigating to **Services > S3** in the AW
 6. **Provide Queue URL to Support Team:**
 
 * Copy the **Queue URL** of the SQS queue.
-* Share the URL with the **ThreatDefence Support Team** to complete the integration.
+* Share the URL with the **CybrHawk Support Team** to complete the integration.

@@ -74,7 +74,7 @@ For stronger authentication security, configure phishing-resistant factors such 
 ## Step 5. Provide Okta Credentials to CybrHawk
 
 Send the following details to your CybrHawk representative at\
-📧 **support@threatdefence.com**:
+📧 **socv2@cybrhawk.com**:
 
 * API Token
 * Okta Tenant URL

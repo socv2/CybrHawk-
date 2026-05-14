@@ -18,7 +18,7 @@ Integrating **Abnormal Security** with **CybrHawk** allows you to ingest advance
 
 ## Step 2. Provide Credentials to CybrHawk
 
-Send the following details to your CybrHawk representative at [**support@threatdefence.com**](mailto:support@threatdefence.com):
+Send the following details to your CybrHawk representative at [**socv2@cybrhawk.com**](mailto:socv2@cybrhawk.com):
 
 * **Access Token** (from Step 1)
 * **Host** — based on your region:

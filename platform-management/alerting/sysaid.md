@@ -48,7 +48,7 @@
 
 ## Deliverables
 
-Please email to [support@threatdefence.com](mailto:support@threatdefence.com):
+Please email to [socv2@cybrhawk.com](mailto:socv2@cybrhawk.com):
 
 1. **Application Credentials**:
    * Please make sure the following credentials are noted in the email.
