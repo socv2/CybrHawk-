@@ -41,9 +41,9 @@ The CybrHawk NDR Sensor can be deployed as a **virtual sensor** on VMware or Hyp
    * Notify CybrHawk Technical Support once the sensor is operational.
 9. **Outbound Connectivity**
 
-* Ensure that your virtual sensor can reach TD servers on **port 443 (HTTPS)** at the following domains:
+* Ensure that your virtual sensor can reach CH servers on **port 443 (HTTPS)** at the following domains:
   * `tele.threatdefence.io`
-  * `vle.threatdefence.io`
+  * `vle.us.secops-apps.io`
 
 ***
 
