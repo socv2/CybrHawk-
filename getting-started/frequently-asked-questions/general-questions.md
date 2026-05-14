@@ -36,7 +36,7 @@ Two subscription tiers are available:
 
 ## Data sovereignty – where does my data go?
 
-For Australian customers, all data remains **onshore in Australia** and will not leave the country.
+For US customers, all data remains **onshore in the US** and will not leave the country.
 
 ***
 

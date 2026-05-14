@@ -85,7 +85,7 @@ Access the platform analyst console. In summary, you can investigate, hunt, tria
     * Detection Types (e.g., Spikes, Informational).
     * Techniques (e.g., LOGIN\_ERROR).
     * Impacted Sites/Tenants (e.g., cybrhawk).
-    * Indicators (e.g., IP addresses, geolocations like Australia/Germany).
+    * Indicators (e.g., IP addresses, geolocations like US/Germany).
     * Detection Sources by Severity (e.g., pie chart for Keycloak, HIDS).
     * Top 5: Highlights frequent entities (e.g., SOC-SNAP-1.SOC.LAB.LOCAL, users like Emily/Chris).
     * Detections Feed: Paginated table showing detailed alert rows. Expand for full inspection.
