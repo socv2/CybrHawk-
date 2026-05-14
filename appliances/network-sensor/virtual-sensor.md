@@ -123,6 +123,6 @@ Choose one of the following under **Port Mirroring**:
 
 12. **Outbound Connectivity**
 
-* Ensure that your virtual sensor can reach TD servers on **port 443 (HTTPS)** at the following domains, and that SSL/TLS inspection is also disabled for them:
+* Ensure that your virtual sensor can reach CH servers on **port 443 (HTTPS)** at the following domains, and that SSL/TLS inspection is also disabled for them:
   * `tele.threatdefence.io`
   * `vle.us.secops-apps.io`
