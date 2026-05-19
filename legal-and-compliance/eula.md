@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # EULA
 
 This End User License Agreement (“Agreement” or “EULA”) is entered into between you (“Customer,” “User,” or “Licensee”) and [CybrHawk Inc](https://www.cybrhawk.com/?utm_source=chatgpt.com) (“CybrHawk,” “Company,” “we,” “our,” or “us”).By accessing, installing, using, or subscribing to any CybrHawk software, platform, cloud service, hardware appliance, sensor, agent, portal, API, managed security service, threat intelligence feed, or related services (collectively, the “Services”), you agree to be bound by this Agreement.If you do not agree to these terms, you may not access or use the Services.
