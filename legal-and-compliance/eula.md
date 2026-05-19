@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # EULA
 
 CybrHaw&#x6B;**: END USER LICENCE AGREEMENT**
