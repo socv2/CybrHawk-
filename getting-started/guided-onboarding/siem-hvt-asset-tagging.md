@@ -6,4 +6,4 @@ Tagging these assets enables you to proactively search for and generate alerts o
 
 To enable this functionality, please download the template below, populate it with your HVTs, and return it to your account manager.
 
-{% file src="../../.gitbook/assets/CybrHawk Onboarding Document-Updated.pdf" %}
+{% file src="../../.gitbook/assets/CybrHawk Onboarding Document.pdf" %}
