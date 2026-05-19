@@ -54,7 +54,3 @@ Whitelisting allows analysts to suppress false positives by creating precise, ta
 * Periodically review and remove old whitelists to prevent detection gaps.
 
 ***
-
-## Video Walkthrough
-
-{% embed url="https://www.youtube.com/embed/2iY8UNd3S4w?si=QZ8ytV6-Laj0Z0ZU" %}
