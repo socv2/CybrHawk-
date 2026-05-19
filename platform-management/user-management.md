@@ -26,7 +26,7 @@ After clicking "ADD" you'll be able to enter the required fields to create a use
 
 To edit a user, click on the edit icon circled in the image below:
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-10-28 at 1.53.51 pm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-19 113731.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 See below for explanations on Demo Data, Admin & User Types.
