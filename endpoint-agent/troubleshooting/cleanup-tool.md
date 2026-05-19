@@ -28,7 +28,7 @@ PS /> powershell -ep bypass -f .\TD_Endpoint-Cleanup_Tool.ps1 -Uninstall -Force
 ```
 TD_Endpoint Cleanup Tool
 Version 00B
-ThreatDefence Pty Ltd
+ CybrHawk Pty Ltd
 Copyright 2024
 
 Usage: .\TD_Endpoint-Cleanup_Tool.ps1 [-Uninstall] [-Force] [-DisableSysmonOnly] [-SysmonDeepCleanup] [-Help]

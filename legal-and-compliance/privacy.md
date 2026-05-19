@@ -102,5 +102,5 @@ We may update this Privacy Policy from time to time. When we do, we will revise 
 
 If you have questions or concerns about this Privacy Policy or how we handle your data, please contact us:
 
-![📧](https://s.w.org/images/core/emoji/17.0.2/svg/1f4e7.svg) **Email:** marketing@cybrhawk.com\
-![🌐](https://s.w.org/images/core/emoji/17.0.2/svg/1f310.svg) **Website:** [https://cybrhawk.com](https://cybrhawk.com/)
+<img src="https://s.w.org/images/core/emoji/17.0.2/svg/1f4e7.svg" alt="📧" data-size="line"> **Email:** marketing@cybrhawk.com\
+<img src="https://s.w.org/images/core/emoji/17.0.2/svg/1f310.svg" alt="🌐" data-size="line"> **Website:** [https://cybrhawk.com](https://cybrhawk.com/)

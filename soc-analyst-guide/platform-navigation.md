@@ -12,7 +12,7 @@ Other dashboards provide **forensic visibility into specific data sources**. The
 * **My SOC** – Preconfigured views for common SOC needs, such as tracking emerging threats and SOC statistics.
 * **Endpoint** – Data from DFIR endpoint agents (Windows/Mac/Linux), including system event logs, network connections, logons, and benchmarks (e.g., CIS checks).
 * **Cloud** – Audit and assessment events from cloud environments like O365, AWS, and GCP.
-* **Network** – Data from Cybrhawk NDR sensors, including flow visibility and network intrusion detections.
+* **Network** – Data from CybrHawk NDR sensors, including flow visibility and network intrusion detections.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-05-13 150017.png" alt=""><figcaption></figcaption></figure>
 
@@ -26,7 +26,7 @@ Dashboards include filters and search controls to refine alerts and focus invest
 
 *   **Time Range** – Defaults to _Last 24 hours_. Adjust via **Show dates** for custom ranges (e.g., last 30 days).
 
-    ![](https://threatdefence.gitbook.io/threatdefence-docs/~gitbook/image?url=https%3A%2F%2F4191868192-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FOlFHF8fl339QOw3Og8L7%252Fuploads%252FKZJIqcZUD9nXxwokV5ms%252Fimage.png%3Falt%3Dmedia%26token%3D3c942aa6-53a0-438c-82b0-15103ec69cc8\&width=300\&dpr=4\&quality=100\&sign=8948c36c\&sv=2)
+    ![](https://4191868192-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FOlFHF8fl339QOw3Og8L7%2Fuploads%2FKZJIqcZUD9nXxwokV5ms%2Fimage.png?alt=media\&token=3c942aa6-53a0-438c-82b0-15103ec69cc8)
 *   **Menu Filters** – Predefined options for narrowing down alerts, including:
 
     * Alert Status (Open, Closed, In Progress)
@@ -35,10 +35,10 @@ Dashboards include filters and search controls to refine alerts and focus invest
     * Technique (e.g., Indicator, Exploit Public-Facing, Valid Accounts)
     * AI Outcome, MSP, Severity, Tags
 
-    ![](https://threatdefence.gitbook.io/threatdefence-docs/~gitbook/image?url=https%3A%2F%2F4191868192-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FOlFHF8fl339QOw3Og8L7%252Fuploads%252FEZ0y1y0HQcXUo9NjJaSN%252Fimage.png%3Falt%3Dmedia%26token%3D82d15649-4468-48d1-9b73-164d1de9c16f\&width=768\&dpr=4\&quality=100\&sign=7243b38d\&sv=2)
+    ![](https://4191868192-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FOlFHF8fl339QOw3Og8L7%2Fuploads%2FEZ0y1y0HQcXUo9NjJaSN%2Fimage.png?alt=media\&token=82d15649-4468-48d1-9b73-164d1de9c16f)
 *   **Manual Filters** – Click on visualizations to filter interactively. For complex queries or automation, use text-based Lucene queries.
 
-    ![](https://threatdefence.gitbook.io/threatdefence-docs/~gitbook/image?url=https%3A%2F%2F4191868192-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FOlFHF8fl339QOw3Og8L7%252Fuploads%252F8wAW0NP0iqR4pSnG8cSo%252Fimage.png%3Falt%3Dmedia%26token%3D90884a45-7f34-435d-afde-b0b69f3d8411\&width=768\&dpr=4\&quality=100\&sign=7ed5b758\&sv=2)
+    ![](https://4191868192-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FOlFHF8fl339QOw3Og8L7%2Fuploads%2F8wAW0NP0iqR4pSnG8cSo%2Fimage.png?alt=media\&token=90884a45-7f34-435d-afde-b0b69f3d8411)
 
 ***
 
@@ -46,7 +46,7 @@ Dashboards include filters and search controls to refine alerts and focus invest
 
 *   **Security Detections Table** – Lists alerts by name and severity. Analysts can sort, filter, and drill into specific alerts.
 
-    ![](https://threatdefence.gitbook.io/threatdefence-docs/~gitbook/image?url=https%3A%2F%2F4191868192-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FOlFHF8fl339QOw3Og8L7%252Fuploads%252FTDJoih4HF4xpOCSp5DDW%252Fimage.png%3Falt%3Dmedia%26token%3D02a09555-d42b-48c0-a310-b90093fbd0a0\&width=768\&dpr=4\&quality=100\&sign=be2f06e5\&sv=2)
+    ![](https://4191868192-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FOlFHF8fl339QOw3Og8L7%2Fuploads%2FTDJoih4HF4xpOCSp5DDW%2Fimage.png?alt=media\&token=02a09555-d42b-48c0-a310-b90093fbd0a0)
 * **Charts & Aggregations** – Visual breakdowns including:
   * Anomalies (e.g., open high-risk alerts)
   * Detection Types (spikes, informational, indicators)
