@@ -47,7 +47,7 @@ You can configure a **WatchGuard Firebox (Fireware OS)** to forward logs to the 
 
 ### Step 4. Provide Details to CybrHawk
 
-Send the following details to **CybrHawk Support** at 📧 [**CybrHawk Support**](mailto:support@threatdefence.com):
+Send the following details to **CybrHawk Support** at 📧 [**CybrHawk Support**](mailto:socv2@cybrhawk.com):
 
 * Firewall make/model and firmware version
 * Source IP address and used port number.

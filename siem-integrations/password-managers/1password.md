@@ -35,7 +35,7 @@ For more information on issuing or revoking tokens, refer to the official 1Passw
 
 ## Step 2. Configure CybrHawk Integration
 
-Provide the following information to your CybrHawk representative at [**CybrHawk Support**](mailto:support@threatdefence.com):
+Provide the following information to your CybrHawk representative at [**CybrHawk Support**](mailto:socv2@cybrhawk.com):
 
 * Bearer Token
 * Vault and Resource Scope
@@ -46,4 +46,4 @@ Provide the following information to your CybrHawk representative at [**CybrHawk
 ## Support
 
 For questions or assistance, please contact:\
-📧 [**CybrHawk Support**](mailto:support@threatdefence.com)
+📧 [**CybrHawk Support**](mailto:socv2@cybrhawk.com)

@@ -1,14 +1,14 @@
 # Amazon Web Services (AWS)
 
-CybrHawk's AWS integration provides best practice assessments, audits, incident response, continuous monitoring, hardening and forensics readiness, and also offers remediations.
+CybrHawk's AWS integration provides best practice assessments, audits, incident response, continuous monitoring, hardening, and forensics readiness, and also offers remediations.
 
 ## Requirements
 
-CybrHawk requires an AWS Access Key ID, and the associated AWS Secret Access Key. Please find relevant AWS documentation at https://docs.aws.amazon.com/IAM/latest/UserGuide/id\_credentials\_access-keys.html.
+CybrHawk requires an AWS Access Key ID and the associated AWS Secret Access Key. Please find relevant AWS documentation at https://docs.aws.amazon.com/IAM/latest/UserGuide/id\_credentials\_access-keys.html.
 
 ## Step 1. Create an AWS User with Required Permissions
 
-To get started, create an AWS user with IAM role attached holding the following policy:
+To get started, create an AWS user with an IAM role attached holding the following policy:
 
 ```json
 {
@@ -80,7 +80,7 @@ To get started, create an AWS user with IAM role attached holding the following 
 
 ## Step 2. Generate Access Keys
 
-Then, generate an access token for a new user with these permissions assigned. Make sure to save the secret key, as it only appears once. These can then be sued to activate the integration.
+Then, generate an access token for a new user with these permissions assigned. Make sure to save the secret key, as it only appears once. These can then be used to activate the integration.
 
 ![access keys](../../.gitbook/assets/access_keys.png)
 
@@ -90,7 +90,7 @@ Navigate to Deployment > Integrations > click add. Further guidance is available
 
 Required:
 
-* **Ensure correct Tenant name is chosen from drop-down**
+* **Ensure the correct Tenant name is chosen from the drop-down**
 * **AWS Access Key ID**
 * **AWS Secret Access Key**
 
@@ -98,4 +98,4 @@ Required:
 
 ## Support
 
-If any issues, please reach out to **socv2@cybrhawk.com** and our team will assist.
+If any issues, please reach out to **socv2@cybrhawk.com,** and our team will assist.

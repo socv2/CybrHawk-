@@ -26,6 +26,6 @@ Send the following details to your CybrHawk representative at [**socv2@cybrhawk.
   * **EU:** `eu.rest.abnormalsecurity.com`
 * **Credential Expiry** — (optional) if your token has an expiration date.
 
-CybrHawk will configure ingestion so Abnormal Security event data is collected and correlated within the CybrHawk SecOps platform.
+CybrHawk will configure ingestion so that Abnormal Security event data is collected and correlated within the CybrHawk SecOps platform.
 
 ***

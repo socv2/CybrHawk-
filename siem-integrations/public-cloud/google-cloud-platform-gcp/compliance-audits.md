@@ -1,6 +1,6 @@
 # Compliance Audits
 
-CybrHawk's GCP integration provides best practice assessments, audits, incident response, continuous monitoring, hardening and forensics readiness, and also offers remediations.
+CybrHawk's GCP integration provides best practice assessments, audits, incident response, continuous monitoring, hardening, and forensics readiness, and also offers remediations.
 
 ## Prerequisites
 

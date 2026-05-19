@@ -40,7 +40,7 @@ You can configure a **pfSense® firewall** to forward syslog logs to the **CybrH
 
 ## Step 4. Provide Details to CybrHawk
 
-Once configuration is complete, provide the following details to **CybrHawk Support** at 📧 [**CybrHawk Support**](mailto:support@threatdefence.com):
+Once configuration is complete, provide the following details to **CybrHawk Support** at 📧 [**CybrHawk Support**](mailto:socv2@cybrhawk.com):
 
 * Firewall make/model and pfSense version
 * Source IP address and used port number.

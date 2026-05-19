@@ -15,16 +15,14 @@
    * Note down the \***Atlassian domain** (e.g., "id.atlassian.com") ![Image 1: Log in](../../.gitbook/assets/image1.jpg)
 2. **Create an API Token**
    * Locate the _**API Token**_ section.
-   *   Click _**Create API**_ token.
-
-       <figure><img src="../../.gitbook/assets/image2.jpg" alt=""><figcaption></figcaption></figure>
+   * Click _**Create API**_ token.
    * Enter a label (e.g., "Confluence Audit Logs").
    * Select the app _**Confluence**_
    * Select confluence scope: _**read:audit-log:confluence**_.
    *   Click _**Create**_ and then Copy the _**API token**_.
 
        <figure><img src="../../.gitbook/assets/image3.jpg" alt=""><figcaption></figcaption></figure>
-3. **Get Cloud ID for Atlassian Clound instance**
+3. **Get Cloud ID for Atlassian Cloud instance**
    1. **Via admin.atlassian.com**:
       * Go to admin.atlassian.com.
       * Select your organization and site.

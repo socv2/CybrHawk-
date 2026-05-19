@@ -57,7 +57,7 @@ You can configure a \*\*SonicWall® firewall to forward syslog logs to the **Cyb
    **Device → Log → Settings**
 2. Under the **Users** category, click **Authentication Access**
 3. Ensure **Syslog** is enabled for all entries
-   * **Important**: Confirm that **Successful SSL VPN User Login** (ID: 1080) has Syslog enabled
+   * **Important**: Confirm that the **Successful SSL VPN User Login** (ID: 1080) has Syslog enabled
 4. Click **Save**.
 
 ***
@@ -75,7 +75,7 @@ You can configure a \*\*SonicWall® firewall to forward syslog logs to the **Cyb
 
 ## Step 6. Provide Details to CybrHawk
 
-Once configuration is complete, provide the following details to **CybrHawk Support** at 📧 [**CybrHawk Support**](mailto:support@threatdefence.com):
+Once configuration is complete, provide the following details to **CybrHawk Support** at 📧 [**CybrHawk Support**](mailto:socv2@cybrhawk.com):
 
 * Firewall make/model and OS version
 * Source IP address and used port number.

@@ -34,7 +34,7 @@ This integration enables CybrHawk to monitor user interactions across SaaS, IaaS
 
 ## Step 2. Configure CybrHawk Integration
 
-Provide the following information to your CybrHawk representative at [**CybrHawk Support**](mailto:support@threatdefence.com):
+Provide the following information to your CybrHawk representative at [**CybrHawk Support**](mailto:socv2@cybrhawk.com):
 
 * Netskope URL
 * API Key
@@ -43,4 +43,4 @@ Provide the following information to your CybrHawk representative at [**CybrHawk
 
 ## Support
 
-For questions or assistance, please contact: [**CybrHawk Support**](mailto:support@threatdefence.com)
+For questions or assistance, please contact: [**CybrHawk Support**](mailto:socv2@cybrhawk.com)

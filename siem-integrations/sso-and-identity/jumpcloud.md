@@ -24,7 +24,7 @@ By correlating this with other security data, CybrHawk supports Zero Trust acces
 ## Step 2. Configure CybrHawk Integration
 
 Provide the following information to your CybrHawk representative at\
-📧 [**CybrHawk Support**](mailto:support@threatdefence.com):
+📧 [**CybrHawk Support**](mailto:socv2@cybrhawk.com):
 
 * API Key
 
@@ -33,4 +33,4 @@ Provide the following information to your CybrHawk representative at\
 ## Support
 
 For questions or assistance, please contact:\
-📧 [**CybrHawk Support**](mailto:support@threatdefence.com)
+📧 [**CybrHawk Support**](mailto:socv2@cybrhawk.com)

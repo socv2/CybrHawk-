@@ -42,9 +42,7 @@ If it hasn’t been set up yet, refer to the onboarding checklist here:\
 ## Step 2. Obtain Cortex XDR API ID
 
 1. Navigate to the **API Keys** page.
-2.  Copy the **API ID** value for the created API Key.
-
-    ![Cortex XDR API ID](../../.gitbook/assets/cortex-image5.png)
+2. Copy the **API ID** value for the created API Key.
 
 ***
 

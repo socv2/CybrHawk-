@@ -18,7 +18,7 @@ This guide provides a step-by-step process for setting up an SQS queue to read d
 If you already have an existing IAM user (e.g., a TDAgent user) that was used for other AWS data sources, skip this step and proceed to Step 2. Otherwise, follow the steps below to create a new IAM user:
 
 1. **Create a New User:**
-   * Navigate to **AWS Management Console**.
+   * Navigate to the **AWS Management Console**.
    * Go to **Services** > **Security**, **Identity**, **& Compliance** > **IAM**.
    * Under the **Access Management** section, click **Users**.
    * Click **Add Users**.

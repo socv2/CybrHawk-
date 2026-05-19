@@ -15,7 +15,7 @@ This guide walks you through enabling the **G Suite Alert Center API**, creating
      * Provide a project **Name** and **Location**.\
        ![Create New Project](../../.gitbook/assets/image2.png)
    * Select the newly created project and click **Open**.\
-     \&#xNAN;_Tip: wait for the project creation notification to complete before proceeding._
+     &#xNAN;_&#x54;ip: wait for the project creation notification to complete before proceeding._
    * Search for **Admin SDK API** and click **Enable**.\
      ![Enabling Admin SDK API](../../.gitbook/assets/image3.png)
 
@@ -29,7 +29,7 @@ This guide walks you through enabling the **G Suite Alert Center API**, creating
      ![IAM & Admin > Service Accounts](../../.gitbook/assets/image4.png)
 2. **Create the Service Account**
    * Click **Create Service Account** and enter a **Service account name**.\
-     \&#xNAN;_(Optional) Add a description._\
+     &#xNAN;_(Optional) Add a description._\
      ![Create Service Account Form](../../.gitbook/assets/image5.png)
    * Click **Create**.
 3. **Assign a Role**
@@ -46,7 +46,7 @@ This guide walks you through enabling the **G Suite Alert Center API**, creating
    * **Download** the P12 file when prompted and store it securely.
    * **Private key password:** set to `notasecret`.\
      ![Private Key Password](../../.gitbook/assets/image6.3.png)
-   * Record the file **path/name** for future reference, then **Close**.
+   * Record the file **path/name** for future reference, then **close**.
 
 ***
 

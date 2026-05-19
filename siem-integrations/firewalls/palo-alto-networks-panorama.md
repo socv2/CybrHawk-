@@ -39,11 +39,11 @@ You can configure a Palo Alto Networks Panorama platform to forward security log
 3. System, Configuration, HIP Match, Correlation, Data, Threat, Auth, URL, and GlobalProtect (if applicable).
 4. For each log type:
    1. Click Add.
-   2. Provide a Name and set Filter to All Logs.\
-      Under Forward Method, select Syslog and choose the server profile created in Step 1.
+   2. Provide a Name and set the filter to All Logs.\
+      Under the Forward Method, select Syslog and choose the server profile created in Step 1.
    3. Save the configuration.
 5. Confirm that forwarding is enabled for all required log types.
-6. Commit the changes in Panorama to apply configuration to the managed firewalls.\
+6. Commit the changes in Panorama to apply the configuration to the managed firewalls.\
    <br>
 
 ***

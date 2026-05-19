@@ -80,7 +80,7 @@ All permissions are included in the **Basic Administrator** role.
 2. Click **New Authentication Profile**.
 3. Enter a description.
 4. Set **Authentication TTL** to _Never Expires_.
-5. Leave other settings as default.
+5. Leave other settings as the default.
 6. Click **Save and Exit**.
 
 ***
@@ -92,7 +92,7 @@ All permissions are included in the **Basic Administrator** role.
 3. Enter a description.
 4. Select the group created in [Step 3](mimecast.md#step-3-creating-a-group-and-adding-the-user).
 5. Select the authentication profile from [Step 4](mimecast.md#step-4-creating-an-authentication-profile).
-6. Leave other settings as default.
+6. Leave other settings as the default.
 7. Click **Save and Exit**.
 
 ***

@@ -45,7 +45,7 @@ To reduce noise:
    * **Classic navigation**: **Administration → API Keys**.
    * **New navigation**: **Resources → API Keys**.
 3. Click **New** to generate an API key and configure:
-   * **Key Name** — descriptive name (e.g. “CybrHawk Integration”).
+   * **Key Name** — descriptive name (e.g., “CybrHawk Integration”).
    * **Permission** — select **View**.
    * **Allow Access From IPs** — choose **Any IP** (unless restricted by your policy).
    * **Expiry** — choose an expiry date that complies with your internal governance.

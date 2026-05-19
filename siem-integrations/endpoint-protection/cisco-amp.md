@@ -11,8 +11,8 @@ Before you begin, ensure the following:
 
 * An active **Cisco AMP for Endpoints (Secure Endpoint)** subscription.
 * **Console access** to Cisco Secure Endpoint (cloud-based management portal).
-* **API Client Credentials** (Client ID and Client Secret) created in the Secure Endpoint console.
-* A working **CybrHawk Syslog Forwarder** or API ingestion configured.
+* **API Client Credentials** (Client ID and Client Secret) were created in the Secure Endpoint console.
+* A working **CybrHawk Syslog Forwarder** or API ingestion is configured.
 
 ***
 

@@ -79,6 +79,6 @@ Send the following details to your CybrHawk representative at\
 * API Token
 * Okta Tenant URL
 
-Once provided, CybrHawk will configure ingestion so Okta activity is correlated with other security telemetry for monitoring, detection, and incident response.
+Once provided, CybrHawk will configure ingestion so that Okta activity is correlated with other security telemetry for monitoring, detection, and incident response.
 
 ***

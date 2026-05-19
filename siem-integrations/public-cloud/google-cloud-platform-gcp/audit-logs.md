@@ -51,7 +51,7 @@ CybrHawk will pull messages from a subscription. In every project from which you
 1. Go to **Pub/Sub** → **Subscriptions**.
 2. Click **Create Subscription**.
 3. Select the topic you created (e.g., `cybrhawk-logs-topic`).
-4. Set **Delivery type** to **Pull**.
+4. Set **the delivery type** to **Pull**.
 5. Click **Create**.
 
 ## Step 3: Create Log Router Sinks to Forward Logs

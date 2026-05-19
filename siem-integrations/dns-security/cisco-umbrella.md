@@ -46,7 +46,7 @@ Choose **7, 14, or 30 days**. Data older than the selected period will be delete
 
 ## Step 3. Configure CybrHawk Integration
 
-Provide the following information to your CybrHawk representative at [**CybrHawk Support**](mailto:support@threatdefence.com):
+Provide the following information to your CybrHawk representative at [**CybrHawk Support**](mailto:socv2@cybrhawk.com):
 
 * S3 Bucket Name
 * S3 Bucket Region
@@ -58,4 +58,4 @@ Provide the following information to your CybrHawk representative at [**CybrHawk
 
 ## Support
 
-For questions or assistance, please contact: [**CybrHawk Support**](mailto:support@threatdefence.com)
+For questions or assistance, please contact: [**CybrHawk Support**](mailto:socv2@cybrhawk.com)

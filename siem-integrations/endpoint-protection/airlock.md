@@ -18,9 +18,9 @@ This integration enables CybrHawk to monitor activity across Airlock’s secure 
 ## Step 2. Configure CybrHawk Integration
 
 Provide the following information to your CybrHawk representative at\
-📧 [**CybrHawk Support**](mailto:support@threatdefence.com):
+📧 [**CybrHawk Support**](mailto:socv2@cybrhawk.com):
 
 * API Key
-* API Base URL (host:port)
+* API Base URL (host: port)
 
 ***

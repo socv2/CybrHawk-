@@ -61,7 +61,7 @@ Once configuration is complete, provide the following details to **CybrHawk Supp
 
 * We recommend creating a dedicated API user to separate your regular account from API activities.
 * Follow this [guide](https://help.eset.com/eset_connect/en-US/create_api_user_account.html) and create the API user account.
-* Visit ESET online help [page](https://help.eset.com/eset_connect/en-US/index.html) for more information.
+* Visit the ESET online help [page](https://help.eset.com/eset_connect/en-US/index.html) for more information.
 
 ***
 

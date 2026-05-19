@@ -1,11 +1,11 @@
 # CrowdStrike Falcon
 
-## Step 1: Enable Auditing in Crowdstrike
+## Step 1: Enable Auditing in CrowdStrike
 
-To define a Crowdstrike API client and integrate it with CybrHawk, follow these steps:
+To define a CrowdStrike API client and integrate it with CybrHawk, follow these steps:
 
 1. **Access Crowdstrike Falcon UI**:
-   * Log in to the Crowdstrike Falcon UI: https://falcon.crowdstrike.com with credentials that have been designated as Falcon Administrator role.
+   * Log in to the CrowdStrike Falcon UI: https://falcon.crowdstrike.com with credentials that have been designated as the Falcon Administrator role.
 2. **Navigate to API Clients and Keys**:
    * In the Falcon UI, navigate to Support and resources > API Clients and Keys. Here, you can view existing clients, add new API clients, or view the audit log.\
      ![Crowdstrike Customer Portal Data Connectors API Client & Keys](../../.gitbook/assets/apiclientkeys.png)
@@ -24,7 +24,7 @@ To define a Crowdstrike API client and integrate it with CybrHawk, follow these 
 
 **Provide CybrHawk with Client Information**:
 
-* Provide the following information to your CybrHawk representative at [CybrHawk Support](mailto:support@threatdefence.com):
+* Provide the following information to your CybrHawk representative at [CybrHawk Support](mailto:socv2@cybrhawk.com):
   * Client ID.
   * Client Secret.
   * Base URL.

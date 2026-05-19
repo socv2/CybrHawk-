@@ -25,4 +25,4 @@ Provide the following details to your CybrHawk representative at [**CybrHawk Sup
 
 ***
 
-If you have any questions or need assistance, please contact [**CybrHawk Support**](mailto:support@threatdefence.com).
+If you have any questions or need assistance, please contact [**CybrHawk Support**](mailto:socv2@cybrhawk.com).

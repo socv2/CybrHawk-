@@ -16,7 +16,7 @@ This guide provides steps to enable SophosCentral API access in your CybrHawk SI
 4. **Show Client Secret**:
    * Click on "Show Client Secret" to reveal the Client Secret associated with the created credential.
 5. **Generate API Key**:
-   * Go to your profile by clicking on your account email address (located in the upper-right corner) and select "My Profile."
+   * Go to your profile by clicking on your account email address (located in the upper-right corner) and selecting "My Profile."
    * Generate the API key from your profile settings.\
      ![](../../.gitbook/assets/siemcreds.png)
 
@@ -24,6 +24,6 @@ This guide provides steps to enable SophosCentral API access in your CybrHawk SI
 
 **Provide CybrHawk with Client Information**:
 
-* Provide the following information to your CybrHawk representative at [CybrHawk Support](mailto:support@threatdefence.com):
+* Provide the following information to your CybrHawk representative at [CybrHawk Support](mailto:socv2@cybrhawk.com):
   * Client ID
   * Client Secret
