@@ -8,7 +8,7 @@ description: >-
 
 ## 1. Navigating to the Management Page for Integrations
 
-To manage integrations on the CybrHawk platform, login to the Customer Portal and Navigate to "Deployment" on the left-hand navigation pane, then click on "Integrations"
+To manage integrations on the CybrHawk platform, log in to the Customer Portal and navigate to "Deployment" on the left-hand navigation pane, then click on "Integrations."
 
 {% hint style="info" %}
 Please note: Your account must have the ability to manage integrations to be able to see this page, contact the administrator of your tenant, or our support team to assist with any access issues.
@@ -34,13 +34,13 @@ Specific integration information can be found in the [SIEM Integrations knowledg
 
 ## 3. Updating an integration
 
-To update or edit an integration, click on the edit icon as below, you will see that any existing values will be censored out as "\*\*\*\*\*", you will need to re-enter all the required values to save your changes.
+To update or edit an integration, click on the edit icon as below. You will see that any existing values will be censored out as "\*\*\*\*\*"; you will need to re-enter all the required values to save your changes.
 
 Edit button shown below:
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-05-13 130856 (1).png" alt=""><figcaption></figcaption></figure>
 
-After clicking this, you will see a varying amount of input fields based upon how many are required for that integration, for example, below is the Microsoft 365 integration:
+After clicking this, you will see a varying number of input fields based on how many are required for that integration. For example, below is the Microsoft 365 integration:
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-05-13 140245.png" alt="" width="356"><figcaption></figcaption></figure>
 
@@ -60,4 +60,4 @@ Please note that removing an integration does **NOT** remove your data from the 
 
 ## 5. Having Trouble?
 
-If you're having any issues, don't hesitate to reach out to our support team. You can raise a support request via our Support Portal, or email [**CybrHawk Support**](mailto:socv2@cybrhawk.com).
+If you're having any issues, don't hesitate to reach out to our support team. You can raise a support request via our Support Portal or email [**CybrHawk Support**](mailto:socv2@cybrhawk.com).

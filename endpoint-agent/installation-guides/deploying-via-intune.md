@@ -2,7 +2,7 @@
 
 ## Deployment via Microsoft Intune MDM
 
-CybrHawk supports deployment of the Endpoint Agent via **Microsoft Intune**.\
+CybrHawk supports the deployment of the Endpoint Agent via **Microsoft Intune**.\
 This method is recommended for enterprise environments where agents need to be deployed and managed at scale.
 
 For background information, refer to Microsoft’s official documentation on [Line-of-Business application deployment](https://learn.microsoft.com/en-us/mem/intune/apps/lob-apps-windows).
@@ -20,7 +20,7 @@ For background information, refer to Microsoft’s official documentation on [Li
 2.  **Add a New Application**
 
     * Press **+ Add**.
-    * Select **Line-of-business app**.
+    * Select **the line-of-business app**.
 
     ![Figure 2](../../.gitbook/assets/2.png)
 3.  **Select App Package File**
@@ -42,11 +42,11 @@ For background information, refer to Microsoft’s official documentation on [Li
 
 ![Figure 6](../../.gitbook/assets/6.png)
 
-6. Confirm the details, set a description, press **Create**.
+6. Confirm the details, set a description, and press **Create**.
 
 ![Figure 7](../../.gitbook/assets/7.png)
 
-7. After pressing create no further action is required.
+7. After pressing create, no further action is required.
 
 ![Figure 8](../../.gitbook/assets/8.png)
 
@@ -54,4 +54,4 @@ For background information, refer to Microsoft’s official documentation on [Li
 
 ![Figure 9](../../.gitbook/assets/9.png)
 
-No further action is required, endpoints will automatically download and install the uploaded software.
+No further action is required; endpoints will automatically download and install the uploaded software.

@@ -59,7 +59,7 @@ msiexec.exe /i TD_Endpoint.msi /qn ACTIVATION_CODE=xxx SYSINTERNALS_ACCEPT_EULA=
 ### Uninstalling Windows Agent
 
 1. Go to **“Apps"** then **"Installed apps”**.
-2. Type **“TD\_Endpoint”**, choose TD\_Endpoint and click **“Uninstall”**.
+2. Type **“TD\_Endpoint”**, choose TD\_Endpoint, and click **“Uninstall”**.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-04-30 120639.png" alt="Uninstall" width="700"><figcaption></figcaption></figure>
 
@@ -91,7 +91,7 @@ msiexec.exe /x "{3638F48F-EB6C-4761-87E6-5B7E3C236BB2}" /qn
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-04-30 122117.png" alt="Uninstall the Application" width="600"><figcaption></figcaption></figure>
 
-TD\_Endpoint agent will now be uninstalled from your system.
+The TD\_Endpoint agent will now be uninstalled from your system.
 
 ### Post-Installation Configuration Options
 

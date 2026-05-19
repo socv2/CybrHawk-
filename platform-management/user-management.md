@@ -8,19 +8,19 @@ description: >-
 
 ## 1. Adding & Editing Users
 
-To add or edit users, login to the customer portal and navigate to "My Tenants" then Click on "Users" as below:
+To add or edit users, log in to the customer portal and navigate to "My Tenants," then click on "Users" as below:
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-05-13 124354.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Note: You will need be an Admin within your MSP or Tenant, or have the 'IAM Admin' permission assigned to you user, to be able to see and manage other users.
+Note: You will need to be an Admin within your MSP or Tenant, or have the 'IAM Admin' permission assigned to your user, to be able to see and manage other users.
 {% endhint %}
 
 To add a new user, click the "ADD" button in the upper right-hand corner, as highlighted below:
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-05-13 124354 (1).png" alt=""><figcaption></figcaption></figure>
 
-After clicking "ADD" you'll be able to enter the required fields to create a user:
+After clicking "ADD," you'll be able to enter the required fields to create a user:
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-05-13 130040.png" alt="" width="354"><figcaption></figcaption></figure>
 
@@ -38,11 +38,11 @@ See below for explanations on Demo Data, Admin & User Types.
 
 #### Enabled
 
-The "Enabled" toggle switch controls the state of the users account.
+The "Enabled" toggle switch controls the state of the user's account.
 
 #### Demo Data
 
-The "Enable Demo Data" toggle will allow users access to a demo tenancy called "acme" this contains sanitised data that can be visualised in our console dashboards.
+The "Enable Demo Data" toggle will allow users access to a demo tenancy called "acme", which contains sanitised data that can be visualised in our console dashboards.
 
 #### Access Level
 
@@ -56,7 +56,7 @@ SOC users have access focused on monitoring, incident response, and security-rel
 Analysts have access tailored to investigation, triage, and reviewing alerts or logs relevant to security operations.
 
 **Custom:**\
-If required for your use case, users can be given access to only specific areas by assigning the below permissions.
+If required for your use case, users can be given access to only specific areas by assigning the following permissions.
 
 #### User Permissions
 
@@ -66,11 +66,11 @@ If required for your use case, users can be given access to only specific areas 
 
 MSP User: An MSP User will have access to all tenants under the MSP, so if your MSP has 3 tenants, an MSP user will be able to access data from all 3 tenants based on their assigned permissions.
 
-Tenant User: A tenant user will only be able to access and manage data for tenants that are explicitly defined against their user. So if an MSP has tenants, X, Y & Z and said user is only defined with access to tenant X, they will not be able to see or manage data from tenants Y & Z
+Tenant User: A tenant user will only be able to access and manage data for tenants that are explicitly defined against their user. So if an MSP has tenants, X, Y & Z, and the said user is only defined with access to tenant X, they will not be able to see or manage data from tenants Y & Z
 
 ## 3. Resetting Passwords & MFA
 
-To reset a users password or MFA, click on the edit icon for their user and select the relevant option from the "Reset Options"
+To reset a user's password or MFA, click on the edit icon for their user and select the relevant option from the "Reset Options."
 
 <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -78,4 +78,4 @@ To reset a users password or MFA, click on the edit icon for their user and sele
 
 ## Having Trouble?
 
-If you're having any issues with user management, please open a request via the support portal, or email [**CybrHawk Support**](mailto:socv2@cybrhawk.com) and our team will assist you.
+If you're having any issues with user management, please open a request via the support portal or email [**CybrHawk Support**](mailto:socv2@cybrhawk.com)**,** and our team will assist you.

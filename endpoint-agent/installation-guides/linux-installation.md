@@ -26,7 +26,7 @@ chmod 755 TD_Endpoint.run
 sudo ./TD_Endpoint.run install --activation_code ***your Activation Code***
 ```
 
-5. The installer should complete, and provide output to your terminal.
+5. The installer should complete and provide output to your terminal.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-04-30 114709.png" alt=""><figcaption></figcaption></figure>
 
@@ -39,7 +39,7 @@ chmod 755 TD_Endpoint.run
 sudo ./TD_Endpoint.run install --activation_code ***your Activation Code*** --auto_update No
 ```
 
-#### Use an explicit http proxy on installation:
+#### Use an explicit HTTP proxy on installation:
 
 ```
 chmod 755 TD_Endpoint.run

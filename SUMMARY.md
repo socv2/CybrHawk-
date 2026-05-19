@@ -45,7 +45,7 @@
   * [Tenant Inventory](platform-management/data-source-management-and-review/tenant-inventory.md)
   * [Data Source Monitoring](platform-management/data-source-management-and-review/data-source-monitoring.md)
 * [Reporting](platform-management/reporting/README.md)
-  * [On Demand Reporting](platform-management/reporting/on-demand-reporting.md)
+  * [On-Demand Reporting](platform-management/reporting/on-demand-reporting.md)
   * [Automated Report Scheduler](platform-management/reporting/report-scheduler.md)
 * [Alerting](platform-management/alerting/README.md)
   * [Email Alerts](platform-management/alerting/email-alerts.md)

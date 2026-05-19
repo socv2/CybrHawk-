@@ -14,7 +14,7 @@ Objectives:
 
 ### 1. Security Operations
 
-* Confirm notificaiton and escalation emails / contacts.
+* Confirm notification and escalation emails/contacts.
 * Review the Security Operations and Incident Management Lifecycle.
 * Start 24/7 Security Operations.
 

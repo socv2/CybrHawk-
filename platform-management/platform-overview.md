@@ -7,7 +7,7 @@ CybrHawk delivers an end-to-end cybersecurity suite that combines SIEM, Network 
 The platform is implemented as a fully supported SaaS service, designed to provide comprehensive enterprise coverage. It integrates all available security data, including:
 
 * **Internal data sources** such as endpoints, servers, and network telemetry.
-* **External data sources** including cloud workloads, SaaS applications, and third-party services.
+* **External data sources,** including cloud workloads, SaaS applications, and third-party services.
 * **Threat intelligence feeds** covering Dark Web breaches, compromised credentials, external vulnerabilities, and supply chain risks.
 
 The platform is delivered as a cloud-hosted service, with lightweight data collection sensors deployed within customer environments.
@@ -36,7 +36,7 @@ At a high level, the platform architecture can be represented as follows:
 
 **Why does onboarding more data sources matter?** Every log, event, and alert from your environment is a piece of the puzzle. The more pieces you provide, the clearer the picture your CybrHawk platform can build. Onboarding data is the single most important step to transforming your SOC from reactive to proactive.
 
-We support 1000's of data sources to provide a complete coverage over all corners of the orgnisation.
+We support 1000's of data sources to provide complete coverage over all corners of the organisation.
 
 Think of it this way: You can't stop a threat you can't see. Complete visibility is your greatest asset.
 

@@ -22,7 +22,7 @@ If your issue is not resolved via the FAQ, you can raise a request with the Cybr
 
 ### How to Raise a Request:
 
-Service Requests can be raised through the Service Desk by sending an email to [socv2@cybrhawk.com.](mailto:socv2@cybrhawk.com)
+Requests can be raised by sending an email to [socv2@cybrhawk.com.](mailto:socv2@cybrhawk.com)
 
 When raising a request, please include as much information as possible to assist triage, such as:
 
@@ -32,16 +32,10 @@ When raising a request, please include as much information as possible to assist
 * **Error messages or logs**, if available
 * **Contact details** of the person raising the request.
 
-### Ticket Reference
-
-* Once logged, a **unique ticket number** will be issued.
-* Customers should use this ticket number for **all further communications** regarding the incident.
-* Ticket progress and updates will be available in the **Service Desk portal**.
-
 ***
 
 ## Reporting Cyber Incidents
 
-For immediate assistance with **critical cyber security incidents**, contact our **24/7 SOC team** on the escalation phone number provided in your **Operations Manual**.
+For immediate assistance with **critical cybersecurity incidents**, contact our **24/7 SOC team** on the escalation phone number provided in our **Operations Manual**.
 
 ***

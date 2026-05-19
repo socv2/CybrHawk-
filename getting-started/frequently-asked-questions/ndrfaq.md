@@ -4,15 +4,15 @@
 
 Many options:
 
-* On the main Security Detections dashboard, under Data Source drop down menu, choose Network Sensor or Network Intrusion;
+* On the main Security Detections dashboard, under the Data Source drop-down menu, choose Network Sensor or Network Intrusion.
 *   OR click on the NDR section in the pie chart:
 
     <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
-* Under Main menu/My SOC/Alerts\&Detections/Network Behavior and Network Intrusion dashboards.
+* Under the Main menu/My SOC/Alerts\&Detections/Network Behavior and Network Intrusion dashboards.
 
 ## How can I see all network traffic events (not alerts)
 
-Under main menu/Network. Network traffic flows contains all traffic metadata for full assurance, so breaches will be recorded even if not detected and includes all business traffic. The other dashboards contain data for individual traffic types:
+Under the main menu/Network. Network traffic flows contain all traffic metadata for full assurance, so breaches will be recorded even if not detected, and include all business traffic. The other dashboards contain data for individual traffic types:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-05-13 121705.png" alt=""><figcaption></figcaption></figure>
 
@@ -24,4 +24,4 @@ In the top right corner, click on inbound to see all inbound traffic:
 
 ## How to see all anomalies and attacks?
 
-Under main menu/Network/network Intrusion Detection, All network Intrusion Events. This module only records suspicious activity. To see all attacks from the outside, click on inbound under the Network Direction pie chart. To see what ports/services attract hackers, refer to the Destination Ports table that lists the count of unique incoming source IP's.
+Under the main menu/Network/Network Intrusion Detection, All network Intrusion Events. This module only records suspicious activity. To see all attacks from the outside, click on inbound under the Network Direction pie chart. To see what ports/services attract hackers, refer to the Destination Ports table that lists the count of unique incoming source IP's.

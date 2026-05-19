@@ -26,7 +26,7 @@ CybrHawk’s External Attack Surface Management (EASM) module provides continuou
 * **Complete Visibility**\
   See all internet-facing assets, even ones you didn’t know existed, like shadow IT, legacy systems, or misconfigured cloud storage.
 * **Proactive Risk Reduction**\
-  Identify and remediate high-risk exposures, open ports, outdated software, weak certificates, before attackers can exploit them.
+  Identify and remediate high-risk exposures, open ports, outdated software, and weak certificates before attackers can exploit them.
 * **Third-Party and Supply Chain Monitoring**\
   Gain visibility into the external footprint of your vendors and partners, highlighting risks that could impact your organization.
 
@@ -46,10 +46,10 @@ Some example findings of imminent risks:
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* A contractor saved a configuration file containing AWS API secrets and active Gmail credentials in a temporary folder on an internet-exposed asset. The security module detected the exposure and alerted within minutes;
-* Open to the internet SQL admin portal such as phmyadmin;
+* A contractor saved a configuration file containing AWS API secrets and active Gmail credentials in a temporary folder on an internet-exposed asset. The security module detected the exposure and alerted within minutes.
+* Open to the internet SQL admin portal, such as phmyadmin;
 * Azure subdomain takeover;
-* SQL backups saved on internet exposed servers.
+* SQL backups saved on the internet exposed servers.
 
 ***
 

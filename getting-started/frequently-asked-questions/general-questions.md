@@ -29,7 +29,7 @@ For large Enterprise or ICS/OT deployments, please contact your account manager 
 
 Two subscription tiers are available:
 
-* **TD Complete Tier** – Includes full 24×7 SOC services.
+* **CH Complete Tier** – Includes full 24×7 SOC services.
 * **Platform-Only Tier** – Use the platform to build and run your own SOC capability.
 
 ***
@@ -61,7 +61,7 @@ These sources typically provide **90–100% coverage** for small to medium organ
 
 ## Can I get a trial or proof of concept?
 
-Yes. We offer a **30-day trial** so you can experience the platform before committing.\
+Yes. We offer a 1&#x35;**-day trial** so you can experience the platform before committing.\
 Please contact [sales@cybrhawk.com](mailto:sales@cybrhawk.com) for details.
 
 ***
@@ -80,9 +80,9 @@ Active engagement with the platform increases awareness and reduces business ris
 ### SaaS SecOps Platform
 
 You are responsible for the **daily triage of alerts**.\
-For a medium-risk organisation, we recommend at minimum:
+For a medium-risk organisation, we recommend at a minimum:
 
-* Reviewing the **Security Detections Dashboard** daily (0900 and 1700).
+* Review the **Security Detections Dashboard** daily.
 * Monitoring and actioning **email alerts**, particularly for high-severity events.
 
 ### Platform + SOC Service
@@ -91,8 +91,6 @@ Our SOC manages the full alert lifecycle. Your responsibilities are limited to:
 
 * **Responding** to escalations sent via email from the SOC.
 * Ensuring at least one representative attends the **monthly 15–30 minute review meeting**.
-
-Here is the corrected version with improved grammar, spelling, flow, and professional tone:
 
 ## **What Integrations are Supported?**
 
@@ -121,7 +119,7 @@ Yes. Alerts perform this pivoting by default. For manual threat hunting, this ca
 
 ## **What Detections are Included Out-of-the-Box?**
 
-The platform includes approximately 2,000+ live use cases covering all common technologies. For example, for AWS you can onboard CloudTrail, CIS benchmarking, inventory, and services like S3 for automated detection and benchmarking. New use cases can be added at any time.
+The platform includes approximately 2,000+ live use cases covering all common technologies. For example, for AWS, you can onboard CloudTrail, CIS benchmarking, inventory, and services like S3 for automated detection and benchmarking. New use cases can be added at any time.
 
 **What Response Actions are Supported?** We support isolation, ticketing, orchestration, and any other methods required for your specific environment. For example:
 
@@ -135,7 +133,7 @@ Any tool can be integrated via our dedicated backend workflows, including custom
 
 ## **What is the Data Retention Policy?**
 
-By default, we retain data in hot storage for 2 months for the top five largest data sources. Data can be retained indefinitely in a restorable archive if required. Assessments (dark web, scanning, etc.) and detections (alerts) are kept indefinitely.
+By default, we retain data in hot storage for 3 months for the top five largest data sources. Data can be retained indefinitely in a restorable archive if required. Assessments (dark web, scanning, etc.) and detections (alerts) are kept indefinitely.
 
 ## **How Do You Deal with Alert Noise Reduction?**
 

@@ -26,7 +26,7 @@ chmod +x ./TD_Endpoint_MacOS_Intel.run
 sudo ./TD_Endpoint_MacOS_Intel.run install --activation_code ***your Activation Code***
 ```
 
-5. The installer should complete, and provide output to your terminal.
+5. The installer should complete and provide output to your terminal.
 
 <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 

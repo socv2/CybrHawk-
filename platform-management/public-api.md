@@ -14,7 +14,7 @@ Keep your API key secure and avoid sharing it publicly, as it provides access to
 
 ### Usage
 
-CybrHawk exposes its APIs through a number of scoped public endpoints.
+CybrHawk exposes its APIs through several scoped public endpoints.
 
 #### Alert Center
 
@@ -36,4 +36,4 @@ Permission Requirements: `Endpoint Isolation`
 
 ## Having Trouble?
 
-If you're having any issues with user management, please open a request via the support portal, or email our support email at "socv2@cybrhawk.com" and our team will assist you.
+If you're having any issues with user management, please open a request via the support portal or email our support email at "socv2@cybrhawk.com," and our team will assist you.

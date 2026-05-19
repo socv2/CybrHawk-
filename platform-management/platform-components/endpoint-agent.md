@@ -4,11 +4,11 @@ CybrHawk’s DFIR Endpoint Agent provides deep, real-time visibility into endpoi
 
 **Business Benefits:**
 
-1. **Accelerates Threat Investigation and Response,** by providing immediate, granular visibility into endpoint activity, reducing mean time to detect (MTTD) and mean time to respond (MTTR).
-2. **Enables Proactive Threat Hunting,** by offering a rich dataset of historical and real-time endpoint events, empowering analysts to uncover hidden threats.
+1. **Accelerates Threat Investigation and Response** by providing immediate, granular visibility into endpoint activity, reducing mean time to detect (MTTD) and mean time to respond (MTTR).
+2. **Enables Proactive Threat Hunting** by offering a rich dataset of historical and real-time endpoint events, empowering analysts to uncover hidden threats.
 3. **Delivers Comprehensive Forensic Evidence,** maintaining a detailed, tamper-resistant record of all system activity for post-incident analysis, regulatory compliance, and legal proceedings.
-4. **Strengthens Zero-Trust Security Posture,** by continuously monitoring and validating endpoint integrity, enabling immediate enforcement actions when malicious activity is detected.
-5. **Simplifies Security Operations,** by unifying endpoint monitoring, investigation, and response within a single agent and console, reducing tool sprawl and operational overhead.
+4. **Strengthens Zero-Trust Security Posture** by continuously monitoring and validating endpoint integrity, enabling immediate enforcement actions when malicious activity is detected.
+5. **Simplifies Security Operations** by unifying endpoint monitoring, investigation, and response within a single agent and console, reducing tool sprawl and operational overhead.
 
 ***
 

@@ -4,7 +4,7 @@ description: Complete Internal Network Visibility, Threat Detection, and Automat
 
 # Network Sensors(NDR)
 
-CybrHawk's Network Detection and Response (NDR) module provides deep, continuous monitoring of all internal network traffic, delivering real-time threat detection and automated response capabilities. By analyzing east-west and north-south traffic patterns, our NDR identifies malicious activity that other security tools miss from lateral movement and data exfiltration to zero-day attacks and compromised devices, giving you complete visibility into what's happening inside your network.
+CybrHawk's Network Detection and Response (NDR) module provides deep, continuous monitoring of all internal network traffic, delivering real-time threat detection and automated response capabilities. By analyzing east-west and north-south traffic patterns, our NDR identifies malicious activity that other security tools miss, from lateral movement and data exfiltration to zero-day attacks and compromised devices, giving you complete visibility into what's happening inside your network.
 
 **How It Works: Continuous Network Protection**
 
@@ -20,10 +20,10 @@ CybrHawk's Network Detection and Response (NDR) module provides deep, continuous
 
 **Key Benefits**
 
-* **Agentless Deployment** Gain immediate visibility without installing software on endpoints. Our sensors connect seamlessly to existing network infrastructure.
+* **Agentless Deployment:** Gain immediate visibility without installing software on endpoints. Our sensors connect seamlessly to existing network infrastructure.
 * **Complete Internal Visibility** Monitor all network traffic, including unmanaged IoT devices, operational technology, and shadow IT that other security tools can't see.
-* **Advanced Threat Detection** Identify sophisticated attacks that bypass traditional security tools, including insider threats, lateral movement, and data exfiltration.
-* **Encrypted Traffic Analysis** Gain insights into encrypted communications without decryption, identifying malicious patterns in SSL/TLS traffic through certificate and behavioral analysis.
+* **Advanced Threat Detection:** Identify sophisticated attacks that bypass traditional security tools, including insider threats, lateral movement, and data exfiltration.
+* **Encrypted Traffic Analysis:** Gain insights into encrypted communications without decryption, identifying malicious patterns in SSL/TLS traffic through certificate and behavioral analysis.
 
 ***
 
@@ -44,7 +44,7 @@ CybrHawk's Network Detection and Response (NDR) module provides deep, continuous
 
 **Insider Threat Detection:** Identify unauthorized data access and exfiltration attempts by malicious insiders or compromised accounts.
 
-**Incident Investigation:** Conduct comprehensive forensic analysis using full packet capture and flow data to understand attack scope and impact.
+**Incident Investigation:** Conduct a comprehensive forensic analysis using full packet capture and flow data to understand the attack scope and impact.
 
 **IoT and OT Security:** Monitor and secure unmanaged devices, industrial control systems, and operational technology that can't run traditional security agents.
 

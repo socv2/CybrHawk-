@@ -4,12 +4,12 @@ A **guided onboarding process** designed to ensure a smooth transition into our 
 
 ***
 
-## 1. [Discovery Meeting](discovery-form.md)
+## 1. Discovery Meeting
 
 * Conducted with customer stakeholders (technical, operational, and business).
 * Establishes the **scope of services**, key priorities, and success criteria.
-* Defines log sources, endpoint coverage and any compliance or reporting requirements.
-* Confirms escalation contacts, governance expectations and reporting cadence.
+* Defines log sources, endpoint coverage, and any compliance or reporting requirements.
+* Confirms escalation contacts, governance expectations, and reporting cadence.
 
 ***
 
@@ -17,7 +17,7 @@ A **guided onboarding process** designed to ensure a smooth transition into our 
 
 * Deployment of CybrHawk **endpoint agents, sensors, and integrations**.
 * Configuration of cloud and SaaS log sources (e.g., Microsoft 365, AWS, Azure, GCP).
-* Setup of delegated access (e.g., Azure Lighthouse for Sentinel environments).
+* Set up delegated access (e.g., Azure Lighthouse for Sentinel environments).
 * Validation of data ingestion, alert pipelines, and security telemetry.
 
 ***
