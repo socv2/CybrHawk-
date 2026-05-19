@@ -2,7 +2,7 @@
 
 **Security Detections Dashboard**
 
-The primary triage location is the **Security Detections Dashboard**, which displays alerts in a collapsed view for efficient review. Alerts are generated from various data sources and can be filtered, inspected and managed to establish closure or escalation. The platform supports AI-assisted triage, automation, and hunting for deeper investigations, helping SOC analysts focus on high-fidelity threats while reducing manual workload.
+The primary triage location is the **Security Detections Dashboard**, which displays alerts in a collapsed view for efficient review. Alerts are generated from various data sources and can be filtered, inspected, and managed to establish closure or escalation. The platform supports AI-assisted triage, automation, and hunting for deeper investigations, helping SOC analysts focus on high-fidelity threats while reducing manual workload.
 
 Key principles for triage:
 
@@ -57,7 +57,7 @@ END
 
 ### Platform Navigation Overview
 
-Access the platform analyst console. In summary, you can investigate, hunt, triage by using time filters(i.e. last 7 days, or now) and clicking on visualizations to narrow down your search. For more granular filtering, there is a text based search bar available.
+Access the platform analyst console. In summary, you can investigate, hunt, and triage by using time filters(i.e., last 7 days, or now) and clicking on visualizations to narrow down your search. For more granular filtering, there is a text-based search bar available.
 
 * **Dashboard Filters and Views**:
   * **Time Range**: Default to "Last 24 hours" (adjust via "Show dates" for custom periods, e.g., last 30 days) or customer time range.
@@ -100,7 +100,7 @@ Access the platform analyst console. In summary, you can investigate, hunt, tria
 <div align="left"><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure></div>
 
 * Scan the **Security Detections Table** for top alerts by Severity.
-* Set some data filters to remove noise: from the header menu, choose tenant:"your site", Alert Status: Escalated, Data Source:O365, for example. If you prefer to use the keyboard, in the search bar any queries can be used:
+* Set some data filters to remove noise: from the header menu, choose tenant: "your site", Alert Status: Escalated, Data Source: O365, for example. If you prefer to use the keyboard, in the search bar, any queries can be used:
   * `user.name:john AND source.ip:10.10.10.10 AND (destination.port:(445 OR 446) OR destination:ip:"12.12.12.0/24")`
   * _Tip: Use asterisks (`*`) as wildcards and `AND,OR` to connect keywords._
 * Review aggregated charts for patterns: Check Techniques (e.g., LOGIN\_ERROR), Impacted Sites (e.g., cybrhawk), and Indicators (e.g., IPs, countries like India/Germany).
@@ -110,8 +110,8 @@ Access the platform analyst console. In summary, you can investigate, hunt, tria
 * Click into the **Detections Feed** (paginated view).
 * For each row, examine columns:
   * **Time**: E.g., Sep 12, 2025 @ 11:50:01.370.
-  * **td.alert.name**: Alert type (e.g., Spike Of KeyCloak Errors).
-  * **td.alert.message**: High-level forensics (e.g., "KeyCloak Identity Server reports spike of LOGIN\_ERROR events with user\_temporarily\_disabled, last seen user was \['acme.tester'], USA, NA, IP, cybrhawk."). Use this to establish initial closure:
+  * **td. alert.name**: Alert type (e.g., Spike Of KeyCloak Errors).
+  * **td. alert.message**: High-level forensics (e.g., "KeyCloak Identity Server reports spike of LOGIN\_ERROR events with user\_temporarily\_disabled, last seen user was \['acme.tester'], USA, NA, IP, cybrhawk."). Use this to establish initial closure:
     * Benign? (E.g., known maintenance.)
     * Malicious? (E.g., unusual IP/location.)
     * Needs more info? Proceed to expansion.
@@ -153,7 +153,7 @@ Access the platform analyst console. In summary, you can investigate, hunt, tria
 * **Common Pitfalls**: Avoid closing without Hunt if behavior spans >24 hours. Exclude #wl early to reduce noise.
 * **Escalation Criteria**: Impossible Travel, Volt-Typhoon tools, or Dark Web hits with internal matches.
 * **Performance**: The platform deploys in minutes; use 24x7 SOC for support if stuck.
-* **Training**: Practice with #demodata. For advanced queries, use platform's full features (e.g., geocode filters).
+* **Training**: Practice with #demodata. For advanced queries, use the platform's full features (e.g., geocode filters).
 
 ### Troubleshooting
 

@@ -1,4 +1,4 @@
-# Copy of Deployment Options
+# Deployment Options
 
 By default, the platform is delivered from our global SaaS infrastructure, with certain components, such as NDR sensors, log collectors, and honeypots, deployed on the customer's premises.
 
@@ -24,7 +24,7 @@ _**Options for In-Country SaaS:**_
    * Carries some risk of privacy loss and potential foreign interference.
    * Quick setup.
 
-**Recommendation: Local Data Centre.** This option offers the best performance, lowest and most predictable long-term cost, full control, guaranteed privacy, and freedom from third-party risk or interference. For example, an initial, one-time hardware investment of approximately $100k can generate over $500k in monthly revenue.
+**Recommendation: Local Data Centre.** This option offers the best performance, the lowest and most predictable long-term cost, full control, guaranteed privacy, and freedom from third-party risk or interference. For example, an initial, one-time hardware investment of approximately $100k can generate over $500k in monthly revenue.
 
 ## **On-Premises Setup:**
 

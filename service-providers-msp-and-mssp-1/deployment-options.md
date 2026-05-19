@@ -1,6 +1,6 @@
 # Deployment Options
 
-By default, the platform is delivered from our global SaaS infrastructure, with certain tools ([onboarding](https://docs.threatdefence.com/getting-started/guided-onboarding)), such as NDR sensors, log collectors, and honeypots, deployed on the customer's premises.
+By default, the platform is delivered from our global SaaS infrastructure, with certain tools (onboarding), such as NDR sensors, log collectors, and honeypots, deployed on the customer's premises.
 
 ## **Global SaaS**
 
@@ -24,7 +24,7 @@ _**Options for In-Country SaaS:**_
    * Carries some risk of privacy loss and potential foreign interference.
    * Quick setup.
 
-**Recommendation: Local Data Centre.** This option offers the best performance, lowest and most predictable long-term cost, full control, guaranteed privacy, and freedom from third-party risk or interference.
+**Recommendation: Local Data Centre.** This option offers the best performance, the lowest and most predictable long-term cost, full control, guaranteed privacy, and freedom from third-party risk or interference.
 
 ## **On-Premises Setup**
 

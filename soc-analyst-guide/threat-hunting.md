@@ -56,11 +56,11 @@ When conducting hunts, analysts typically focus on:
 
 ***
 
-## Accessing Hunting in the Platform
+## Accessing Hunting on the Platform
 
 Threat hunting can be performed from the **Hunt** module in the Analyst Console:
 
-1. Log into the CybrHawk Analyst Console.
+1. Log in to the CybrHawk Analyst Console.
 2. From the left-hand menu, select **Hunt**.
 3. Choose the relevant dataset (e.g., Endpoint, Network, Cloud).
 4. Use query filters or AI-assisted recommendations to begin your hunt.
@@ -68,15 +68,3 @@ Threat hunting can be performed from the **Hunt** module in the Analyst Console:
 
 ***
 
-## Video Guides
-
-For demonstrations of hunting workflows, refer to the following guides:
-
-* **Endpoint Hunting:**
-* **Cloud Hunting:**
-
-{% embed url="https://www.youtube.com/embed/SgD_aOsvcv4?si=lDVm8tZx-XvzlTUP" %}
-
-* **Advanced Endpoint Hunting:**
-
-{% embed url="https://www.youtube.com/embed/ONiTDdOcNxY?si=kOQQIYY5-v3Bojrw" %}

@@ -229,7 +229,7 @@
 ## SERVICE PROVIDERS (MSP & MSSP)
 
 * [Servicing Customers](service-providers-msp-and-mssp/servicing-customers.md)
-* [Copy of Deployment Options](service-providers-msp-and-mssp/copy-of-deployment-options.md)
+* [Deployment Options](service-providers-msp-and-mssp/copy-of-deployment-options.md)
 
 ## SERVICE PROVIDERS (MSP & MSSP)
 

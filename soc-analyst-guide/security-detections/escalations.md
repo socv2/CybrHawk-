@@ -7,11 +7,11 @@ Escalations ensure that validated or high-impact alerts are promptly raised with
 ## When to Escalate
 
 * **Validation Needed:** Confirm if suspicious activity is expected.\
-  \&#xNAN;_Example: "Is this user expected to access this system?"_
+  \&#xNAN; _Example: "Is this user expected to access this system?"_
 * **Action Required:** Customer approval or remediation is necessary.\
-  \&#xNAN;_Example: "Confirm to lock this account."_
+  \&#xNAN; _Example: "Confirm to lock this account."_
 * **Context Needed:** Business-specific insight is required.\
-  \&#xNAN;_Example: "Is this application change authorised?"_
+  \&#xNAN; _Example: "Is this application change authorised?"_
 
 ***
 

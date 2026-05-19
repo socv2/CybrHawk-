@@ -20,12 +20,12 @@ Whitelisting allows analysts to suppress false positives by creating precise, ta
    *   Example (narrow):
 
        ```
-       user.name:John AND destination.port:(135 OR 445) AND agent.name:johnPC
+       user.name: John AND destination.port:(135 OR 445) AND agent.name:johnPC
        ```
    *   Example (O365 Impossible Travel):
 
        ```
-       user.name:"Ethan Harrison" AND source.ip:(221.221.112.112 OR 199.199.123.123)
+       user.name: "Ethan Harrison" AND source.ip:(221.221.112.112 OR 199.199.123.123)
        ```
 5. Provide a **reason for the whitelist** (e.g., "Expected login from approved IPs").
 6. Save and apply — the rule takes effect immediately.

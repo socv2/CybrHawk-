@@ -10,7 +10,7 @@ Please read this policy carefully. By using our website, you agree to the collec
 
 We may collect the following types of personal and non-personal information when you interact with our website:
 
-<table><thead><tr><th width="402"></th><th width="323"></th></tr></thead><tbody><tr><td><h4>Personal Information</h4><p>  <strong>1. Email Address : –</strong> when you subscribe to  newsletters, download content, or contact us.</p><p>  <strong>2. Name</strong> – if voluntarily provided through forms or communication.</p><p>  <strong>3. Any other details</strong> you voluntarily provide via contact or registration forms.</p></td><td><h4>Non-Personal Information</h4><p>   1. Browser type and version</p><p>   2. IP address</p><p>   3. Pages visited and time spent on the site</p><p>   4. Device information</p><p>   5. Referral source (how you found our website)</p></td></tr></tbody></table>
+<table><thead><tr><th width="300"></th><th width="464"></th></tr></thead><tbody><tr><td><h4>Personal Information</h4><p>  <strong>1. Email Address: –</strong> when you subscribe to newsletters, download content, or contact us.</p><p>  <strong>2. Name</strong> – if voluntarily provided through forms or communication.</p><p>  <strong>3. Any other details</strong> you voluntarily provide via contact or registration forms.</p></td><td><h4>Non-Personal Information</h4><p>   1. Browser type and version</p><p>   2. IP address</p><p>   3. Pages visited and time spent on the site</p><p>   4. Device information</p><p>   5. Referral source (how you found our website</p></td></tr></tbody></table>
 
 **2. How We Use Your Information**
 

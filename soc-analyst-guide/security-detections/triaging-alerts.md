@@ -12,7 +12,7 @@ Your primary view is the **Security Detections** dashboard. Before you start, en
 
 *   **Set Your Scope:** Use the **Header Controls** at the very top to filter the view.
 
-    * **MSP/Tenant Filter:** If searching single tenant or an MSP, ensure the filter is set (e.g., `tenant: tdsoc`). This prevents you from seeing irrelevant alerts.
+    * **MSP/Tenant Filter:** If searching for a single tenant or an MSP, ensure the filter is set (e.g., `tenant: tdsoc`). This prevents you from seeing irrelevant alerts.
 
     <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -22,11 +22,11 @@ Your primary view is the **Security Detections** dashboard. Before you start, en
 *   **Search for Specific Alerts:** Need to find an alert containing a specific message?
 
     * Use the **Search Bar** with Lucene syntax.
-    *   **Example:** To find alerts mentioning "365", from user named john and his IP:
+    *   **Example:** To find alerts mentioning "365", from the user named John and his IP:
 
         * `td.alert.message:*365*`
 
-        **More complex example:** Find some connections from John on certain service:
+        **More complex example:** Find some connections from John on a certain service:
     * `user.name:john AND source.ip:`<sub>`2.2.2.2`</sub>` `` ``AND destination.port:(445 OR 446) `
 
     <figure><img src="../../.gitbook/assets/Screenshot 2026-05-13 125400.png" alt=""><figcaption></figcaption></figure>

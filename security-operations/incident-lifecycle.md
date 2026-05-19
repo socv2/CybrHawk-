@@ -11,7 +11,7 @@ Preparation establishes the readiness of both CybrHawk and the Customer to respo
 **Customer Responsibilities**:
 
 * Deploy the required CybrHawk tools to provide visibility across the environment.
-* Ensure all contact details (phone numbers, email addresses, roles) are accurate and up to date.
+* Ensure all contact details (phone numbers, email addresses, and roles) are accurate and up to date.
 * Ensure nominated personnel are familiar with their responsibilities during an escalation.
 * Provide CybrHawk with explicit authorization to perform endpoint and/or user isolation if required.
 
@@ -49,7 +49,7 @@ An **Incident Declaration** is made when activity is assessed as a credible thre
 
 ### 4. Threat Containment
 
-The SOC team acts to minimize impact and stop the threat.
+The SOC team acts to minimize the impact and stop the threat.
 
 **CybrHawk Actions**:
 
@@ -77,7 +77,7 @@ Once contained, the SOC and Customer teams focus on removing malicious artifacts
 **Recovery Phase**:
 
 * Verify endpoints and services are clean.
-* Validate security controls are functioning.
+* Validate that security controls are functioning.
 * Reconnect systems to the production network under SOC supervision.
 
 ***

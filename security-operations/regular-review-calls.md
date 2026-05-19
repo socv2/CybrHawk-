@@ -6,7 +6,7 @@ The tenant review call is a focused 30+ minute session held monthly or quarterly
 
 **The purpose** is to establish a consistent, efficient rhythm for delivering proactive security assurance. These regular meetings transform the client relationship from reactive support to a strategic partnership, demonstrating ongoing value and building trust through transparency and expert guidance.
 
-**Cybrhawk Partnership Support** for MSP's: to ensure a strong start, Cybrhawk senior security analysts will participate in the first five review calls on behalf of the MSP, if required. This provides expert-led modelling of the meeting cadence, demonstrates high-value engagement and helps train the team in session best practices.
+**Cybrhawk Partnership Support** for MSP's: to ensure a strong start, Cybrhawk senior security analysts will participate in the first five review calls on behalf of the MSP, if required. This provides expert-led modelling of the meeting cadence, demonstrates high-value engagement, and helps train the team in session best practices.
 
 **Recommended Call Structure (30-Minute Agenda)**
 
@@ -19,9 +19,9 @@ The tenant review call is a focused 30+ minute session held monthly or quarterly
 
 * **Risk Reduction:** Ensures critical findings are communicated and acted upon promptly.
 * **Client Confidence:** Builds trust through regular, high-touch expert engagement.
-* **Uplift Opportunities:** Naturally surfaces needs for additional security uplift.
+* **Uplift Opportunities:** Naturally surfaces the need for additional security uplift.
 
 **Outcome & Follow-Up**
 
-* **Within 12 Hours:** Send a meeting summary(automated AI-generated) email recapping decisions, actions and key evidence reviewed.
+* **Within 12 Hours:** Send a meeting summary(automated AI-generated) email recapping decisions, actions, and key evidence reviewed.
 * **Track:** Monitor the completion of agreed-upon client actions before the next review cycle.
