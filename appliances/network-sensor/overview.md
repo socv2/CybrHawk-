@@ -22,14 +22,15 @@ To achieve this, configure a **SPAN (port mirroring)** session on your switch or
 
 ## Deployment Diagram
 
-![Network Sensor Deployment](../../.gitbook/assets/network_diagram.png)\
-\&#xNAN;_Example span port configuration feeding mirrored traffic to a CybrHawk sensor._
+![Network Sensor Deployment](../../.gitbook/assets/network_diagram.png)<br>
+
+_Example:_ _span port configuration feeding mirrored traffic to a CybrHawk sensor._
 
 ***
 
 ## Example: Cisco Switch Port Mirroring
 
-For a typical Cisco switch where the internal firewall is connected on port `eth0/1` and the CybrHawk sensor is connected on port `eth0/2`, the configuration would be:
+For a typical Cisco switch, where the internal firewall is connected on the port `eth0/1` and the CybrHawk sensor is connected to the port `eth0/2`, the configuration would be:
 
 ```
 monitor session 1 source interface eth0/1

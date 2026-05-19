@@ -33,7 +33,7 @@ A **rack-mountable (1 RU)** sensor suited for larger deployments, capable of pro
 
 1. **Physical Setup**
    * Place the sensor securely and ensure proper ventilation.
-   *   Connect the sensor to power and network.
+   *   Connect the sensor to power and the network.
 
        > **Note:** The **first port (from the left)** is designated for **management**. The remaining ports are configured for **mirroring network traffic**.
 2. **Integration with Cybrhawk Platform**
@@ -48,6 +48,6 @@ A **rack-mountable (1 RU)** sensor suited for larger deployments, capable of pro
        monitor session 12 source interface 1/0/1
        monitor session 12 destination interface 1/0/2
        ```
-   * Ensure that your sensor can reach TD servers on **port 443 (HTTPS)** at the following domains:
+   * Ensure that your sensor can reach CH servers on **port 443 (HTTPS)** at the following domains:
      * `tele.threatdefence.io`
      * `vle.us.secops-apps.io`

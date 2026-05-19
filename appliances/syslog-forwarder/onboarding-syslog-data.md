@@ -25,11 +25,7 @@ After configuring your devices to send logs, raise a request with CybrHawk Suppo
 
 **Steps to Raise a Ticket**:
 
-1. Go to the **Service Desk** portal.
-2. Create a new ticket with:
-   * **Category:** `Onboarding`
-   * **Sub-Category:** `Syslog Log Sources`
-3. Provide the following details:
+1. Provide the following details to socv2@cybrhawk.com:
    * **Source IP address** of the device sending logs.
    * **Make/Model** of the data source (e.g., Cisco ASA, Palo Alto firewall, Fortinet, etc.).
 
