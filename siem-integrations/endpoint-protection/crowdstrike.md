@@ -12,8 +12,6 @@ To define a CrowdStrike API client and integrate it with CybrHawk, follow these 
 3. **Add a New API Client**:
    * Click on "Add new API Client" and provide a descriptive name for the client.\
      ![Create API client button](../../.gitbook/assets/newapiclient.png)
-   * Select the appropriate API scopes based on your integration requirements. Event streams is required.\
-     ![New API Client Settings](../../.gitbook/assets/apiclientsettings.png)
 4. **Save Client Information**:
    * After saving the new API client, you will be presented with the Client ID and Client Secret.
    * The Client Secret will only be shown once and should be stored securely.
