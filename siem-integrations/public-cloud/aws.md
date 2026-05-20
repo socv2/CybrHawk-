@@ -82,8 +82,6 @@ To get started, create an AWS user with an IAM role attached holding the followi
 
 Then, generate an access token for a new user with these permissions assigned. Make sure to save the secret key, as it only appears once. These can then be used to activate the integration.
 
-![access keys](../../.gitbook/assets/access_keys.png)
-
 ## Step 3. Deploy the integration via the Portal
 
 Navigate to Deployment > Integrations > click add. Further guidance is available in [Managing Integrations](../../platform-management/managing-integrations.md).
