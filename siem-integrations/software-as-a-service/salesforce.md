@@ -62,8 +62,6 @@ Integrating **Salesforce** with **CybrHawk** allows you to securely ingest audit
 5. In the **OAuth Policies** section, set **Enforce IP restrictions** to **Relax IP restrictions**.
 6. Save changes.
 
-![Salesforce OAuth Policy Edit](../../.gitbook/assets/salesforce-image8.png)
-
 ***
 
 ## Step 5. Obtain the App’s Client ID and Client Secret
@@ -71,18 +69,10 @@ Integrating **Salesforce** with **CybrHawk** allows you to securely ingest audit
 1. In **Setup**, go to **Apps → App Manager**.
 2. Find the Connected App you created for CybrHawk integration.
 3. From the row menu (dropdown on the right), select **View**.
-
-![Salesforce App Manager View](../../.gitbook/assets/salesforce-image9.png)
-
 4. In the API section, click **Manage Consumer Details** (requires a verification code sent to the admin email).
-
-![Salesforce Consumer Details Verification](../../.gitbook/assets/salesforce-image10.png)
-
 5. On the Consumer Details page, copy the following values:
    * **Consumer Key** (Client ID)
    * **Consumer Secret** (Client Secret)
-
-![Salesforce Consumer Key and Secret](../../.gitbook/assets/salesforce-image11.png)
 
 ***
 
