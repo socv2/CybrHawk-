@@ -118,6 +118,7 @@
   * [Overview](appliances/network-sensor/overview.md)
   * [Physical Sensor](appliances/network-sensor/physical-sensor.md)
   * [Virtual Sensor](appliances/network-sensor/virtual-sensor.md)
+  * [Troubleshooting](appliances/network-sensor/troubleshooting.md)
 * [Syslog Forwarder](appliances/syslog-forwarder/README.md)
   * [Overview](appliances/syslog-forwarder/overview.md)
   * [Deployment](appliances/syslog-forwarder/deployment.md)
