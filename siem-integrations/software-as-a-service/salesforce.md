@@ -36,8 +36,6 @@ Integrating **Salesforce** with **CybrHawk** allows you to securely ingest audit
 
 <figure><img src="../../.gitbook/assets/salesforce-image3.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/salesforce-image4.png" alt=""><figcaption></figcaption></figure>
-
 3. Complete the required fields (you may use any valid email).
 
 ![Salesforce App Details](../../.gitbook/assets/salesforce-image5.png)
@@ -55,9 +53,6 @@ Integrating **Salesforce** with **CybrHawk** allows you to securely ingest audit
 1. Wait a few minutes for changes to propagate.
 2. In **Setup**, search for **Apps → Connected Apps → Manage Connected Apps**.
 3. Locate the Connected App you created and click its name.
-
-![Salesforce Manage Connected Apps](../../.gitbook/assets/salesforce-image7.png)
-
 4. Select **Edit Policies**.
 5. In the **OAuth Policies** section, set **Enforce IP restrictions** to **Relax IP restrictions**.
 6. Save changes.
