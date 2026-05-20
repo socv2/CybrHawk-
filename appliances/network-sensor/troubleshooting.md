@@ -30,9 +30,11 @@ _To check if expected traffic is being captured on the mirrored port or not :_&#
 
 sudo tcpdump -i eth1
 
-_\*If you only see ARP traffic for this output, it means the mirror is not setup correctly and needs to be checked if it mirrored to the internal port of the firewall\*_
+_\*\*If you only see ARP traffic for this output, it means the mirror is not setup correctly and needs to be checked if it mirrored to the internal port of the firewall\*\*_
 
-Check for storage issues :&#x20;
+_Check for storage issues :_&#x20;
 
 High volume of packets can cause the traffic to be dropped causing connectivity issues :&#x20;
+
+increasing disk space is recommended
 
