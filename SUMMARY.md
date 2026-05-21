@@ -73,6 +73,7 @@
 * [Release Notes](endpoint-agent/release-notes/README.md)
   * [Windows Agent](endpoint-agent/release-notes/windows-agent/README.md)
     * [6.x](endpoint-agent/release-notes/windows-agent/6.x/README.md)
+      * [6.1.4](endpoint-agent/release-notes/windows-agent/6.x/6.1.4.md)
       * [6.1.3](endpoint-agent/release-notes/windows-agent/6.x/6.1.3.md)
       * [6.1.2](endpoint-agent/release-notes/windows-agent/6.x/6.1.2.md)
       * [6.1.1](endpoint-agent/release-notes/windows-agent/6.x/6.1.1.md)
