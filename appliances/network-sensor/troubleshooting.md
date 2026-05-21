@@ -27,10 +27,8 @@ Make sure SSL/TLS inspection is disabled or bypassed for both domains.
 
 Run these commands on the sensor and capture the output:
 
-```bash
-nc -vz tele.threatdefence.io 443
-nc -vz vle.us.secops-apps.io 443
-```
+* `nc -vz tele.threatdefence.io 443`
+* `nc -vz vle.us.secops-apps.io 443`
 
 ***
 
@@ -38,10 +36,8 @@ nc -vz vle.us.secops-apps.io 443
 
 Run these commands:
 
-```bash
-systemctl restart siemlink.service
-systemctl restart teleport
-```
+* `systemctl restart siemlink.service`
+* `systemctl restart teleport`
 
 ***
 
@@ -49,9 +45,7 @@ systemctl restart teleport
 
 Run this command:
 
-```bash
-sudo tcpdump -i eth1
-```
+* `sudo tcpdump -i eth1`
 
 If you only see ARP traffic, the mirror or SPAN port is not configured correctly.
 
@@ -73,10 +67,8 @@ If the issue persists, contact [socv2@cybrhawk.com](mailto:socv2@cybrhawk.com).
 
 Include screenshots or command output for:
 
-```bash
-systemctl restart siemlink.service
-systemctl restart teleport
-ip a
-ip -br a
-ping 1.1.1.1
-```
+* `systemctl restart siemlink.service`
+* `systemctl restart teleport`
+* `ip a`
+* `ip -br a`
+* `ping 1.1.1.1`
