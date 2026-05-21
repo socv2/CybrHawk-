@@ -248,4 +248,4 @@
 
 ## Certification
 
-* [CybrHawk Technical Training & Certification Program](certification/cybrhawk-technical-training-and-certification-program.md)
+* [CybrHawk Technical Training and Certification Program](certification/cybrhawk-technical-training-and-certification-program.md)
