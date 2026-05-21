@@ -4,7 +4,7 @@
 
 **Step 1: Initial Dashboard Review**
 
-1. **Navigate** to the default "Security Detections" dashboard in your ThreatDefence Analyst Console.
+1. **Navigate** to the default "Security Detections" dashboard in your CybrHawk Analyst Console.
 2. **Locate** the "Impossible Travel" alert in the table to the left and click on the filter to select it:
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
