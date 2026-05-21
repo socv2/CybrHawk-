@@ -245,3 +245,7 @@
 * [Master Services Agreement](legal-and-compliance/msa.md)
 * [Service Level Agreement](legal-and-compliance/service-level-agreement.md)
 * [EULA](legal-and-compliance/eula.md)
+
+## Certification
+
+* [CybrHawk Technical Training & Certification Program](certification/cybrhawk-technical-training-and-certification-program.md)
