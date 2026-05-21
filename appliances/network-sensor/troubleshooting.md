@@ -1,6 +1,5 @@
 ---
 description: Troubleshooting steps for a sensor that stops reporting to the console
-hidden: true
 ---
 
 # Troubleshooting
