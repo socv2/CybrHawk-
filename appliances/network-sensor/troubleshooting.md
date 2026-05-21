@@ -5,15 +5,13 @@ hidden: true
 
 # Troubleshooting
 
-##
-
 Use these steps if the sensor stops reporting to the console.
 
 ***
 
 ### 1. Reboot the sensor
 
-Start with a reboot.
+Reboot the sensor first.
 
 If the sensor still does not report, continue with the checks below.
 
@@ -39,11 +37,10 @@ nc -vz vle.us.secops-apps.io 443
 
 ### 3. Restart the sensor services
 
-Run:
+Run these commands:
 
 ```bash
-systemctl restart siemlink
-systemctl status siemlink
+systemctl restart siemlink.service
 systemctl restart teleport
 ```
 
@@ -51,7 +48,7 @@ systemctl restart teleport
 
 ### 4. Confirm mirrored traffic is present
 
-Run:
+Run this command:
 
 ```bash
 sudo tcpdump -i eth1
@@ -68,3 +65,19 @@ Check that the mirror points to the internal firewall port.
 High packet volume can fill storage and cause packet drops.
 
 If storage is low, increase disk space on the sensor.
+
+***
+
+### 6. Contact support
+
+If the issue persists, contact [socv2@cybrhawk.com](mailto:socv2@cybrhawk.com).
+
+Include screenshots or command output for:
+
+```bash
+systemctl restart siemlink.service
+systemctl restart teleport
+ip a
+ip -br a
+ping 1.1.1.1
+```
