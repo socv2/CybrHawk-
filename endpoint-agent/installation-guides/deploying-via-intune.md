@@ -11,18 +11,12 @@ For background information, refer to Microsoft’s official documentation on [Li
 
 ### Step-by-Step Guide
 
-1.  **Open Intune Admin Center**
-
-    * Navigate to the **Microsoft Intune admin center**.
-    * From the left-hand navigation bar, select **Apps > All apps**.
-
-    ![Figure 1](../../.gitbook/assets/1.png)
-2.  **Add a New Application**
-
-    * Press **+ Add**.
-    * Select **the line-of-business app**.
-
-    ![Figure 2](../../.gitbook/assets/2.png)
+1. **Open Intune Admin Center**
+   * Navigate to the **Microsoft Intune admin center**.
+   * From the left-hand navigation bar, select **Apps > All apps**.
+2. **Add a New Application**
+   * Press **+ Add**.
+   * Select **the line-of-business app**.
 3. **Configure App Information**
    * Set the **Publisher** field.
    * Populate the **Command-line arguments** as if calling `msiexec.exe` directly.\
