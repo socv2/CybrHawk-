@@ -12,7 +12,7 @@ Your primary view is the **Security Detections** dashboard. Before you start, en
 
 *   **Set Your Scope:** Use the **Header Controls** at the very top to filter the view.
 
-    * **MSP/Tenant Filter:** If searching for a single tenant or an MSP, ensure the filter is set (e.g., `tenant: tdsoc`). This prevents you from seeing irrelevant alerts.
+    * **MSP/Tenant Filter:** If searching for a single tenant or an MSP, ensure the filter is set (e.g., `tenant: chsoc`). This prevents you from seeing irrelevant alerts.
 
     <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
