@@ -36,6 +36,6 @@ When raising a request, please include as much information as possible to assist
 
 ## Reporting Cyber Incidents
 
-For immediate assistance with **critical cybersecurity incidents**, contact our **24/7 SOC team** on the escalation phone number provided in our **Operations Manual**.
+For immediate assistance with **critical cybersecurity incidents**, contact our **24/7 SOC team** on the escalation phone number [(954)-324-4750](tel:\(954\)%20324-4750).
 
 ***
