@@ -27,7 +27,7 @@ To add an integration to your tenant, hover over the 'ADD' button in the upper r
 <figure><img src="../.gitbook/assets/Screenshot 2026-05-13 154315.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Specific integration information can be found in the [SIEM Integrations knowledge base](https://docs.threatdefence.com/siem-integrations/siem-integrations)
+Specific integration information can be found in the [SIEM Integrations knowledge base](https://cybrhawksoc.gitbook.io/cybrhawk-docs/siem-integrations/siem-integrations)
 {% endhint %}
 
 ***
@@ -61,3 +61,4 @@ Please note that removing an integration does **NOT** remove your data from the 
 ## 5. Having Trouble?
 
 If you're having any issues, don't hesitate to reach out to our support team. You can raise a support request via our Support Portal or email [**CybrHawk Support**](mailto:socv2@cybrhawk.com).
+

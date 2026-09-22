@@ -62,10 +62,10 @@
 
 * [Prerequisites](endpoint-agent/prerequisites.md)
 * [Installation Guides](endpoint-agent/installation-guides/README.md)
+  * [Mac Agent](endpoint-agent/installation-guides/mac-installation.md)
   * [Windows Agent](endpoint-agent/installation-guides/windows-installation.md)
   * [Deploying via MS Intune](endpoint-agent/installation-guides/deploying-via-intune.md)
   * [Linux Agent](endpoint-agent/installation-guides/linux-installation.md)
-  * [Mac Agent](endpoint-agent/installation-guides/mac-installation.md)
 * [Troubleshooting](endpoint-agent/troubleshooting/README.md)
   * [Agent Fails to Install](endpoint-agent/troubleshooting/troubleshooting-failed-agent-installations.md)
   * [Agent not Reporting Data](endpoint-agent/troubleshooting/agent-not-reporting-data.md)
