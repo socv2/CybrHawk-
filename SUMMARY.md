@@ -205,6 +205,7 @@
 * [Regular Review Calls](security-operations/regular-review-calls.md)
 * [SECOPS CONSOLE](security-operations/secops-console/README.md)
   * [Deception](security-operations/secops-console/deception.md)
+  * [AI](security-operations/secops-console/ai.md)
 
 ## SOC Analyst Guide
 
