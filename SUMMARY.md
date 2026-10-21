@@ -203,6 +203,8 @@
 * [Incident Response](security-operations/incident-response/README.md)
   * [IR Responsibilities](security-operations/incident-response/ir-responsibilities.md)
 * [Regular Review Calls](security-operations/regular-review-calls.md)
+* [SECOPS CONSOLE](security-operations/secops-console/README.md)
+  * [Deception](security-operations/secops-console/deception.md)
 
 ## SOC Analyst Guide
 

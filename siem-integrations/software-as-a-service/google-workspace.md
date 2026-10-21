@@ -11,7 +11,7 @@ This guide walks you through enabling the **G Suite Alert Center API**, creating
    * If no project exists, create one:
      * Click the **project dropdown** → **New Project**.
    * Select the newly created project and click **Open**.\
-     &#xNAN;_&#x54;ip: wait for the project creation notification to complete before proceeding._
+     _&#x54;ip: wait for the project creation notification to complete before proceeding._
 
 ***
 
