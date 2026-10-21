@@ -6,6 +6,8 @@ Most organisations now use AI tools every day, often without a clear record of w
 
 This playbook explains each page of the AI section, what the figures on it mean and where the data comes from.
 
+<figure><img src="../../.gitbook/assets/Screenshot 2026-10-21 at 12.46.34 PM.png" alt=""><figcaption></figcaption></figure>
+
 #### AI governance
 
 AI governance is the set of decisions and controls that keep AI use safe and accountable. It comes down to four questions:
